@@ -1,0 +1,1126 @@
+[
+	{
+		"planName":"Start",
+		"planIcon":"https://www.tap.company/wp-content/uploads/2018/10/Plans-Start-01.svg",
+		"planFeatures":[
+			{
+				"featureName":"Package",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Package Bundle",
+						"featureValue":"false"
+					}
+				]
+			},
+			{
+				"featureName":"Bills",
+				"featureValue":"30 / Month",
+				"featureSubValue":"150 Fils\non Additional Bills"
+			},
+			{
+				"featureName":"Users",
+				"featureValue":"1",
+				"featureSubValue":"KD 3.000\nAdditional User / Month"
+			},
+			{
+				"featureName":"Payments",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Local Debit Cards",
+						"featureValue":"2.75%\nplus 100 Fils"
+					},
+					{
+						"featureName":"Regional Credit Cards",
+						"featureValue":"3.75%\nplus 100 Fils"
+					},
+					{
+						"featureName":"Global Cards",
+						"featureValue":"4.75%\nplus 100 Fils"
+					}
+				]
+			},
+			{
+				"featureName":"Settlement",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Local Debit Cards",
+						"featureValue":"3 Days"
+					},
+					{
+						"featureName":"Local Credit Cards",
+						"featureValue":"5 Days"
+					},
+					{
+						"featureName":"Global Cards",
+						"featureValue":"5 Days"
+					}
+				]
+			},
+			{
+				"featureName":"Send Features",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Social Billing",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Discounts",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Select from Contacts",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Copy Bill’s Link",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Send Bills Abroad",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Multi-Currency",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Bill Breakdown",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Save a Bill",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Schedule a Bill",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Repeat a Bill",
+						"featureValue":"false"
+					}
+				]
+			},
+			{
+				"featureName":"Manage Features",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Pending Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Track Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Duplicate Bill",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Reminders",
+						"featureValue":"true",
+						"subFeatures":[
+							{
+								"featureName":"- via SMS",
+								"featureValue":"1"
+							},
+							{
+								"featureName":"- via Email",
+								"featureValue":"1"
+							}
+						]
+					},
+					{
+						"featureName":"Paid Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Receipts",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Cancelled Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Refunded Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Search Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"View Bills",
+						"featureValue":"true"
+					}
+				]
+			},
+			{
+				"featureName":"Items",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Saved Items",
+						"featureValue":"5"
+					},
+					{
+						"featureName":"Inventory",
+						"featureValue":"false"
+					}
+				]
+			},
+			{
+				"featureName":"App Features",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Dashboard",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Quick Actions",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Instagram",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Touch & Face ID",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"In App Chat",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Multiple Sign In",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Account Settings",
+						"featureValue":"true"
+					}
+				]
+			},
+			{
+				"featureName":"Security",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Risk",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Protection",
+						"featureValue":"true"
+					}
+				]
+			},
+			{
+				"featureName":"API Integration",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Send a Bill",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Check a Bill",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Check on a List of Bills",
+						"featureValue":"false"
+					}
+				]
+			},
+			{
+				"featureName":"Support",
+				"featureValue":"8am to 12am"
+			},
+			{
+				"featureName":"Refunds",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Local Debit Cards",
+						"featureValue":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)"
+					},
+					{
+						"featureName":"Local Credit Cards",
+						"featureValue":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)"
+					},
+					{
+						"featureName":"Global Cards",
+						"featureValue":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)"
+					}
+				]
+			},
+			{
+				"featureName":"Commitment",
+				"featureValue":"12 Months",
+				"featureSubValue":"No financial commitment during the commitment period even with any cancellation prior to the end of the commited period"
+			}
+		]
+	},
+	{
+		"planName":"Basic",
+		"planIcon":"https://www.tap.company/wp-content/uploads/2018/10/3d.svg",
+		"planFeatures":[
+			{
+				"featureName":"Package",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Package Bundle",
+						"featureValue":"false"
+					}
+				]
+			},
+			{
+				"featureName":"Bills",
+				"featureValue":"30 / Month",
+				"featureSubValue":"150 Fils\non Additional Bills"
+			},
+			{
+				"featureName":"Users",
+				"featureValue":"1",
+				"featureSubValue":"KD 3.000\nAdditional User / Month"
+			},
+			{
+				"featureName":"Payments",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Local Debit Cards",
+						"featureValue":"2.75%\nplus 100 Fils"
+					},
+					{
+						"featureName":"Regional Credit Cards",
+						"featureValue":"3.75%\nplus 100 Fils"
+					},
+					{
+						"featureName":"Global Cards",
+						"featureValue":"4.75%\nplus 100 Fils"
+					}
+				]
+			},
+			{
+				"featureName":"Settlement",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Local Debit Cards",
+						"featureValue":"3 Days"
+					},
+					{
+						"featureName":"Local Credit Cards",
+						"featureValue":"5 Days"
+					},
+					{
+						"featureName":"Global Cards",
+						"featureValue":"5 Days"
+					}
+				]
+			},
+			{
+				"featureName":"Send Features",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Social Billing",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Discounts",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Select from Contacts",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Copy Bill’s Link",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Send Bills Abroad",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Multi-Currency",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Bill Breakdown",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Save a Bill",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Schedule a Bill",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Repeat a Bill",
+						"featureValue":"false"
+					}
+				]
+			},
+			{
+				"featureName":"Manage Features",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Pending Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Track Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Duplicate Bill",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Reminders",
+						"featureValue":"true",
+						"subFeatures":[
+							{
+								"featureName":"- via SMS",
+								"featureValue":"1"
+							},
+							{
+								"featureName":"- via Email",
+								"featureValue":"1"
+							}
+						]
+					},
+					{
+						"featureName":"Paid Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Receipts",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Cancelled Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Refunded Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Search Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"View Bills",
+						"featureValue":"true"
+					}
+				]
+			},
+			{
+				"featureName":"Items",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Saved Items",
+						"featureValue":"5"
+					},
+					{
+						"featureName":"Inventory",
+						"featureValue":"false"
+					}
+				]
+			},
+			{
+				"featureName":"App Features",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Dashboard",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Quick Actions",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Instagram",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Touch & Face ID",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"In App Chat",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Multiple Sign In",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Account Settings",
+						"featureValue":"true"
+					}
+				]
+			},
+			{
+				"featureName":"Security",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Risk",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Protection",
+						"featureValue":"true"
+					}
+				]
+			},
+			{
+				"featureName":"API Integration",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Send a Bill",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Check a Bill",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Check on a List of Bills",
+						"featureValue":"false"
+					}
+				]
+			},
+			{
+				"featureName":"Support",
+				"featureValue":"8am to 12am"
+			},
+			{
+				"featureName":"Refunds",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Local Debit Cards",
+						"featureValue":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)"
+					},
+					{
+						"featureName":"Local Credit Cards",
+						"featureValue":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)"
+					},
+					{
+						"featureName":"Global Cards",
+						"featureValue":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)"
+					}
+				]
+			},
+			{
+				"featureName":"Commitment",
+				"featureValue":"12 Months",
+				"featureSubValue":"No financial commitment during the commitment period even with any cancellation prior to the end of the commited period"
+			}
+		]
+	},
+	{
+		"planName":"Advanced",
+		"planIcon":"https://www.tap.company/wp-content/uploads/2018/10/sparkles.svg",
+		"planFeatures":[
+			{
+				"featureName":"Package",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Package Bundle",
+						"featureValue":"false"
+					}
+				]
+			},
+			{
+				"featureName":"Bills",
+				"featureValue":"30 / Month",
+				"featureSubValue":"150 Fils\non Additional Bills"
+			},
+			{
+				"featureName":"Users",
+				"featureValue":"1",
+				"featureSubValue":"KD 3.000\nAdditional User / Month"
+			},
+			{
+				"featureName":"Payments",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Local Debit Cards",
+						"featureValue":"2.75%\nplus 100 Fils"
+					},
+					{
+						"featureName":"Regional Credit Cards",
+						"featureValue":"3.75%\nplus 100 Fils"
+					},
+					{
+						"featureName":"Global Cards",
+						"featureValue":"4.75%\nplus 100 Fils"
+					}
+				]
+			},
+			{
+				"featureName":"Settlement",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Local Debit Cards",
+						"featureValue":"3 Days"
+					},
+					{
+						"featureName":"Local Credit Cards",
+						"featureValue":"5 Days"
+					},
+					{
+						"featureName":"Global Cards",
+						"featureValue":"5 Days"
+					}
+				]
+			},
+			{
+				"featureName":"Send Features",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Social Billing",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Discounts",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Select from Contacts",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Copy Bill’s Link",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Send Bills Abroad",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Multi-Currency",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Bill Breakdown",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Save a Bill",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Schedule a Bill",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Repeat a Bill",
+						"featureValue":"false"
+					}
+				]
+			},
+			{
+				"featureName":"Manage Features",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Pending Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Track Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Duplicate Bill",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Reminders",
+						"featureValue":"true",
+						"subFeatures":[
+							{
+								"featureName":"- via SMS",
+								"featureValue":"1"
+							},
+							{
+								"featureName":"- via Email",
+								"featureValue":"1"
+							}
+						]
+					},
+					{
+						"featureName":"Paid Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Receipts",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Cancelled Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Refunded Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Search Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"View Bills",
+						"featureValue":"true"
+					}
+				]
+			},
+			{
+				"featureName":"Items",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Saved Items",
+						"featureValue":"5"
+					},
+					{
+						"featureName":"Inventory",
+						"featureValue":"false"
+					}
+				]
+			},
+			{
+				"featureName":"App Features",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Dashboard",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Quick Actions",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Instagram",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Touch & Face ID",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"In App Chat",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Multiple Sign In",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Account Settings",
+						"featureValue":"true"
+					}
+				]
+			},
+			{
+				"featureName":"Security",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Risk",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Protection",
+						"featureValue":"true"
+					}
+				]
+			},
+			{
+				"featureName":"API Integration",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Send a Bill",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Check a Bill",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Check on a List of Bills",
+						"featureValue":"false"
+					}
+				]
+			},
+			{
+				"featureName":"Support",
+				"featureValue":"8am to 12am"
+			},
+			{
+				"featureName":"Refunds",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Local Debit Cards",
+						"featureValue":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)"
+					},
+					{
+						"featureName":"Local Credit Cards",
+						"featureValue":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)"
+					},
+					{
+						"featureName":"Global Cards",
+						"featureValue":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)"
+					}
+				]
+			},
+			{
+				"featureName":"Commitment",
+				"featureValue":"12 Months",
+				"featureSubValue":"No financial commitment during the commitment period even with any cancellation prior to the end of the commited period"
+			}
+		]
+	},
+	{
+		"planName":"Pro",
+		"planIcon":"https://www.tap.company/wp-content/uploads/2018/10/business-color_businessman-03_icon-icons.com_53467.png",
+		"planFeatures":[
+			{
+				"featureName":"Package",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Package Bundle",
+						"featureValue":"false"
+					}
+				]
+			},
+			{
+				"featureName":"Bills",
+				"featureValue":"30 / Month",
+				"featureSubValue":"150 Fils\non Additional Bills"
+			},
+			{
+				"featureName":"Users",
+				"featureValue":"1",
+				"featureSubValue":"KD 3.000\nAdditional User / Month"
+			},
+			{
+				"featureName":"Payments",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Local Debit Cards",
+						"featureValue":"2.75%\nplus 100 Fils"
+					},
+					{
+						"featureName":"Regional Credit Cards",
+						"featureValue":"3.75%\nplus 100 Fils"
+					},
+					{
+						"featureName":"Global Cards",
+						"featureValue":"4.75%\nplus 100 Fils"
+					}
+				]
+			},
+			{
+				"featureName":"Settlement",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Local Debit Cards",
+						"featureValue":"3 Days"
+					},
+					{
+						"featureName":"Local Credit Cards",
+						"featureValue":"5 Days"
+					},
+					{
+						"featureName":"Global Cards",
+						"featureValue":"5 Days"
+					}
+				]
+			},
+			{
+				"featureName":"Send Features",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Social Billing",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Discounts",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Select from Contacts",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Copy Bill’s Link",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Send Bills Abroad",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Multi-Currency",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Bill Breakdown",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Save a Bill",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Schedule a Bill",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Repeat a Bill",
+						"featureValue":"false"
+					}
+				]
+			},
+			{
+				"featureName":"Manage Features",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Pending Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Track Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Duplicate Bill",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Reminders",
+						"featureValue":"true",
+						"subFeatures":[
+							{
+								"featureName":"- via SMS",
+								"featureValue":"1"
+							},
+							{
+								"featureName":"- via Email",
+								"featureValue":"1"
+							}
+						]
+					},
+					{
+						"featureName":"Paid Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Receipts",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Cancelled Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Refunded Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Search Bills",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"View Bills",
+						"featureValue":"true"
+					}
+				]
+			},
+			{
+				"featureName":"Items",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Saved Items",
+						"featureValue":"5"
+					},
+					{
+						"featureName":"Inventory",
+						"featureValue":"false"
+					}
+				]
+			},
+			{
+				"featureName":"App Features",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Dashboard",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Quick Actions",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Instagram",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Touch & Face ID",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"In App Chat",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Multiple Sign In",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Account Settings",
+						"featureValue":"true"
+					}
+				]
+			},
+			{
+				"featureName":"Security",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Risk",
+						"featureValue":"true"
+					},
+					{
+						"featureName":"Protection",
+						"featureValue":"true"
+					}
+				]
+			},
+			{
+				"featureName":"API Integration",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Send a Bill",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Check a Bill",
+						"featureValue":"false"
+					},
+					{
+						"featureName":"Check on a List of Bills",
+						"featureValue":"false"
+					}
+				]
+			},
+			{
+				"featureName":"Support",
+				"featureValue":"8am to 12am"
+			},
+			{
+				"featureName":"Refunds",
+				"featureValue":"",
+				"subFeatures":
+				[
+					{
+						"featureName":"Local Debit Cards",
+						"featureValue":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)"
+					},
+					{
+						"featureName":"Local Credit Cards",
+						"featureValue":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)"
+					},
+					{
+						"featureName":"Global Cards",
+						"featureValue":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)"
+					}
+				]
+			},
+			{
+				"featureName":"Commitment",
+				"featureValue":"12 Months",
+				"featureSubValue":"No financial commitment during the commitment period even with any cancellation prior to the end of the commited period"
+			}
+		]
+	}
+]

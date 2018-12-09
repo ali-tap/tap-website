@@ -1,0 +1,63 @@
+
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes smoothFade {
+    0%   {opacity:0; }
+    100% {opacity:1; }
+}
+
+/* Standard syntax */
+@keyframes smoothFade {
+    0%   {opacity:0; }
+    100% {opacity:1; }
+}
+
+.activatePage{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  -webkit-animation-name: smoothFade; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 0.3s; /* Safari 4.0 - 8.0 */
+  animation-name: smoothFade;
+  animation-duration: 0.3s;
+}
+
+.activatePageConetent{
+  margin: auto;
+}
+
+.activateProductImage{
+  width: 110px;
+  height: 110px;
+  box-shadow: 0px 0px 250px 30px rgba(255, 255, 255, 0.76);
+  border-radius: 25px;
+}
+
+.activateProductMessage{
+  color: #fff;
+}
+
+.productSquarePlaceHolder{
+  width: 110px;
+  height: 110px;
+  margin: auto;
+  border-radius: 25px;
+  padding: 15px;
+  transition: box-shadow 0.3s ease-in-out;
+  transition-delay: 0.3s;
+  transition-duration: 0.7s;
+}
+
+.productSquarePlaceHolder.productSquarePlaceHolderglow{
+  box-shadow: 0px 0px 250px 30px rgba(255, 255, 255, 0.76);
+}
+
+.myOpacityTransition.myHeightTransition{
+  transition: opacity 0.5s ease-in-out 0.5s, max-height 0.7s ease-in-out;
+  /* transition-duration: 1s; */
+}
+
+/* .myHeightTransition{
+  transition: max-height 0.3s ease-in-out;
+  transition-duration: 0.6s;
+} */

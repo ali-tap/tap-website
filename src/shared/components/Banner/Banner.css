@@ -1,0 +1,107 @@
+
+.banner {
+    width: 100%;
+    overflow: hidden;
+    min-height: 550px !important;
+}
+
+.bannerBackground {
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    background-size: 150%;
+    background-position: top 130px center;
+    background-repeat: no-repeat;
+	  display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flexContainer{
+	display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.bannerLayer{
+    padding-top: 30px;
+	  position: relative;
+    -webkit-transition: 0.4s ease-in-out;
+    -webkit-transition:  0.4s ease-in-out;
+    -o-transition:  0.4s ease-in-out;
+    transition: 0.4s ease-in-out;
+    width: 50%;
+    margin: auto;
+    z-index: 9;
+}
+
+.oneLayer{
+  width: 85%;
+}
+
+.bannerImage{
+	width: 85%;
+	height: auto;
+	z-index: 1;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+.bannerImage {
+  max-width: 390px;
+  height: auto;
+}
+
+.opacityZero{
+	opacity: 0;
+}
+
+@media screen and (max-width: 1200px) {
+	.bannerLayer{
+		width: 50%;
+	}
+  .oneLayer{
+    width: 85%;
+  }
+}
+
+@media screen and (max-width: 992px) {
+	.bannerLayer{
+	    padding-top: 0px;
+		margin:auto;
+		width: 100%;
+	}
+	.flexContainer{
+		width: 100%;
+		display: block;
+		height: auto;
+	}
+	.bannerImage {
+	    width: 55%;
+	    margin-left: auto;
+	    margin-right: auto;
+	}
+}
+
+@media screen and (max-width: 767px) {
+  .banner.maxContentHeight{
+    height: max-content !important;
+  }
+	.banner{
+	    padding-bottom: 60px;
+	    padding-top: 90px;
+	}
+	.bannerLayer{
+	    top: -20%;
+	}
+  .oneLayer{
+    width: 100%;
+  }
+	.bannerImage {
+	    width: 275px;
+	}
+}

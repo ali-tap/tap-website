@@ -1,0 +1,50 @@
+
+select::-ms-expand {
+    display: none;
+}
+
+.countryPicker {
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    background-color: #fff;
+    border-radius: 5px;
+    background-position: center;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    border: 0 !important;
+     -webkit-appearance: none !important;
+     -moz-appearance: none;
+     background-image: linear-gradient(red, orange);
+     z-index: 9;
+     color: transparent;
+}
+
+.SelectOption{
+	color: #454545;
+}
+
+.tapSelect{
+  background-color: #fff;
+  cursor: pointer;
+  border: 0;
+   -webkit-appearance: none !important;
+   -moz-appearance: none;
+   height: 46px;
+   width: 240px;
+   border-radius: 5px;
+   padding-right: 15px;
+   padding-left: 15px;
+}
+
+.selectWithArrow{
+  background-size: 17px;
+  background-repeat: no-repeat;
+  background-image: url(http://www.austinlawrencepartners.com/wp-content/uploads/arrow-down-gray-hi-600x380.png);
+  background-position: center right 15px;
+}
+
+[dir=rtl] .selectWithArrow{
+  background-position: center left 15px;
+}

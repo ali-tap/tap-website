@@ -1,0 +1,23 @@
+
+[
+	{
+		"title":{
+			"en":"Copyright © 2018 Tap Payments. All rights reserved.",
+			"ar":"جميع الحقوق محفوظة @ تاپ للدفع الإلكتروني"
+		}
+	},
+	{
+		"title":{
+			"en":"Terms & Conditions",
+			"ar":"سياسة الإستخدام"
+		},
+		"link":"/terms-conditions"
+	},
+	{
+		"title":{
+			"en":"Privacy Policy",
+			"ar":"سياسة الخصوصية"
+		},
+		"link":"/privacy-policy"
+	}
+]

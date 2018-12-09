@@ -1,0 +1,112 @@
+[
+	{
+		"product":"pay",
+		"title":
+		{
+			"en":"Bills? Paid. Subscriptions? Renewed.\nWorries? All Gone.",
+			"ar":"كل مدفوعاتك بدفعة واحدة"
+		},
+		"shortTitle":
+		{
+			"en":"Bills? Paid.\nWorries? All Gone.",
+			"ar":"مدفوعاتك\nفي دفعة واحدة!"
+		},
+		"actionType":"sms",
+		"placeholder":
+		{
+			"en":"Mobile Number",
+			"ar":"رقم الهاتف"
+		},
+		"buttonText":
+		{
+			"en":"Send a download link",
+			"ar":"أرسل رابط التحميل"
+		},
+		"linkText":
+		{
+			"en":"Download the app",
+			"ar":"حمّل التطبيق "
+		},
+		"link":{
+			"ios":"https://itunes.apple.com/us/app/gopay!/id1020065700"
+		}
+	},
+	{
+		"product":"collect",
+		"title":
+		{
+			"en":"Start Sending Bills\nand Collect Payments Easily",
+			"ar":"أرسل الفواتير وحصّل مدفوعاتك بسهولة"
+		},
+		"shortTitle":
+		{
+			"en":"The ease of online\nbuilt for offline",
+			"ar":" الإستخدام أونلاين\nحتى عندما تكون أوفلاين"
+		},
+		"actionTitle":
+		{
+			"en":"Please enter your mobile number",
+			"ar":"الرجاء إدخال رقم هاتفك"
+		},
+		"actionType":"sms",
+		"placeholder":
+		{
+			"en":"Mobile Number",
+			"ar":"رقم الهاتف"
+		},
+		"buttonText":
+		{
+			"en":"Send a download link",
+			"ar":"أرسل رابط التحميل"
+		},
+		"linkText":
+		{
+			"en":"Download the app",
+			"ar":"حمّل التطبيق "
+		},
+		"link":{
+			"ios":"https://itunes.apple.com/us/app/gocollect!/id1157951837?ls=1&mt=8",
+			"android":"https://play.google.com/store/apps/details?id=tap.gocollect"
+		}
+	},
+	{
+		"product":"sell",
+		"title":
+		{
+			"en":"Start Accepting Online Payments\non your App or Website",
+			"ar":"استقبل المدفوعات\nعلى التطبيق الخاص بك\nأو على موقعك الإلكتروني"
+		},
+		"shortTitle":
+		{
+			"en":"Try the Tap advantage",
+			"ar":"جرّب مميّزات تاپ"
+		},
+		"actionType":"link",
+		"linkText":
+		{
+			"en":"Open an account",
+			"ar":"افتح حساباً"
+		},
+		"link":"/register"
+	},
+	{
+		"product":"tap",
+		"title":
+		{
+			"en":"goTap\nGo Everywhere",
+			"ar":"goTap\nعملك في كل مكان"
+		},
+		"shortTitle":
+		{
+			"en":"goTap\nGo Everywhere",
+			"ar":"goTap\nعملك في كل مكان"
+		},
+		"actionType":"link",
+		"linkText":
+		{
+			"en":"Grab your device",
+			"ar":"اطلب جهازك"
+		},
+		"link":"/order"
+	}
+]

@@ -1,0 +1,2220 @@
+{
+	"name":{
+		"en":"Features",
+		"ar":"المميّزات"
+	},
+	"items":[
+	{
+	"product": "sell",
+	"categories":
+		[
+			{
+				"categoryName":
+				{
+					"en":"Acceptance",
+					"ar":"قبول"
+				},
+				"showMoreButtonText":
+				{
+					"en":"more acceptance features",
+					"ar":"المزيد من مميزات القبول"
+				},
+				"showLessButtonText":
+				{
+					"en":"Show Less",
+					"ar":"أظهر أقل"
+				},
+				"items":
+				[
+					{
+						"title":
+						{
+							"en":"Local, Regional & Global Card Acceptance",
+							"ar":"قبول البطاقات المحلية والإقليمية والدولية"
+						},
+						"subtitle":
+						{
+							"en":"Accept everything",
+							"ar":"نقبل جميع أنواع البطاقات"
+						},
+						"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-01-300x300.png",
+						"description":
+						{
+							"en":"Through Tap, your customers now have the option of paying with their preferred local card, a regional card, or even with an international credit card. Our Charge API allows them to pay for any of your listed products and services in a snap. Whether that’s through KNET, Benefit, Mada, Sadad, Visa, MasterCard, or  American Express. From now on, the only thing you won’t accept is ‘no’ for an answer.",
+							"ar":"من خلال شركة تاب، يتمتع عملائك الآن بخيار الدفع عن طريق بطاقتهم المحلية أو الإقليمية المفضلة أو حتى عن طريق بطاقة الإئتمان الدولية. واجهة برمجة التطبيقات الخاصة بالشحن تمكنهم من دفع ثمن أي من المنتجات المُدرجة والخدمات في لحظة.  سواءا كانت عملية الدفع عن طريق الكي نت أو بنفت أو مدى أو سداد أو فيزا أو ماستر كارد أو أمريكان إكسبريس. ومن الآن فصاعدا، الأمر الوحيد الذي لن تقبله هو الإجابة بكلمة 'لا'."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/illustration-all-payments.png"
+					},
+					{
+						"title":
+						{
+							"en":"Charge",
+							"ar":"مصاريف الدفع"
+						},
+						"subtitle":
+						{
+							"en":"An API for the modern age",
+							"ar":"واجهة برمجة تطبيقات تناسب العصر الحديث"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/10/icon-Charge.png",
+						"description":
+						{
+							"en":"We’re proud to introduce the first and only technology that allows businesses to perform an online payment using a single API endpoint action for any type of local, regional, or global card payment in the MENA region. That means a much simpler development experience on the back-end, with a smoother customer experience on the front-end.",
+							"ar":"نشعر بالفخر لطرح التقنية الأولى والوحيدة التي تسمح للشركات بتنفيذ عملية الدفع عبر الإنترنت باستخدام إجراء نقطة نهاية واجهة برمجة التطبيقات لأي نوع من بطاقات الدفع المحلية أو الإقليمية أو الدولية داخل منطقة الشرق الأوسط وشمال أفريقيا. وهذا يُعني أن تجربة تطوير أكثر بساطة فيما يخص الواجهة النهائية وتجربة أكثر سلاسة من العميل فيما يخص الواجهة الأمامية."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_Charge.png"
+					},
+					{
+						"title":
+						{
+							"en":"Authorize",
+							"ar":"التصريح"
+						},
+						"subtitle":
+						{
+							"en":"Put your funds on lockdown",
+							"ar":"قم بوضع أموالك في إقفال تام"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/10/icon-Authotize.png",
+						"description":
+						{
+							"en":"Take control of your cash flow through our insured authorization process. Now you can block an amount on your supported cards to keep for later use, and you can insure higher customer satisfaction while performing online order fulfillments and logistics.",
+							"ar":" تحكم في تدفق أموالك النقدية من خلال عملية الموافقة المؤمنة. الآن يمكنك حجز مبلغ من بطاقاتك المدعومة والإحتفاظ به من أجل استخدامه فيما بعد، كما يمكنك ضمان رضاء العملاء أثناء تنفيذ شروط الطلب وتجهيزاته عبر الإنترنت."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_Authorize.png"
+					},
+					{
+						"title":
+						{
+							"en":"Multi-Currency",
+							"ar":" العملات المتعددة"
+						},
+						"subtitle":
+						{
+							"en":"Go international",
+							"ar":"التوجه إلى المستوى الدولي"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/11/multi-currency-goCollect.png",
+						"description":
+						{
+							"en":"Tap’s payment gateways supports multi-currency charging for all GCC currencies plus the Egyptian Pound along with major global currencies such as the USD, Euro & GBP. You can be an international business-owner, right from where you are.",
+							"ar":"تدعم ممرات الاتصال بالشبكات الخاصة بشركة تاب العملات المتعددة المفروضة على جميع عملات مجلس التعاون لدول الخليج العربية بالإضافة إلى الجنية المصري والعملات الدولية الرئيسة مثل الدولار الأمريكي واليورو والجنية الإسترليني. ويمكنك أن تُصبح صاحب شركة دولية من مكانك الذي تتواجد فيه."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_MultiCurrency.png"
+					},
+					{
+						"title":
+						{
+							"en":"Dynamic Currency Converter (DCC)",
+							"ar":"محول العملات الديناميكي "
+						},
+						"subtitle":
+						{
+							"en":"On-the-spot conversions",
+							"ar":"تحويلات فورية"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/10/icon-DCC.png",
+						"description":
+						{
+							"en":"Stay in the know about the latest currency conversion rate, without any extra research. Our payment gateways gives the business and the customer a chance to choose their currency of preference along with the currency conversion rate at the time of the transaction.",
+							"ar":"ابقى على معرفة بآخر سعر تحويل للعملة دون مزيد من البحث.إذ  تُعطي ممرات الاتصال بالشبكات الخاصة بنا الشركات والعميل حرية اختيار العملة المفُضلة مصحوبة بسعر تحويل العملة وقت إجراء المعاملة."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_DCC.png"
+					},
+					{
+						"title":
+						{
+							"en":"Card Saving",
+							"ar":"......."
+						},
+						"subtitle":
+						{
+							"en":"Zoom through checkouts!",
+							"ar":"......."
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/10/icon-Card-Saving.png",
+						"description":
+						{
+							"en":"Now you can give customers the option to save their card information once they complete a transaction. It’ll make for a speedy, easy, and super secure payment experience the next time they check out.",
+							"ar":"......."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_Card_Saving.png"
+					},
+					{
+						"title":
+						{
+							"en":"Schedule",
+							"ar":"......."
+						},
+						"subtitle":
+						{
+							"en":"Schedule tomorrow’s payments today",
+							"ar":"......."
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/10/icon-Schedule.png",
+						"description":
+						{
+							"en":"Got an advance payment coming up? Check it off your to-do list today by scheduling the payment in advance. You can even choose to authorize (block) the amount of the transaction before capturing it on a scheduled date.",
+							"ar":"......."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_Schedule.png"
+					},
+					{
+						"title":
+						{
+							"en":"Subscriptions",
+							"ar":"......."
+						},
+						"subtitle":
+						{
+							"en":"Hassle free renewals",
+							"ar":"......."
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/10/icon-Subscription.png",
+						"description":
+						{
+							"en":"Everyone loves a recurring service subscription. The only thing we don’t love? Having to hassle with the monthly renewals. That’s why we allow you to provide your customers with the option to auto-renew subscription payment services. They’ll get a seamless month-to-month service, and you’ll get paid on the fly.",
+							"ar":"......."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_Subscription.png"
+					}
+				]
+			},
+			{
+				"categoryName":
+				{
+					"en":"Integration",
+					"ar":"الدمج"
+				},
+				"showMoreButtonText":
+				{
+					"en":"more integration features",
+					"ar":"المزيد من مميزات الدمج"
+				},
+				"showLessButtonText":
+				{
+					"en":"Show Less",
+					"ar":"أظهر أقل"
+				},
+				"items":
+				[
+					{
+						"title":
+						{
+							"en":"Single API Integration",
+							"ar":"......."
+						},
+						"subtitle":
+						{
+							"en":"For The Advanced Pros",
+							"ar":"للمحترفين"
+						},
+						"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-07-300x300.png",
+						"description":
+						{
+							"en":"If you’re looking for a little more customization on your Tap gateway, your own developer can easily access the API to make all the desired tweaks without a hitch. Our API documentation is simple to integrate and is available in multiple language codes including PHP, JAVA, and .NET.",
+							"ar":"إذا كنت تبحث عن إضفاء لمسة خاصة على حسابك في تاپ يمكن للمطوّر لديك الدخول إلى API لإجراء جميع التعديلات التي ترغب بها وتصميمها وفق رغباتك بسهولة فائقة. ملفات API الخاصة بنا بسيطة جداً ويسهل الإندماج فيها كما أنها متوفّرة بلغات رموز متعدّدة تتضمّن PHP ،JAVA و NET."
+						},
+						"image":"https://www.tap.company/featuresImages/WI-API4-444x355.png"
+					},
+					{
+						"title":
+						{
+							"en":"Mobile SDK",
+							"ar":"......."
+						},
+						"subtitle":
+						{
+							"en":"Your app + the power of Tap",
+							"ar":"......."
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/10/icon-Mobile-SDK.png",
+						"description":
+						{
+							"en":"Building an iOS or Android app for your business? We’ll help you simplify your API integrations by adopting Tap’s Mobile SDK’s without the lengthy process of API implementation. Not only will it save you a ton of time and work but you’ll also get to take advantage of some powerful Tap features right out of the box. Features such as Local, Regional, & Global Card Acceptance; Multi-Currency; Dynamic Currency Converter (DCC); Card Saving; and Subscriptions.",
+							"ar":"......."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_MobileSDK.png"
+					},
+					{
+						"title":
+						{
+							"en":"Beginner-Friendly Plugins",
+							"ar":"دمج فوري للمبتدئين"
+						},
+						"subtitle":
+						{
+							"en":"100% Newbie Proofed",
+							"ar":"ابتكار جديد 100%"
+						},
+						"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-06-300x300.png",
+						"description":
+						{
+							"en":"You don’t need to be a computer wizard to connect your website to Tap. An average person can easily activate our single-setup plugin within just a few minutes. Our plugin is 100% compatible with the world’s most popular e-commerce platforms and systems, including WordPress, Magento, OpenCart, PrestaShop, and Shopify. So all you have to worry about is selling awesome products.",
+							"ar":"ليس عليك أن تكون خبيراً في الكومبيوتر كي تصل موقعك الإلكتروني بتطبيق تاپ. فأي شخص عادي يمكنه تفعيل الشراكة بين الجهتين خلال دقائق معدودة. شبكتنا موصوله 100% مع أكبر منصات وبرامج العمليات المالية والتجارية الإلكترونية بما فيها، وورد برس، ماغينتو، أوبن كارت، بريستا شوب وشوبي في. لذا فإنّ كل ما عليك أن تقلق بشأنه هو بيع منتجات رائعة!"
+						},
+						"image":"https://www.tap.company/featuresImages/WI-plugins2-444x355.png"
+					}
+				]
+			},
+			{
+				"categoryName":
+				{
+					"en":"Operations",
+					"ar":"عمليات"
+				},
+				"showMoreButtonText":
+				{
+					"en":"more operations features",
+					"ar":"المزيد من مميزات العمليات"
+				},
+				"showLessButtonText":
+				{
+					"en":"Show Less",
+					"ar":"أظهر أقل"
+				},
+				"items":
+				[
+					{
+						"title":
+						{
+							"en":"Receipts",
+							"ar":"......."
+						},
+						"subtitle":
+						{
+							"en":"Paper-free recordkeeping",
+							"ar":"......."
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2017/03/statements-receipts.png",
+						"description":
+						{
+							"en":"Your business has the option of sending an email or an SMS receipt to your customer after a successful payment. And if you need to access it later, it’ll be available on record for any historical purposes.",
+							"ar":"......."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_Receipts-1.png"
+					},
+					{
+						"title":
+						{
+							"en":"Refunds",
+							"ar":"......."
+						},
+						"subtitle":
+						{
+							"en":"Super simple refunds",
+							"ar":"......."
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/refund-bill-goCollect.png",
+						"description":
+						{
+							"en":"Refunds have always been tricky business, but with goCollect it's an easy fix. A single click is all it takes. Not only does goCollect help you with the refunding process, but now you also have a detailed picture of all past refunds at a glance.",
+							"ar":"......."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_Refund_transparent-2.gif"
+					},
+					{
+						"title":
+						{
+							"en":"Customers",
+							"ar":"......."
+						},
+						"subtitle":
+						{
+							"en":"Keep your data organized",
+							"ar":"......."
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/10/icon-Customer.png",
+						"description":
+						{
+							"en":"We let you link the payments performed by customers to a unique customer account. It’ll make managing future payments and providing customer support a lot easier to handle.",
+							"ar":"......."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_Customer-1.png"
+					},
+					{
+						"title":
+						{
+							"en":"Security",
+							"ar":"الحماية والأمان"
+						},
+						"subtitle":
+						{
+							"en":"Protection You Can Trust",
+							"ar":"حماية تثق بها"
+						},
+						"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-08-300x300.png",
+						"description":
+						{
+							"en":"There’s nothing our team takes more seriously than keeping you and your business safe while using Tap. That’s why we’ve outfitted our entire system with banking-industry security levels and encryption protocols, as well as remaining compliant with global PCI DSS security standards. At Tap, we have an unwavering commitment to your peace of mind, and that starts with keeping your business completely safe online. That’s a promise.",
+							"ar":"فريق عملنا يضع في سلّم أولوياته حماية أعمالك عند استخدامك تاپ. لذلك أنشأنا برنامجنا تماماً وفقاً لمعايير السلامة البنكية وبروتوكول الحماية المتعارف عليه كما أننا ندعم معايير السلامة العالمية وفق برنامج PCI DSS. في تاپ، نلتزم براحة بالك ونعرف جيّدا ً أن تحقيق ذلك يبدأ بضمان سلامة أعمالك الإلكترونية وحمايتها. وهذا وعدنا."
+						},
+						"image":"https://www.tap.company/featuresImages/WI-security2-444x355.png"
+					}
+				]
+			},
+			{
+				"categoryName":
+				{
+					"en":"My Account",
+					"ar":"حسابي"
+				},
+				"showMoreButtonText":
+				{
+					"en":"more account features",
+					"ar":"المزيد من مميزات الحساب"
+				},
+				"showLessButtonText":
+				{
+					"en":"Show Less",
+					"ar":"أظهر أقل"
+				},
+				"items":
+				[
+					{
+						"title":
+						{
+							"en":"Flexible Banking Options",
+							"ar":"خيارات بنكية مرنة"
+						},
+						"subtitle":
+						{
+							"en":"Well Connected & Well Served",
+							"ar":"تواصل وخدمة مميّزة"
+						},
+						"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-02-300x300.png",
+						"description":
+						{
+							"en":"Tap is connected with every single bank in Kuwait. That means you can easily link your Tap gateway to your favorite bank account and start receiving payments instantly. You also have total freedom to switch from one bank to another anytime you wish while using Tap. No hold up, no grunt work, and absolutely no obligations.",
+							"ar":"يرتبط تاپ مع جميع البنوك العاملة في الكويت وهذا يعني أنه بإمكانك استخدام تاپ كوسيلة لدخول حسابك المصرفي وتحويل الأموال مباشرة إلى رصيدك. كما يمكنك الانتقال من أي مصرف إلى آخر عبر استخدامك تاپ. لا انتظار، لا عمل مضني ولا التزامات."
+						},
+						"image":"https://www.tap.company/featuresImages/WI-flex-banking-option7-444x355.png",
+						"partner":"none"
+					},
+					{
+						"title":
+						{
+							"en":"Same Day Activation",
+							"ar":"تفعيل في اليوم نفسه"
+						},
+						"subtitle":
+						{
+							"en":"Start Selling Now",
+							"ar":"ابدأ بيع منتجاتك الآن"
+						},
+						"icon":"https://www.tap.company/kw//wp-content/uploads/sites/38/2015/10/goSellColoured-icons-03-300x300.png",
+						"description":
+						{
+							"en":"Set up, connect, and sell in less than 24 hours. Our online registration system smoothly guides you through all the required steps, and helps you get your payment gateway up and running in record time. A little more old-school? No problem. Our team of dedicated onboarding assistants is happy to get on the phone with you and get you activated as soon as possible.",
+							"ar":"أنشىء حسابك، تواصل وابدأ ببيع منتجك خلال 24 ساعة فقط. فبرنامج التسجيل السلس يرشدك إلى إنجاز جميع الخطوات بسهولة وسرعة ويساعدك على الحصول على مستحقاتك المالية في وقت غير مسبوق. تشعر بأن كل ذلك جديد بالنسبة إليك؟ لا تقلق. طاقمنا من المساعدين المكرّس لخدمتك سيسعده التحدث معك وإتمام عملية تفعيل حسابك بأسرع وقت ممكن."
+						},
+						"image":"https://www.tap.company/featuresImages/WI-activation2-444x355.png"
+					},
+					{
+						"title":
+						{
+							"en":"Statements & Receipts",
+							"ar":"كشف الحساب والإيصالات"
+						},
+						"subtitle":
+						{
+							"en":"Half The Paperwork, Double The Efficiency",
+							"ar":"فعالية أكثر بمعاملات أقل"
+						},
+						"icon":"https://www.tap.company/kw//wp-content/uploads/sites/38/2015/10/goSellColoured-icons-04-300x300.png",
+						"description":
+						{
+							"en":"Tap’s user dashboard gives you full access to your entire transaction history, and provides soft copies of all your receipts for easy printing. Now you can cut down on the paper trail and double up on the productivity. It’s a win-win: for the environment and for your sanity.",
+							"ar":"يمكنك بفضل لوحة التحكم بحسابك الدخول إلى تاريخ العمليات بالكامل والحصول على نسخ إلكترونية من إيصالاتك التي يسهل طباعتها. الآن أصبح بإمكانك توفير الوقت والجهد من المعاملات والأوراق الكثيرة واستبدال ذلك بإنتاجية أكبر. إنّها صفقة رابحة للجميع: لك وللبيئة على السواء."
+						},
+						"image":"https://www.tap.company/featuresImages/website-illustrations-draft1-444x355.png"
+					},
+					{
+						"title":
+						{
+							"en":"Analytics & History",
+							"ar":"إحصائيات للمبيعات"
+						},
+						"subtitle":
+						{
+							"en":"Data That Matters To Business",
+							"ar":"البيانات التي تفيد أعمالك"
+						},
+						"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-05-300x300.png",
+						"description":
+						{
+							"en":"Tap’s analytics dashboard can tell you what’s driving the most effective sales outcomes for your business and what areas you need to focus on most. We also organize each customer’s payment history for you to review in detail whenever you need it. We’ll bring the tools; you bring the drive.",
+							"ar":"تقدّم لك لوحة التحكم بحساب تاپ تحليلات تخبرك بأكثر العمليات التسويقية تأثيراً لجهة الدخل في السوق وما هي المجالات التي عليك التركيز عليها أكثر. كما ننظم تاريخ دفوعات كل عميل لديك كي تتمكن من الاطلاع عليها بالتفصيل في أي وقت. نحن نؤمّن لك كل الوسائل لتنطلق…وأنت عليك أن تقود."
+						},
+						"image":"https://www.tap.company/featuresImages/WI-analytics1-444x355.png"
+					},
+					{
+						"title":
+						{
+							"en":"All Businesses Welcome",
+							"ar":"جميع الأعمال التجارية"
+						},
+						"subtitle":
+						{
+							"en":"The big, the small, and the in-between",
+							"ar":"الصغيرة، الكبيرة والمتوسطة"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/icon-scan.png",
+						"description":
+						{
+							"en":"At Tap, everyone’s welcome. Our system is built to fit the unique needs and demands of every business, regardless of size or operations. Among our list of favorite Tap users you’ll find mega-giants like OSN, Viva, and Bein Sports, right alongside some awesome home businesses and SMEs like Khaleejesque Magazine, The Walk In Closet, and Cake District. Ready to jump on-board?",
+							"ar":"أهلاً بالجميع في تاپ. برنامجنا مصمم ليلائم احتياجات ومتطلبات جميع الشركات بغض النظر عن حجم المؤسسة وطبيعة عملها. ستجد ضمن قائمة عملائنا المفضّلين OSN ،VIVA ،Bein Sports إلى جانب العديد من المؤسسات المنزلية الصغيرة والمجلات أو المطبوعات الإلكترونية مثال مجلة Khaleejesque ،The WalK In Closet و Cake District. مستعد للإنضمام إلينا؟"
+						},
+						"image":"https://www.tap.company/featuresImages/WI-business3-444x355.png",
+						"partner":"none"
+					},
+					{
+						"title":
+						{
+							"en":"Dedicated Support",
+							"ar":"دعم مخصّص"
+						},
+						"subtitle":
+						{
+							"en":"Questions? Don’t Be Shy",
+							"ar":"لديك أسئلة؟ لا تتردّد"
+						},
+						"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-10-300x300.png",
+						"description":
+						{
+							"en":"Whether it’s set-up, integration, or follow-through—if you’ve ever got a problem, you can count on Tap for the solution. We do our best to make sure that you can keep working at your best. As your dedicated support team, we’re always here for you—just try us.",
+							"ar":"سواء أردت إنشاء حساب، دمج أو متابعة حسابك – أو واجهتك أي مشكلة يمكنك الاعتماد علينا، فنحن في تاپ نقدّم لكل مشكلة حل لنضمن استمرارية عملك بأفضل حال. طاقمنا المكرّس لخدمتك مستعد دائماً لمساعدتك. جرّبنا."
+						},
+						"image":"https://www.tap.company/featuresImages/WI-support2-444x355.png"
+					},
+					{
+						"title":
+						{
+							"en":"Multiple User Accounts",
+							"ar":"........"
+						},
+						"subtitle":
+						{
+							"en":"Team Friendly Systems",
+							"ar":"........"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/Multi-account-300x300.png",
+						"description":
+						{
+							"en":"Big team? No worries! Now you can give multiple users access to your account and allow each team member the power to perform their payment activities separately. You’ll still have a complete overview of all the user activity as the admin.",
+							"ar":"........"
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_Multi_user_account.png"
+					}
+				]
+			},
+			{
+				"categoryName":
+				{
+					"en":"Protect",
+					"ar":"حماية"
+				},
+				"showMoreButtonText":
+				{
+					"en":"more protect features",
+					"ar":"المزيد من مميزات الحماية"
+				},
+				"showLessButtonText":
+				{
+					"en":"Show Less",
+					"ar":"أظهر أقل"
+				},
+				"items":
+				[
+					{
+						"title":
+						{
+							"en":"Risk",
+							"ar":"........"
+						},
+						"subtitle":
+						{
+							"en":"Hyper intelligent risk detection",
+							"ar":"......"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/10/icon-risk.png",
+						"description":
+						{
+							"en":"Our robust solution detects all the necessary risk measures that need to be taken while performing transactions and identifies the risk level of every transaction -- whether it was made on mobile, tablet or PC. Not only that, but it adapts and evolves it’s intelligence mechanisms based on the behaviour of your business over time. It’s a security system you can count on no matter what.",
+							"ar":"........"
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_Risk.png"
+					},
+					{
+						"title":
+						{
+							"en":"Protection",
+							"ar":"........"
+						},
+						"subtitle":
+						{
+							"en":"Above and beyond security",
+							"ar":"......"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/10/icon-Protection.png",
+						"description":
+						{
+							"en":"In addition to risk detection, our safeguarding tools have the option to process risk-free transactions, and to automatically prevent payments that cross the permitted risk levels. We’re even happy to send over a specialized team from Tap to assist your business in protecting against cyber payment fraud, for that extra level of safety and assurance. ",
+							"ar":"......."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_Protection.png"
+					},
+					{
+						"title":
+						{
+							"en":"Authentication",
+							"ar":"........"
+						},
+						"subtitle":
+						{
+							"en":"Be 100% Assured",
+							"ar":"......."
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/10/icon-Authentication.png",
+						"description":
+						{
+							"en":"In high-risk payment situation, customer identity can be required in order to validate specific types of transactions. Our authentication process protects you from potential fraud attempts by giving you time to check with a customer’s ID, whenever a high-risk situation arises.",
+							"ar":"........."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_Authentication.png"
+					},
+					{
+						"title":
+						{
+							"en":"Card",
+							"ar":"......."
+						},
+						"subtitle":
+						{
+							"en":"Advanced Card Monitoring",
+							"ar":"......."
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/10/icon-Card.png",
+						"description":
+						{
+							"en":"As more people are exposed to theft and fraud, risk can extend to different types of cards as well. Our card risk activity monitor helps us manage trusted sources of funds via cards that are issued locally, regionally, and globally including debit, credit, prepaid & charge cards, and e-wallets. It keeps us one step ahead of any oncoming security threats.",
+							"ar":"........."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_Card.png"
+					},
+					{
+						"title":
+						{
+							"en":"Product",
+							"ar":"......."
+						},
+						"subtitle":
+						{
+							"en":"Automatically secure payments",
+							"ar":"........"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/10/Product.png",
+						"description":
+						{
+							"en":"Additional measures of risk can be associated with intangible items or financial digital tools. In that case, secure payment settings are automatically enabled -- all based on the type of products and related sales behavior within the business.",
+							"ar":"........"
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_Product2.png"
+					},
+					{
+						"title":
+						{
+							"en":"IP Address",
+							"ar":"......."
+						},
+						"subtitle":
+						{
+							"en":"Location-based sale options",
+							"ar":"......."
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/10/icon-IP-Address.png",
+						"description":
+						{
+							"en":"All of our transactions are channeled through IP addresses. As a business owner, you have the power to permit and block the sales channels of your choice according to the location of your customers.",
+							"ar":"........"
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_IP_Address.png"
+					},
+					{
+						"title":
+						{
+							"en":"Billing Address",
+							"ar":"........"
+						},
+						"subtitle":
+						{
+							"en":"Better address verifications",
+							"ar":"........"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/10/icon-Billing-address.png",
+						"description":
+						{
+							"en":"Tap gives you the power to reduce risk possibility by requiring the verification of billing addresses associated with your customer’s card. This feature is available to cardholders in specific regions such as the US.",
+							"ar":"........"
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_Billing_Address.png"
+					}
+				]
+			},
+			{
+				"categoryName":
+				{
+					"en":"Device",
+					"ar":"جهازي"
+				},
+				"showMoreButtonText":
+				{
+					"en":"more device features",
+					"ar":"المزيد من مميزات جهازي"
+				},
+				"showLessButtonText":
+				{
+					"en":"Show Less",
+					"ar":"أظهر أقل"
+				},
+				"partners":["zain"],
+				"items":
+				[
+					{
+						"title":
+						{
+							"en":"Router",
+							"ar":"محول"
+						},
+						"subtitle":
+						{
+							"en":"Online, all the time",
+							"ar":"........."
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/09/icon-zain-Router.png",
+						"description":
+						{
+							"en":"Zain will set you and your entire team up with a high speed WiFi router device to keep everyone in the office connected -- all day, every day. You’ll never have to worry about losing a connection as long as you work.",
+							"ar":"........."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_Router.png"
+					},
+					{
+						"title":
+						{
+							"en":"Wifi",
+							"ar":"Wifi"
+						},
+						"subtitle":
+						{
+							"en":"Everyone’s covered",
+							"ar":"........."
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/09/icon-zain-Wifi.png",
+						"description":
+						{
+							"en":"When it comes to Zain’s WiFi coverage, everyone’s getting a good deal. Go ahead and enjoy office WiFi coverage for up to 100 users at the same time.",
+							"ar":"........."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain_Sell_Wifi.png"
+					},
+					{
+						"title":
+						{
+							"en":"LTE",
+							"ar":"LTE"
+						},
+						"subtitle":
+						{
+							"en":"Turbo-powered Internet",
+							"ar":"........."
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/09/icon-zain-LTE.png",
+						"description":
+						{
+							"en":"With Zain’s 500GB of storage and high speed LTE internet, you’ll never miss a beat of work again. After all, business travels fast -- so why shouldn’t you?",
+							"ar":"........."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain-goCollect-LTE_.png"
+					}
+				]
+			}
+		]
+	},
+	{
+	"product": "collect",
+	"categories":
+		[
+			{
+				"categoryName":
+				{
+					"en":"Send Bills",
+					"ar":"إرسال الفواتير"
+				},
+				"showMoreButtonText":
+				{
+					"en":"more send bill features",
+					"ar":"المزيد من مميزات إرسال الفواتير"
+				},
+				"showLessButtonText":
+				{
+					"en":"Show Less",
+					"ar":"أظهر أقل"
+				},
+				"items":
+				[
+					{
+						"title":
+						{
+							"en":"Send Bills",
+							"ar":"إرسال فاتورة"
+						},
+						"subtitle":
+						{
+							"en":"Super Simple Billing",
+							"ar":"إنشاء أسهل وتحصيل أسرع"
+						},
+						"icon":"https://www.tap.company/productsFeaturesImages/goCollect/Icons/Send-bill.png",
+						"description":
+						{
+							"en":"Welcome to the world of 2-step billing. All you’ve got to do is click the ‘+’ sign (or give your phone a little shake!), input your bill amount… and voila! Your bill’s all ready to send.",
+							"ar":"يمكنك إرسال الفواتير إلى عملائك وتحصيل مدفوعاتك بشكل محترف وسهل وسريع عبر تطبيق goCollect بخطوتين فقط! قم بإدخال مبلغ الفاتورة والوصف أولاً، ومن ثم قم بإدخال بيانات العميل وإرسال الفاتورة بكل سهولة. وعندها سيستلم العميل رسالة نصية قصيرة (SMS) و/ أو بريداً الكترونياً من تاب يحتويان على تفاصيل الفاتورة مع رابط يوفِّر لعملائك خيارات دفع متعددة."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/Send_a_bill.png"
+					},
+					{
+						"title":
+						{
+							"en":"Share a Bill",
+							"ar":"مشاركة الفاتورة"
+						},
+						"subtitle":
+						{
+							"en":"Custom-Built Sharing for a Custom-Built Business",
+							"ar":"تعدد الخيارات لمرونة أكبر"
+						},
+						"icon":"https://www.tap.company/productsFeaturesImages/goCollect/Icons/Share.png",
+						"description":
+						{
+							"en":"With goCollect you can send your bills your way. Email, Messages, WhatsApp, Viber, Facebook — goCollect’s integrated with all your favorite communication apps for you to share from. Even better? We repopulate the bill’s content for your purposes and allow you to edit it however you like.",
+							"ar":"تم إعداد آلية إرسال الفواتير عبر تطبيق goCollect لتتلاءم مع جميع وسائل التواصل لمشاركة الفواتير مع العملاء. فيمكنك مشاركة الفاتورة عبر وسائل التواصل المختلفة مثل (البريد الإلكتروني – الواتس آب – فايبر – تويتر – فيسبوك – ماسنجر – إلخ…)، وأيضاً يمكنك تعديل نص الرسالة إن شئت، لمرونة وسهولة أكثر."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/Share_bill.png"
+					},
+					{
+						"title":
+						{
+							"en":"Select from Contacts",
+							"ar":"اختر من جهات الاتصال"
+						},
+						"subtitle":
+						{
+							"en":"Bye-Bye Manual. Hello Automated.",
+							"ar":"إدخال سريع لوقت أوفر"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/11/select-a-contact-goCollect.png",
+						"description":
+						{
+							"en":"Already got your client’s contact info saved in your address book? Shave off valuable time by importing their info into your bill with one click. Bye-bye manual entry.",
+							"ar":"لا حاجة بعد الآن لإدخال الاسم، ورقم الهاتف، والبريد الإلكتروني للعميل يدويًا، إذ يمكنك من خلال تطبيق goCollect إرسال الفاتورة عن طريق إدخال مبلغ الفاتورة والوصف ثم اختيار أي جهة من جهات قائمة الاتصال المخزنة بهاتفك، ومن ثم إرسالها بضغطة واحدة."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/Select_a_contact.png"
+					},
+					{
+						"title":
+						{
+							"en":"Items",
+							"ar":"منتجاتك"
+						},
+						"subtitle":
+						{
+							"en":"Product Listings You’ll Love",
+							"ar":"في قائمة واحدة"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2017/11/items-300x300.png",
+						"description":
+						{
+							"en":"When it comes to doing business online, saving time definitely counts. goCollect built-in product features makes sending you invoices easier and quicker than ever before. Now you can add all your products with their names, descriptions, prices and images, which you can even import from your Instagram to your items list on your goCollect application. When sending a bill, you will just need to tap the item to be added to your bill. And that’s it.",
+							"ar":"مُمارسة الأعمال التجارية عبر الإنترنت بالتأكيد تطلب توفير الوقت، لذلك صُمم goCollect ليساعدك على إرسال فواتيرك بشكلٍ أسهل وأسرع من أي وقتٍ مضى. والآن تستطيع وضع جميع مُنتَجاتك على goCollect، وضم كل ما يتعلق بها من (أسماء – أوصاف – أسعار) مع الصور التي يمكنك استيرادها من حسابك على انستقرام. عند إرسال فاتورة لن تحتاج أكثر من اختيار المُنتج من قائمة مُنتجاتك!"
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/Items.png"
+					},
+					{
+						"title":
+						{
+							"en":"Send Bills Abroad",
+							"ar":"إرسل الفواتير إلى الخارج"
+						},
+						"subtitle":
+						{
+							"en":"Go Global",
+							"ar":"توسع بأعمالك دون حدود"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/11/send-bill-abroad-goCollect.png",
+						"description":
+						{
+							"en":"No matter where your clients are, you’ve got the power to send ’em a bill right to their cellphones. Just punch in their country code and goCollect will do the rest!",
+							"ar":"يمكنك الآن التوسع عالميا وتلبية طلبات عملائك في الدول المختلفة وإدارة أعمالك ضمن نطاق عالمي! فقط أدخل رقم الهاتف الخاص بالعميل في الخارج، وسوف يتم إرسال الفاتورة عن طريق رسالة نصية قصيرة (SMS) تحتوي على رابط الدفع عبر تطبيق goCollect."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/Send_Bills_Abroad.png"
+					},
+					{
+						"title":
+						{
+							"en":"Multi-Currency",
+							"ar":"عملات متعددة"
+						},
+						"subtitle":
+						{
+							"en":"Bill ‘Em Worldwide",
+							"ar":"اختار العُملة المناسبة لفواتيرك"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/11/multi-currency-goCollect.png",
+						"description":
+						{
+							"en":"When you’re an international powerhouse fielding orders from all around the world it helps to have a payment partner that can keep up with all your multi-currency transaction needs. goCollect makes it easier than ever for you to choose the currency that you’d like your bills and displayed items to appear in, and lets you to convert prices from one currency to another on the spot.",
+							"ar":"خروج أعمالك من نطاقها المحلي دليل على النجاح، ونحن نريد أن نساعدك في تحقيق المزيد، goCollect يُسهل عليك عملية اختيار العُملة المناسبة لفواتيرك، مع ظهور عناصر الفاتورة أيضاً. وسيكون بإمكانك تحويل أسعار الفواتير من عملة إلى أخرى بحرّية ومرونة فائقة."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/multi-currancy_480.png"
+					},
+					{
+						"title":
+						{
+							"en":"Copy a Bill’s Link",
+							"ar":"نسخ رابط الفاتورة"
+						},
+						"subtitle":
+						{
+							"en":"Copy In A Flash",
+							"ar":"تواصل بكل الطرق"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/11/copy-link-goCollect.png",
+						"description":
+						{
+							"en":"Copying the link to your bill couldn’t be easier. Just ‘Tap & Hold’ and goCollect will automatically copy it onto your clipboard for you to paste wherever you like.",
+							"ar":"يمكنك نسخ رابط الفاتورة بعد إرسالها، عن طريق الضغط باستمرار على رابط الفاتورة، ومن ثم يمكنك حفظة أو إرسالة مرة أخرى بطريقة مختلفة (واتس آب) إلى العميل بكل سهولة."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/Copy_link.png"
+					},
+					{
+						"title":
+						{
+							"en":"Duplicate a Bill",
+							"ar":"تكرار فاتورة"
+						},
+						"subtitle":
+						{
+							"en":"The Same Bill, in Half the Time",
+							"ar":"وقت أقل، مبيعات أكثر"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/11/duplicate-a-bill-goCollect.png",
+						"description":
+						{
+							"en":"Now you can easily duplicate invoices for different customers, to save time when billing. A duplicate bill picks up all the details you’ve already entered, so all you have to do is review it and send it.",
+							"ar":"يمكنك تكرار أي فاتورة عبر تطبيق goCollect من خلال الضغط على الفاتورة المراد تكرارها ثم اختيار أمر “تكرار الفاتورة” من ميزة العمليات السريعة، وذلك لاستخدام نفس تفاصيل تلك الفاتورة كالمبلغ والوصف، حيث يمكنك المراجعة والإطلاع على تلك التفاصيل أولًا ومن ثم تستطيع إرسال الفاتورة إلى أي عميل آخر دون عناء أو جهد."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/Duplicate.png"
+					},
+					{
+						"title":
+						{
+							"en":"Send to Multiple People",
+							"ar":"إرسال الفاتورة لعدة عملاء"
+						},
+						"subtitle":
+						{
+							"en":"Bring Customers Together",
+							"ar":"مزيد من الإنجازات لسوق أكبر"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/11/send-multi-bill-goCollect.png",
+						"description":
+						{
+							"en":"What if you need to collect the same payment amount from multiple people, like for event tickets or a charity fund? goCollect’s got you covered there as well! Just create a standard bill, then select the ‘Multiple’ option at the bottom corner of the screen, and you’re set. All you have to do is distribute the link to the bill and your customers can fill out their own contact and payment info — no matter how many they are.",
+							"ar":"في تطبيق goCollect يوجد خاصية لإنشاء وإرسال فاتورة معينة لعدة عملاء في نفس الوقت! وذلك من خلال إدخال المبلغ المطلوب، والوصف، ثم الضغط على العديد من العملاء وإرسال الفاتورة ورابط الدفع عبر جميع تطبيقات التواصل مع العملاء مثل (البريد الإلكتروني – الرسائل النصية – الواتس آب – فايبر – تويتر – فيسبوك – ماسنجر – الخ..) ومن ثم يقوم العميل بفتحه وإدخال المعلومات الخاصة به (الاسم – رقم الهاتف – البريد الإلكتروني) لإتمام عملية الدفع بكل سهولة."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/Send_to_Multiple_People.png"
+					}
+				]
+			},
+			{
+				"categoryName":
+				{
+					"en":"Manage Bills",
+					"ar":"تنظيم الفواتير"
+				},
+				"showMoreButtonText":
+				{
+					"en":"more manage bill features",
+					"ar":"المزيد من مميزات تنظيم الفواتير"
+				},
+				"showLessButtonText":
+				{
+					"en":"Show Less",
+					"ar":"أظهر أقل"
+				},
+				"items":
+				[
+					{
+						"title":
+						{
+							"en":"My Bills",
+							"ar":"فواتيري"
+						},
+						"subtitle":
+						{
+							"en":"Where The Magic Starts",
+							"ar":"نظرة سريعة، معلومات فعالة"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/my-bills-goCollect.png",
+						"description":
+						{
+							"en":"With goCollect, you work smarter. Start with the ‘My Bills’ portal for a quick, comprehensive glance of all your sent bills and a real-time status view on each one. You can even jump-start a new bill with goCollect’s ‘Quick Actions’ module. You’ll love the convenience.",
+							"ar":"التفاصيل الصغيرة مهمة لجعل حياتك العملية أسهل مهما كان حجم مبيعاتك، يمكنك الحصول على نظرة سريعة ومرتبة مع الكثير من المعلومات الفعالة للفواتير المرسلة في قائمة “فواتيري” الرئيسية عبر تطبيق goCollect، وذلك طبقاً لتوقيت وتاريخ آخر تحديث تم لكل فاتورة على حدة. لديك الآن خيارات أكثر لعرض وفلترة قائمة الفواتير المرسلة إلى عملائك ومعلومات أقوى لتساعدك على تحصيل أموالك بشكل إحترافي وبسيط."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/My_bills.png"
+					},
+					{
+						"title":
+						{
+							"en":"My Payments",
+							"ar":"مدفوعاتي"
+						},
+						"subtitle":
+						{
+							"en":"At-A-Glance Updates",
+							"ar":"كل ما تريدة في قائمة واحدة"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/my-payment-goCollect.png",
+						"description":
+						{
+							"en":"With goCollect push notifications, you’ll know instantly whenever a new bill is paid, and the minute it hits your bank account — cha-ching! For a bigger overview, you’ll also get to see all your paid bills on My Bills, organized by date received. And if you’re digging for a specific bill? You can search for it right from My Payments too.",
+							"ar":"يمكنك تصنيف الفواتير المرسلة في قائمة “فواتيري” لعرض قائمة بجميع الفواتير المدفوعة فقط! حيث يتم ترتيبها أتوماتيكياً وفقاً لتاريخ الدفع لكل فاتورة. كما يمكنك أيضاً البحث في قائمة الفواتير المدفوعة عن فواتير معينة تحت اسم العميل، أو رقم الهاتف الخاص به أو رقم الفاتورة لعرض الفواتير ذات الصلة لبحثك."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/My_payments.png"
+					},
+					{
+						"title":
+						{
+							"en":"View a Bill",
+							"ar":"عرض الفاتورة"
+						},
+						"subtitle":
+						{
+							"en":"Like A Pro, On The Go.",
+							"ar":"تفاصيل دقيقة وإحترافية مهنية"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/view-bill-goCollect.png",
+						"description":
+						{
+							"en":"With goCollect you can act like a pro, on the go! Keep track of every bill’s specific details right from your phone; check-in on your client’s unique order; and stay updated on the payment status of your bill right from the palm of your hand.",
+							"ar":"إذا كنت تعلم أنه يمكنك مشاهدة الفواتير المرسلة في قائمة “فواتيري”! فهذا ليس كل شيء، يمكنك أيضاً الضغط على أي فاتورة واختيار “عرض الفاتورة” لمشاهدة التفاصيل والتحقق مما قد أرسلته إلى العميل الخاص بك وقتما شئت."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/View_bill.png"
+					},
+					{
+						"title":
+						{
+							"en":"Tracking Bills",
+							"ar":"تتبع حالة الفاتورة"
+						},
+						"subtitle":
+						{
+							"en":"Your Business Life-changer",
+							"ar":"تفاصيل صغيرة لراحة أكبر"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/tracking-icon-goCollect.png",
+						"description":
+						{
+							"en":"goCollect’s powerful tracking capabilities give you the status of each bill so you can know when to expect money in your bank account. We’ve followed Whatsapp’s familiar ‘check-mark’ identification model to let you know when a bill has been sent, delivered, viewed, attempted, paid, refunded, and cancelled. Not only that, but you can also know the date of each bill, and the number of reminders you’ve sent each customer. That means you can stay on top of every detail effortlessly and instantly. Use it once and you’ll wonder how you ever lived without it!",
+							"ar":"لا داعي للقلق من متابعة وضع الفواتير المرسلة إلى عملائك، فقد إعتمدنا طريقة تطبيق الواتس آب في تتبع حالات الرسائل المرسلة، وتطويرها لتلائم وتناسب احتياجات عملك. فمن خلال نظرة سريعة على القائمة الرئيسية “فواتيري”، يمكنك معرفة حالة الفواتير إذا كانت مدفوعة، أو غير مدفوعة، أو ملغية. ويمكنك أيضاً الضغط على أي فاتورة لاختيار “متابعة الفاتورة” لمعرفة حالة الفاتورة إذا تم استلامها أو مشاهدتها أو تم دفعها من قبل العميل بالوقت والتاريخ."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/Tracking.png"
+					},
+					{
+						"title":
+						{
+							"en":"Quick Actions",
+							"ar":"عمليات سريعة"
+						},
+						"subtitle":
+						{
+							"en":"Everything You Need, Instantly",
+							"ar":"ميزات فعالة في متناول يديك"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/quick-actions-goCollect.png",
+						"description":
+						{
+							"en":"‘Quick Actions’ makes it really easy for you to do things like send, view, and track your bills in a snap. goCollect places your most important and frequent billing actions under one menu to make running your business a total breeze.",
+							"ar":"لقد سهلنا الوصول إلى الميزات الأكثر فعالية والمتعلة بالفواتير المرسلة عبر تطبيق goCollect، يمكنك الضغط على أي فاتورة في قائمة الفواتير الخاصة بك واستخدام أداة “العمليات السريعة” لإجراء العديد من العمليات مثل (إرسال تذكير دفع –مشاركة – عرض –تتبع – إلغاء – تكرار) لجعل حياتك العملية أسهل وفقا لاحتياجاتك الخاصة."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/Quick_actions.png"
+					},
+					{
+						"title":
+						{
+							"en":"Send Reminders",
+							"ar":"إرسال تذكير بالدفع"
+						},
+						"subtitle":
+						{
+							"en":"Automatic & Awkward-Free",
+							"ar":"المتابعة الأساسية"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/send-reminder-goCollect.png",
+						"description":
+						{
+							"en":"goCollect takes away any awkward client interactions by sending over a professional payment reminder to nudge your customers to pay on time, with just one click.",
+							"ar":"متابعة عمليات تحصيل الفواتير غير المدفوعة تستغرق الكثير من الوقت كما أنها قد تعرضك للكثير من الإحراجات الناتجة عن المحادثات و الاتصالات غير الملائمة مع العملاء، ولكن من خلال القائمة الرئيسية “فواتيري” يمكنك الضغط على أي فاتورة وإرسال تذكير بالدفع بطريقة مهنية وإحترافية من نظام الفواتير الخاص بك عبر تطبيق goCollect."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/Reminder.png"
+					},
+					{
+						"title":
+						{
+							"en":"Cancel a Bill",
+							"ar":"إلغاء فاتورة"
+						},
+						"subtitle":
+						{
+							"en":"Cancel In No Time",
+							"ar":"بيانات تفيد أعمالك فقط!"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/cancel-bill-goCollect.png",
+						"description":
+						{
+							"en":"Accidentally sent a bill with incorrect information or to the wrong person? No biggie. With goCollect you can cancel it in no time through the ‘Quick Actions’ module.",
+							"ar":"هل أرسلت فاتورة خاطئة؟ لا تقلق، يمكنك إلغاء الفاتورة ببساطة من خلال ميزة العمليات السريعة في تطبيق goCollect، وبالتالي لا يمكن للعميل دفع هذه الفاتورة لتتجنب المتاعب."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/Cancel_bill.png"
+					},
+					{
+						"title":
+						{
+							"en":"Refund a Bill",
+							"ar":"إعادة قيمة فاتورة"
+						},
+						"subtitle":
+						{
+							"en":"Painless Refunds",
+							"ar":"كل الحلول ممكنة"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/refund-bill-goCollect.png",
+						"description":
+						{
+							"en":"Refunds have always been tricky business, but with goCollect it’s an easy fix. A single click is all it takes. Not only does goCollect help you with the refunding process, but now you also have a detailed picture of all past refunds at a glance.",
+							"ar":"عملية إعادة مبلغ إلى العميل كانت دائما بمثابة عناء وإهدار كبير للوقت والجهد، لذلك فقد قمنا بإضافة ميزة فعالة يمكنك من خلالها إرجاع مبلغ مدفوع لفاتورة معينة إلى العميل بضغطة واحدة فقط!"
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/Refund.png"
+					},
+					{
+						"title":
+						{
+							"en":"Search",
+							"ar":"البحث"
+						},
+						"subtitle":
+						{
+							"en":"Search That Delivers",
+							"ar":"متابعة أسهل، وصول أسرع"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/search-bill-goCollect.png",
+						"description":
+						{
+							"en":"When the stack of bills starts piling up, you can find exactly what you’re looking for right from the search bar. Just enter your client’s name, mobile number, or bill/invoice number and goCollect will immediately filter for matches.",
+							"ar":"خاصية البحث من خلال تطبيق goCollect توفر لك الوقت لمتابعة أسرع لفواتيرك، حيث يمكنك البحث برقم الفاتورة لمشاهدتها مباشرة، أو إن كنت ترغب في عرض جميع الفواتير المتعلقة بعميل ما! يمكنك البحث بإسم ذلك العميل، أو رقم الهاتف الخاص به بكل سهولة."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/Search.png"
+					},
+					{
+						"title":
+						{
+							"en":"Report a Bill",
+							"ar":"بلّغ عن فاتورة"
+						},
+						"subtitle":
+						{
+							"en":"Reporting That Works",
+							"ar":"دعم فعّال"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2017/12/Report_-300x300.png",
+						"description":
+						{
+							"en":"Got a problem with one of your bills? Maybe you need to correct a mistake or settle a collection issue? All you’ve got to do is report it right through the goCollect app and the Tap team will be right with you to figure it all out.",
+							"ar":"لديك مشكلة مع فاتورة من الفواتير وتريد تصحيح خطأ يمنعك من تحصيل مدفوعاتك؟ ما عليك سوى أن تبلّغ عن الفاتورة من خلال تطبيق goCollect وسيقوم فريق تاپ بحل مشكلتك."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/Report.png"
+					}
+				]
+
+			},
+			{
+				"categoryName":
+				{
+					"en":"My App",
+					"ar":"تطبيقي"
+				},
+				"showMoreButtonText":
+				{
+					"en":"more app features",
+					"ar":"المزيد من مميزات تطبيقي"
+				},
+				"showLessButtonText":
+				{
+					"en":"Show Less",
+					"ar":"أظهر أقل"
+				},
+				"items":
+				[
+					{
+						"title":
+						{
+							"en":"Dashboard",
+							"ar":"لوحة التحكم"
+						},
+						"subtitle":
+						{
+							"en":"All Your Transactions — All Laid Out",
+							"ar":"جميع معاملاتك في مكان واحد"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2017/12/Dashboard__-300x300.png",
+						"description":
+						{
+							"en":"Trying to keep up with all your bill transactions? Just turn your phone landscape and BOOM… you’ve got your very own goCollect dashboard! Your current balance, when to expect your next settlement, and your pending collection amounts are all laid out for you to see in real time and real style.",
+							"ar":"هل تحاول متابعة معاملاتك المالية؟ فقط قم بتدوير هاتفك أفقياً وستظهر أمامك لوحة التحكم الخاصة بحسابك! تُظهر اللوحة رصيدك، تسديداتك القادمة، كذلك التحصيلات قيد الانتظار، معروضة كلها بوضوح ومنظمة أولاً بأول."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/Dashboard_Balance1.png"
+					},
+					{
+						"title":
+						{
+							"en":"Instagram Integration",
+							"ar":"دمج انستقرام"
+						},
+						"subtitle":
+						{
+							"en":"Gram & Collect",
+							"ar":"صورك بين يديك"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/instagram__-300x300.png",
+						"description":
+						{
+							"en":"With goCollect, you’ve got the power take your awesome Instagram product shots beyond social media. Now you can import your favorite item images straight from your Instagram account onto the goCollect application in just a few seconds. Even better? You can also have your Instagram profile picture imported as your business logo for your application invoices. Easy, speedy, and super polished!",
+							"ar":"الصوِر مُهمّة للتعريف بأعمالك، من خلال goCollect أصبح بإمكانك استخدام صوِر مُنْتجك الموجودة على حسابك في انستقرام، واستيّراد ما تُفضله منها إلى goCollect خلال ثوانٍ معدودة. وسيُمكنك أيضاً استخدام صورة حسابك الشخصيّ على انستقرام كشعار لأعمالك في تطبيق الفواتير، وذلك ليكون الأمر أسهل وأسرع بكثير."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/instgram_integration.png"
+					},
+					{
+						"title":
+						{
+							"en":"Touch ID",
+							"ar":"التعرّف بالبصمة"
+						},
+						"subtitle":
+						{
+							"en":"Safer Than Ever, Easier Than Ever",
+							"ar":"معلوماتك في آمانٍ تام"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/Touch-ID-300x300.png",
+						"description":
+						{
+							"en":"goCollect keeps all your important business details and daily transactions on lock-down with the best and most advanced financial and digital security practices available worldwide. And if you want more added reassurance, you can use your Touch ID to make logging in to goCollect even more safe and secure.",
+							"ar":"تأميّن معلومات عملك بالتأكيد عملية مهمة طوال الوقت، goCollect يحافظ على سريّة تفاصيل عملك والمُعاملات اليومية، وذلك من خلال أحدث طُرق التأمين المالي والرقمي على مستوى العالم. وإن كنت تحتاج لاطمئنان أكثر يُمكنك استخدام Touch ID، لدخول أكثر آماناً على حساب goCollect."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/Touch_ID.png"
+					},
+					{
+						"title":
+						{
+							"en":"In App Chat",
+							"ar":"دردشة"
+						},
+						"subtitle":
+						{
+							"en":"We’ve Got Your Back",
+							"ar":"دائماً في الخدمة"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2017/12/In_app_chat_-300x300.png",
+						"description":
+						{
+							"en":"At Tap, we’ve always got your back. That’s why we made it super easy for you to chat with our support team right through the goCollect app. If you ever run into any trouble, just hop over into the in-app chat window where you can share images of your issue and see your chat history for future reference. We’ll even email you a record of your conversation once you’re done. Cause when we say ‘support’ we really mean it.",
+							"ar":"في تاپ نحن دائماً في خدمتك، لذلك سهلنا عليك التواصل مع فريق الدعم من خلال تطبيق goCollect، إذا واجهتك أي متاعب يمكنك فتح نافذة الدردشة التي تمكنك من مشاركة الصور لتوضيح مشكلتك، وسوف نقوم بحفظ سجل محادثتك كمرجع لك، نحن عندما نقول “دعم” فنحن حقاً نعنيها!"
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/In_App_Chat.png"
+					},
+					{
+						"title":
+						{
+							"en":"Multiple Account Sign-In",
+							"ar":"تسجيل دخول متعدّد"
+						},
+						"subtitle":
+						{
+							"en":"Multi-Hustle Approved",
+							"ar":"لا تدع الوقت يضيع"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/Multi-account-300x300.png",
+						"description":
+						{
+							"en":"For all you high-flying serial entrepreneurs and multi-business ballers: we know your time is money and we know you like to breeze between different business transactions with minimal effort. goCollect is right there with you. With multiple account sign-in, you can switch between different goCollect accounts on the spot and without missing a beat.",
+							"ar":"الوقت يعني المال بالنسبة لرجال الأعمال، ولمزيد من المرونة جعلنا goCollect يُقلل من وقتك الضائع ويخفض من جُهدك، عن طريق تفعيل إمكانية التنقُل بين حساباتك المُختلفة. لتستطيع بذلك التحكُم في جميع أعمالك بسهولة وبدون ملل."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/multiaccount-_480.png"
+					},
+					{
+						"title":
+						{
+							"en":"Account settings",
+							"ar":"إعدادات الحساب"
+						},
+						"subtitle":
+						{
+							"en":"Account Updates On The Go",
+							"ar":"سهولة تعديل البيانات"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/Account_Settings__-300x300.png",
+						"description":
+						{
+							"en":"In business, things change every day. To help you stay right on top of all your changes, we made account information edits super easy to perform right from the goCollect app. Need to edit or add to your business, contact, or bank info? Don’t worry about having to log-in from a desktop or call in to customer service — you can do it right there from your smartphone, on goCollect.",
+							"ar":"العالم يتغير من حولك كل يوم، لكن لا تقلق، جعلنا تعديل المعلومات والبيانات على حساب goCollect أكثر ملائمة لاحتياج عملك. بإمكانك الآن وفي أي وقت، تغيير وتعديل ما تريد من معلومات مثل (بيانات الاتصال – المعلومات البنكية) عن طريق تطبيق goCollect على هاتفك الذكي."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goCollect/Illustrations/Account_Settings.png"
+					}
+				]
+			},
+			{
+				"categoryName":
+				{
+					"en":"Bank",
+					"ar":"بنك"
+				},
+				"showMoreButtonText":
+				{
+					"en":"more bank features",
+					"ar":"المزيد من مميزات البنك"
+				},
+				"showLessButtonText":
+				{
+					"en":"Show Less",
+					"ar":"أظهر أقل"
+				},
+				"partners":["boubyan","nbk"],
+				"items":
+				[
+					{
+						"title":
+						{
+							"en":"Card",
+							"ar":"البطاقة"
+						},
+						"subtitle":
+						{
+							"en":"Your Do-It-All Banking Solution",
+							"ar":"تقدم لك جميع الحلول البنكية"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/09/icon-BB-card.png",
+						"description":
+						{
+							"en":"We’ll get your company set up with a boubyan Debit/Credit Card. That way, you can authorize and perform transactions for yourself and the team right from your company’s bank account in no time.",
+							"ar":"ستمكنك الشركة من إنشاء بطاقة السحب / الائتمان لدى بنك بوبيان. بهذه الطريقة، يمكنك تفويض وإجراء المعاملات لنفسك ولفريق العمل من الحساب البنكي لشركتك في وقت قصير."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Boubyan-illustration-Card-1.png",
+						"partner":"boubyan"
+					},
+					{
+						"title":
+						{
+							"en":"Payroll",
+							"ar":"كشف الرواتب"
+						},
+						"subtitle":
+						{
+							"en":"Set it and Forget it",
+							"ar":"ضع كشف الرواتب ولا تنشغل به"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/09/icon-NBK-Payroll-1.png",
+						"description":
+						{
+							"en":"Once you’ve got your boubyan account set up, doing your company’s payroll becomes a breeze. We’ll automate the dispatch of all your salaries on a monthly basis so all you have to do is ‘set it and forget it.’",
+							"ar":"بمجرد إنشاء حسابك البنكي لدى بنك الكويت الوطني فإن إعداد كشف رواتب شركتك يصبح أمرا بسيطاً. وسوف نرسل تلقائيا جميع الرواتب على أساس شهري ليكون كل ما عليك فعله هو 'وضع كشف الرواتب وعدم الانشغال به'"
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/09/goCollect-NBK-Payroll-1.png",
+						"partner":"boubyan"
+					},
+					{
+						"title":
+						{
+							"en":"Card",
+							"ar":"البطاقة"
+						},
+						"subtitle":
+						{
+							"en":"Your Do-It-All Banking Solution",
+							"ar":"تقدم لك جميع الحلول البنكية"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/09/icon-NBK-card.png",
+						"description":
+						{
+							"en":"We’ll get your company set up with a NBK Debit/Credit Card. That way, you can authorize and perform transactions for yourself and the team right from your company’s bank account in no time.",
+							"ar":"ستمكنك الشركة من إنشاء بطاقة السحب / الائتمان لدى بنك الكويت الوطني. بهذه الطريقة، يمكنك تفويض وإجراء المعاملات لنفسك ولفريق العمل من الحساب البنكي لشركتك في وقت قصير."
+						},
+						"image":"https://www.tap.company/featuresImages/goCollect_NBK_Card.png",
+						"partner":"nbk"
+					},
+					{
+						"title":
+						{
+							"en":"Payroll",
+							"ar":"كشف الرواتب"
+						},
+						"subtitle":
+						{
+							"en":"Set it and Forget it",
+							"ar":"ضع كشف الرواتب ولا تنشغل به"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/09/NBK-Payroll.png",
+						"description":
+						{
+							"en":"Once you’ve got your NBK account set up, doing your company’s payroll becomes a breeze. We’ll automate the dispatch of all your salaries on a monthly basis so all you have to do is ‘set it and forget it.’",
+							"ar":"بمجرد إنشاء حسابك البنكي لدى بنك الكويت الوطني فإن إعداد كشف رواتب شركتك يصبح أمرا بسيطاً. وسوف نرسل تلقائيا جميع الرواتب على أساس شهري ليكون كل ما عليك فعله هو 'وضع كشف الرواتب وعدم الانشغال به'"
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/09/goCollect-NBK-Payroll-1.png",
+						"partner":"nbk"
+					}
+				]
+			},
+			{
+				"categoryName":
+				{
+					"en":"My Account",
+					"ar":"حسابي"
+				},
+				"showMoreButtonText":
+				{
+					"en":"more account features",
+					"ar":"المزيد من مميزات حسابي"
+				},
+				"showLessButtonText":
+				{
+					"en":"Show Less",
+					"ar":"أظهر أقل"
+				},
+				"items":
+				[
+					{
+						"title":
+						{
+							"en":"Local, Regional & Global Card Acceptance",
+							"ar":"كل بطاقات الدفع مقبولة"
+						},
+						"subtitle":
+						{
+							"en":"Accept everything",
+							"ar":"ميّزة الخيارات"
+						},
+						"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-01-300x300.png",
+						"description":
+						{
+							"en":"Through Tap, your customers now have the option of paying with their preferred local card, a regional card, or even with an international credit card. Our Charge API allows them to pay for any of your listed products and services in a snap. Whether that’s through KNET, Benefit, Mada, Sadad, Visa, MasterCard, or  American Express. From now on, the only thing you won’t accept is ‘no’ for an answer.",
+							"ar":"عبر تاپ، يمكن لعملائك استخدام أي بطاقة للدفع، سواء كانت بطاقة محلية او بطاقة ائتمانية دولية. يمكن لجميع أعضاء شبكة تاپ الآن قبول المدفوعات عبر كي- نت، ماستر كارد وأميركان إكسبرس لقاء أي منتج أو خدمة. خيارات أكثر، رضا عملاء أكبر، أرباح أوفر."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/general/Illustrations/all-payments.png"
+					},
+					{
+						"title":
+						{
+							"en":"Same day Settlement",
+							"ar":"تسوية في نفس اليوم"
+						},
+						"subtitle":
+						{
+							"en":"Faster than you can blink",
+							"ar":"أسرع من غمضة العين"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/09/icon-BB-same-day-settlement.png",
+						"description":
+						{
+							"en":"Once you’ve completed a successful KNET transaction, it’ll be settled into your bank account on the exact same day. Blink and it’s in your account!",
+							"ar":"بمجرد انتهائك من معاملة الكي نت بنجاح، سيتم تسوية عملية السداد في حسابك البنكي في نفس اليوم. أغمض عينيك وستجد المعاملة في حساب!"
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Boubyan-illustration-same-day-settlement-1.png",
+						"partner":"boubyan"
+					},
+					{
+						"title":
+						{
+							"en":"Next day Settlement",
+							"ar":"التسوية في اليوم التالي"
+						},
+						"subtitle":
+						{
+							"en":"Lightning-Fast Settlements",
+							"ar":"تسهيل عمليات التسوية"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/09/icon-NBK-next-day-settlement.png",
+						"description":
+						{
+							"en":"Once you’ve completed a successful KNET transaction, it’ll be settled into your bank account as soon as the next business day. Talk about fast money!",
+							"ar":"بمجرد انتهائك من معاملة كي نت بنجاح، سيتم تسويتها في حسابك البنكي بحلول يوم العمل التالي. نتحدّث هنا عن سرعة تسوية الأموال!"
+						},
+						"image":"https://www.tap.company/featuresImages/Next-day-settlement.gif",
+						"partner":"nbk"
+					},
+					{
+						"title":
+						{
+							"en":"Dedicated Support",
+							"ar":"دعم مخصّص"
+						},
+						"subtitle":
+						{
+							"en":"Questions? Don’t Be Shy",
+							"ar":"لديك أسئلة؟ لا تتردّد"
+						},
+						"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-10-300x300.png",
+						"description":
+						{
+							"en":"Whether it’s set-up, integration, or follow-through—if you’ve ever got a problem, you can count on Tap for the solution. We do our best to make sure that you can keep working at your best. As your dedicated support team, we’re always here for you—just try us.",
+							"ar":"سواء أردت إنشاء حساب، دمج أو متابعة حسابك – أو واجهتك أي مشكلة يمكنك الاعتماد علينا، فنحن في تاپ نقدّم لكل مشكلة حل لنضمن استمرارية عملك بأفضل حال. طاقمنا المكرّس لخدمتك مستعد دائماً لمساعدتك. جرّبنا."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/general/Illustrations/Support.png"
+					},
+					{
+						"title":
+						{
+							"en":"Same Day Activation",
+							"ar":"تفعيل في اليوم نفسه"
+						},
+						"subtitle":
+						{
+							"en":"Start Selling Now",
+							"ar":"ابدأ بيع منتجاتك الآن"
+						},
+						"icon":"https://www.tap.company/kw//wp-content/uploads/sites/38/2015/10/goSellColoured-icons-03-300x300.png",
+						"description":
+						{
+							"en":"Set up, connect, and sell in less than 24 hours. Our online registration system smoothly guides you through all the required steps, and helps you get your payment gateway up and running in record time. A little more old-school? No problem. Our team of dedicated onboarding assistants is happy to get on the phone with you and get you activated as soon as possible.",
+							"ar":"أنشىء حسابك، تواصل وابدأ ببيع منتجك خلال 24 ساعة فقط. فبرنامج التسجيل السلس يرشدك إلى إنجاز جميع الخطوات بسهولة وسرعة ويساعدك على الحصول على مستحقاتك المالية في وقت غير مسبوق. تشعر بأن كل ذلك جديد بالنسبة إليك؟ لا تقلق. طاقمنا من المساعدين المكرّس لخدمتك سيسعده التحدث معك وإتمام عملية تفعيل حسابك بأسرع وقت ممكن."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/general/Illustrations/Same-Day-Activation.png"
+					},
+					{
+						"title":
+						{
+							"en":"Statements & Receipts",
+							"ar":"كشف الحساب والإيصالات"
+						},
+						"subtitle":
+						{
+							"en":"Half The Paperwork, Double The Efficiency",
+							"ar":"فعالية أكثر بمعاملات أقل"
+						},
+						"icon":"https://www.tap.company/kw//wp-content/uploads/sites/38/2015/10/goSellColoured-icons-04-300x300.png",
+						"description":
+						{
+							"en":"Tap’s user dashboard gives you full access to your entire transaction history, and provides soft copies of all your receipts for easy printing. Now you can cut down on the paper trail and double up on the productivity. It’s a win-win: for the environment and for your sanity.",
+							"ar":"يمكنك بفضل لوحة التحكم بحسابك الدخول إلى تاريخ العمليات بالكامل والحصول على نسخ إلكترونية من إيصالاتك التي يسهل طباعتها. الآن أصبح بإمكانك توفير الوقت والجهد من المعاملات والأوراق الكثيرة واستبدال ذلك بإنتاجية أكبر. إنّها صفقة رابحة للجميع: لك وللبيئة على السواء."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/general/Illustrations/Statements-&-Receipts.png"
+					},
+					{
+						"title":
+						{
+							"en":"Analytics & History",
+							"ar":"إحصائيات للمبيعات"
+						},
+						"subtitle":
+						{
+							"en":"Data That Matters To Business",
+							"ar":"البيانات التي تفيد أعمالك"
+						},
+						"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-05-300x300.png",
+						"description":
+						{
+							"en":"Tap’s analytics dashboard can tell you what’s driving the most effective sales outcomes for your business and what areas you need to focus on most. We also organize each customer’s payment history for you to review in detail whenever you need it. We’ll bring the tools; you bring the drive.",
+							"ar":"تقدّم لك لوحة التحكم بحساب تاپ تحليلات تخبرك بأكثر العمليات التسويقية تأثيراً لجهة الدخل في السوق وما هي المجالات التي عليك التركيز عليها أكثر. كما ننظم تاريخ دفوعات كل عميل لديك كي تتمكن من الاطلاع عليها بالتفصيل في أي وقت. نحن نؤمّن لك كل الوسائل لتنطلق…وأنت عليك أن تقود."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/general/Illustrations/Analytics-&-History.png"
+					},
+					{
+						"title":
+						{
+							"en":"Single API Integration",
+							"ar":"API"
+						},
+						"subtitle":
+						{
+							"en":"For The Advanced Pros",
+							"ar":"للمحترفين"
+						},
+						"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-07-300x300.png",
+						"description":
+						{
+							"en":"If you’re looking for a little more customization on your Tap gateway, your own developer can easily access the API to make all the desired tweaks without a hitch. Our API documentation is simple to integrate and is available in multiple language codes including PHP, JAVA, and .NET.",
+							"ar":"إذا كنت تبحث عن إضفاء لمسة خاصة على حسابك في تاپ يمكن للمطوّر لديك الدخول إلى API لإجراء جميع التعديلات التي ترغب بها وتصميمها وفق رغباتك بسهولة فائقة. ملفات API الخاصة بنا بسيطة جداً ويسهل الإندماج فيها كما أنها متوفّرة بلغات رموز متعدّدة تتضمّن PHP ،JAVA و NET."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/general/Illustrations/API.png"
+					},
+					{
+						"title":
+						{
+							"en":"Security",
+							"ar":"الحماية والأمان"
+						},
+						"subtitle":
+						{
+							"en":"Protection You Can Trust",
+							"ar":"حماية تثق بها"
+						},
+						"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-08-300x300.png",
+						"description":
+						{
+							"en":"There’s nothing our team takes more seriously than keeping you and your business safe while using Tap. That’s why we’ve outfitted our entire system with banking-industry security levels and encryption protocols, as well as remaining compliant with global PCI DSS security standards. At Tap, we have an unwavering commitment to your peace of mind, and that starts with keeping your business completely safe online. That’s a promise.",
+							"ar":"فريق عملنا يضع في سلّم أولوياته حماية أعمالك عند استخدامك تاپ. لذلك أنشأنا برنامجنا تماماً وفقاً لمعايير السلامة البنكية وبروتوكول الحماية المتعارف عليه كما أننا ندعم معايير السلامة العالمية وفق برنامج PCI DSS. في تاپ، نلتزم براحة بالك ونعرف جيّدا ً أن تحقيق ذلك يبدأ بضمان سلامة أعمالك الإلكترونية وحمايتها. وهذا وعدنا."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/general/Illustrations/Security.png"
+					},
+					{
+						"title":
+						{
+							"en":"All Businesses Welcome",
+							"ar":"جميع الأعمال التجارية"
+						},
+						"subtitle":
+						{
+							"en":"The big, the small, and the in-between",
+							"ar":"الصغيرة، الكبيرة والمتوسطة"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/icon-scan.png",
+						"description":
+						{
+							"en":"At Tap, everyone’s welcome. Our system is built to fit the unique needs and demands of every business, regardless of size or operations. Among our list of favorite Tap users you’ll find mega-giants like OSN, Viva, and Bein Sports, right alongside some awesome home businesses and SMEs like Khaleejesque Magazine, The Walk In Closet, and Cake District. Ready to jump on-board?",
+							"ar":"أهلاً بالجميع في تاپ. برنامجنا مصمم ليلائم احتياجات ومتطلبات جميع الشركات بغض النظر عن حجم المؤسسة وطبيعة عملها. ستجد ضمن قائمة عملائنا المفضّلين OSN ،VIVA ،Bein Sports إلى جانب العديد من المؤسسات المنزلية الصغيرة والمجلات أو المطبوعات الإلكترونية مثال مجلة Khaleejesque ،The WalK In Closet و Cake District. مستعد للإنضمام إلينا؟"
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/general/Illustrations/All-Businesses-Welcome.png",
+						"partner":"none"
+					}
+				]
+			},
+			{
+				"categoryName":
+				{
+					"en":"Device",
+					"ar":"جهازي"
+				},
+				"showMoreButtonText":
+				{
+					"en":"more device features",
+					"ar":"المزيد من مميزات جهازي"
+				},
+				"showLessButtonText":
+				{
+					"en":"Show Less",
+					"ar":"أظهر أقل"
+				},
+				"partners":["zain"],
+				"items":
+				[
+					{
+						"title":
+						{
+							"en":"Phone",
+							"ar":"هاتف"
+						},
+						"subtitle":
+						{
+							"en":"Your business goes where you go",
+							"ar":"أعمالك معك في أي مكان تذهب إليه"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/09/icon-zain-smart-phone.png",
+						"description":
+						{
+							"en":"Business on the go? You got it. Zain will set you up with a smartphone to perform all your business activities, whenever and wherever. Plus, you’ll get to make the money calls in style with a choice between an iPhone or a Samsung Galaxy.",
+							"ar":"القيام بالعمل أثناء الإنتقال؟ أفهمت ذلك. سوف تجهز شركة زين هاتف ذكي لتقوم بتنفيذ جميع أنشطة أعمالك في أي وقت وأي مكان. بالإضافة إلى أنك ستحصل على مكالمات طلب الأموال مع حرية الإختيار ما بين هاتف آيفون أو سامسونج جالاكسي."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain-goCollect-Phone_.png"
+					},
+					{
+						"title":
+						{
+							"en":"LTE",
+							"ar":"LTE"
+						},
+						"subtitle":
+						{
+							"en":"How about a little more power?",
+							"ar":"ماذا عن المزيد من القدرة؟"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/09/icon-zain-LTE.png",
+						"description":
+						{
+							"en":"Supercharge your business activities with 60GB of stable, high speed internet connection that’ll keep your company running at any place and any time.",
+							"ar":"قم بتعزيز أنشطة شركتك بسرعة إنترنت ثابتة وسرعة اتصال فائقة قدرها 60 جيجا بايت من شأنها أن تبُقي شركتك قيد التشغيل في أي وقت وأي مكان."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain-goCollect-LTE_.png"
+					},
+					{
+						"title":
+						{
+							"en":"Roaming",
+							"ar":"التجوال"
+						},
+						"subtitle":
+						{
+							"en":"Around the world and back",
+							"ar":"التجوال في جميع أرجاء العالم"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/09/icon-zain-roaming.png",
+						"description":
+						{
+							"en":"Stay on top of business from any part of the world. Zain’s mobile network roaming coverage lets you take your business with you wherever you travel.",
+							"ar":"حافظ على بقائك في مقدمة الشركات في أي مكان في العالم. تمكنك تغطية تجوال شبكة إنترنت هاتف زين من اصطحاب أعمالك في أي مكان تسافر إليه."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain-goCollect-Roaming_.png"
+					},
+					{
+						"title":
+						{
+							"en":"SMS",
+							"ar":"خدمة الرسائل القصيرة"
+						},
+						"subtitle":
+						{
+							"en":"Text more, sell more",
+							"ar":"أرسل مزيد من الرسائل النصية وقم ببيع المزيد"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/09/icon-zain-sms.png",
+						"description":
+						{
+							"en":"With unlimited SMS, you can text your customers freely and effectively, at any time. No hidden fees and no extra expenses.",
+							"ar":"مع خدمة الرسائل النصية غير المحدودة سيمكنك مراسلة عملائك بحرية وفاعلية في أي وقت. بدون رسوم خفية وبدون مصاريف إضافية."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/Zain-goCollect-SMS_.png"
+					},
+					{
+						"title":
+						{
+							"en":"Voice Call",
+							"ar":" المكالمات الصوتية"
+						},
+						"subtitle":
+						{
+							"en":"Hello? It’s freedom calling.",
+							"ar":"مرحبا؟ إنها حرية الإتصال."
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/09/icon-zain-voice-call.png",
+						"description":
+						{
+							"en":"Talk till you drop with 1,000 free minutes for all business activities and unlimited calls with your team members. Now you’re free to talk with that one chatty customer or have those hour-long conference calls without breaking the bank.",
+							"ar":"تحدث حتى 1000 دقيقة مجانية لجميع الأنشطة التجارية بالإضافة إلى المكالمات غير المحدودة مع أعضاء الفريق. الآن أنت تتمتع بحرية الحديث مع العميل كثير الكلام أو المكالمات الجمعية بدون الإخلال بميزانية البنك."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/zain-partner-gocollect-voice-call.png"
+					}
+				]
+			}
+		]
+	},
+	{
+	"product": "tap",
+	"categories":
+		[
+			{
+				"categoryName":
+				{
+					"en":"Device",
+					"ar":"جهازي"
+				},
+				"showMoreButtonText":
+				{
+					"en":"more device features",
+					"ar":"المزيد من مميزات جهازي"
+				},
+				"showLessButtonText":
+				{
+					"en":"Show Less",
+					"ar":"أظهر أقل"
+				},
+				"items":
+				[
+					{
+						"title":
+						{
+							"en":"Local, Regional & Global Card Acceptance",
+							"ar":"كل بطاقات الدفع مقبولة"
+						},
+						"subtitle":
+						{
+							"en":"Accept everything",
+							"ar":"ميّزة الخيارات"
+						},
+						"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-01-300x300.png",
+						"description":
+						{
+							"en":"Through Tap, your customers now have the option of paying with their preferred local card, a regional card, or even with an international credit card. Our Charge API allows them to pay for any of your listed products and services in a snap. Whether that’s through KNET, Benefit, Mada, Sadad, Visa, MasterCard, or  American Express. From now on, the only thing you won’t accept is ‘no’ for an answer.",
+							"ar":"عبر تاپ، يمكن لعملائك استخدام أي بطاقة للدفع، سواء كانت بطاقة محلية او بطاقة ائتمانية دولية. يمكن لجميع أعضاء شبكة تاپ الآن قبول المدفوعات عبر كي- نت، ماستر كارد وأميركان إكسبرس لقاء أي منتج أو خدمة. خيارات أكثر، رضا عملاء أكبر، أرباح أوفر."
+						},
+						"image":"https://www.tap.company/wp-content/uploads/2018/10/illustration-all-payments.png"
+					},
+					{
+						"title":
+						{
+							"en":"Near-Field-Communication",
+							"ar":"تواصل قريب المدى"
+						},
+						"subtitle":
+						{
+							"en":"NFC Magic",
+							"ar":"عجائب ال!NFC"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2017/12/goPOS_NFC-300x300.png",
+						"description":
+						{
+							"en":"Keep the line moving fast with the power of Near-Field-Communication payment systems. All your customers have to do is tap the device with their card, and, well, that’s it! No swiping or dipping necessary.",
+							"ar":"تعرف على قوة أحدث التقنيات: تواصل قريب المدى. لا تخسر وقتك بإدخال بطافتك، فقط امسح بطاقتك على الجهاز وادفع بسهولة."
+						},
+						"image":"https://www.tap.company/featuresImages/goPOS_feature_artwork_NFC_-444x355.png"
+					},
+					{
+						"title":
+						{
+							"en":"Refunds",
+							"ar":"إعادة المبلغ"
+						},
+						"subtitle":
+						{
+							"en":"Super Easy Refunds",
+							"ar":"استرجع بسهولة"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2015/10/refund-bill-goCollect.png",
+						"description":
+						{
+							"en":"You know us for making every payment process as easy and pain-free as possible — and that includes refunds. Just like all the Tap services, goTap lets you submit refund requests without any extra pain or hassle.",
+							"ar":"اعتدتم مع تاپ على جعل شؤون أعمالكم أكثر سهولة و يسر و ذلك ينطبق على سياسة الاسترجاع. يمكنك مع goTap استرجاع مبيعاتك بأسهل و أسرع الطرق."
+						},
+						"image":"https://www.tap.company/featuresImages/goPOS_feature_artwork_refund_-444x355.png"
+					},
+					{
+						"title":
+						{
+							"en":"48 hours delivery",
+							"ar":"توصيل خلال 48 ساعة"
+						},
+						"subtitle":
+						{
+							"en":"Lightning Fast Delivery",
+							"ar":"توصيل سريع"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2017/12/goPOS_48_hours_delivery-300x300.png",
+						"description":
+						{
+							"en":"At Tap, we get your business up and running in no time! We’ll make sure you have your goTap device all set up and delivered to you within 48 hours guaranteed.",
+							"ar":"مرحبا بأسرع طرق التوصيل! سجل معنا وسنقوم بإعداد جهازك وتجهيزه لك خلال 48 ساعة مضمونة."
+						},
+						"image":"https://www.tap.company/kw/wp-content/uploads/sites/38/2017/12/goPOS_feature_48hours_delivery.gif"
+					},
+					{
+						"title":
+						{
+							"en":"Portable",
+							"ar":"جهاز متنقل"
+						},
+						"subtitle":
+						{
+							"en":"Work Everywhere",
+							"ar":"عملك في أي مكان"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2017/12/goPOS_easy_to_carry-300x300.png",
+						"description":
+						{
+							"en":"goTap let’s you go wherever your business takes you — literally! With GPRS, goTap empowers you to accept contactless K-NET payments, whenever and wherever. You’ll never miss out on a sale again!",
+							"ar":"جهاز نقاط البيع من تاپ يجعل عملية تنقلك أكثر بساطة وسهولة، اعمل أينما شئت و استطعت مع جهازنا المتنقل. لن تخسر أي زبون!"
+						},
+						"image":"https://www.tap.company/featuresImages/goTap-portable-verifone-444x355.png"
+					},
+					{
+						"title":
+						{
+							"en":"Expo to Store",
+							"ar":"من معرض إلى متجر"
+						},
+						"subtitle":
+						{
+							"en":"Grab ‘N’ Go Payments",
+							"ar":"شيل جهازك وانطلق"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2017/12/goPOS_Expo_to_Store_icon-300x300.png",
+						"description":
+						{
+							"en":"You don’t need a huge multi-system setup to use your goTap device — just a free hand! Whether you’re running a 1-day expo booth, or hustling in your own shop, goTap is the perfect ‘Grab ‘N’ Go’ portable payment solution.",
+							"ar":"لا تحتاج إلى إعداد نطام كبير لاستعمال جهازك، لا تعقد الأمور و تمتع بسهولة و مرونة الدفع المتنقل."
+						},
+						"image":"https://www.tap.company/featuresImages/Expo-to-Store-444x355.png"
+					}
+				]
+			},
+			{
+				"categoryName":
+				{
+					"en":"My Account",
+					"ar":"حسابي"
+				},
+				"showMoreButtonText":
+				{
+					"en":"more account features",
+					"ar":"المزيد من مميزات حسابي"
+				},
+				"showLessButtonText":
+				{
+					"en":"Show Less",
+					"ar":"أظهر أقل"
+				},
+				"items":
+				[
+					{
+						"title":
+						{
+							"en":"Next day Settlement",
+							"ar":"تسوية السداد في اليوم التالي"
+						},
+						"subtitle":
+						{
+							"en":"Real-time Transaction Data",
+							"ar":" تسهيل سرعة عمليات التسوية"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/2018/09/icon-BB-next-day-settlement.png",
+						"description":
+						{
+							"en":"Your Tap website dashboard gives you a live stream of your transactions as they appear in your account, in real time. You can literally watch the money pile up.",
+							"ar":"بمجرد انتهائك من معاملة كي نت بنجاح، سيتم تسويتها في حسابك البنكي بحلول يوم العمل التالي. الحديث عن سرعة الأموال"
+						},
+						"image":".........",
+						"partner":"boubyan"
+					},
+					{
+						"title":
+						{
+							"en":"Flexible Banking Options",
+							"ar":"خيارات بنكية مرنة"
+						},
+						"subtitle":
+						{
+							"en":"Well Connected & Well Served",
+							"ar":"تواصل وخدمة مميّزة"
+						},
+						"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-02-300x300.png",
+						"description":
+						{
+							"en":"Tap is connected with every single bank in Kuwait. That means you can easily link your Tap gateway to your favorite bank account and start receiving payments instantly. You also have total freedom to switch from one bank to another anytime you wish while using Tap. No hold up, no grunt work, and absolutely no obligations.",
+							"ar":"يرتبط تاپ مع جميع البنوك العاملة في الكويت وهذا يعني أنه بإمكانك استخدام تاپ كوسيلة لدخول حسابك المصرفي وتحويل الأموال مباشرة إلى رصيدك. كما يمكنك الانتقال من أي مصرف إلى آخر عبر استخدامك تاپ. لا انتظار، لا عمل مضني ولا التزامات."
+						},
+						"image":"https://www.tap.company/featuresImages/WI-flex-banking-option7-444x355.png",
+						"partner":"none"
+					},
+					{
+						"title":
+						{
+							"en":"Same Day Activation",
+							"ar":"تفعيل في اليوم نفسه"
+						},
+						"subtitle":
+						{
+							"en":"Start Selling Now",
+							"ar":"ابدأ بيع منتجاتك الآن"
+						},
+						"icon":"https://www.tap.company/kw//wp-content/uploads/sites/38/2015/10/goSellColoured-icons-03-300x300.png",
+						"description":
+						{
+							"en":"Set up, connect, and sell in less than 24 hours. Our online registration system smoothly guides you through all the required steps, and helps you get your payment gateway up and running in record time. A little more old-school? No problem. Our team of dedicated onboarding assistants is happy to get on the phone with you and get you activated as soon as possible.",
+							"ar":"أنشىء حسابك، تواصل وابدأ ببيع منتجك خلال 24 ساعة فقط. فبرنامج التسجيل السلس يرشدك إلى إنجاز جميع الخطوات بسهولة وسرعة ويساعدك على الحصول على مستحقاتك المالية في وقت غير مسبوق. تشعر بأن كل ذلك جديد بالنسبة إليك؟ لا تقلق. طاقمنا من المساعدين المكرّس لخدمتك سيسعده التحدث معك وإتمام عملية تفعيل حسابك بأسرع وقت ممكن."
+						},
+						"image":"https://www.tap.company/featuresImages/WI-activation2-444x355.png"
+					},
+					{
+						"title":
+						{
+							"en":"Dedicated Support",
+							"ar":"دعم مخصّص"
+						},
+						"subtitle":
+						{
+							"en":"Questions? Don’t Be Shy",
+							"ar":"لديك أسئلة؟ لا تتردّد"
+						},
+						"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-10-300x300.png",
+						"description":
+						{
+							"en":"Whether it’s set-up, integration, or follow-through—if you’ve ever got a problem, you can count on Tap for the solution. We do our best to make sure that you can keep working at your best. As your dedicated support team, we’re always here for you—just try us.",
+							"ar":"سواء أردت إنشاء حساب، دمج أو متابعة حسابك – أو واجهتك أي مشكلة يمكنك الاعتماد علينا، فنحن في تاپ نقدّم لكل مشكلة حل لنضمن استمرارية عملك بأفضل حال. طاقمنا المكرّس لخدمتك مستعد دائماً لمساعدتك. جرّبنا."
+						},
+						"image":"https://www.tap.company/featuresImages/WI-support2-444x355.png"
+					},
+					{
+						"title":
+						{
+							"en":"Statements & Receipts",
+							"ar":"كشف الحساب والإيصالات"
+						},
+						"subtitle":
+						{
+							"en":"Half The Paperwork, Double The Efficiency",
+							"ar":"فعالية أكثر بمعاملات أقل"
+						},
+						"icon":"https://www.tap.company/kw//wp-content/uploads/sites/38/2015/10/goSellColoured-icons-04-300x300.png",
+						"description":
+						{
+							"en":"Tap’s user dashboard gives you full access to your entire transaction history, and provides soft copies of all your receipts for easy printing. Now you can cut down on the paper trail and double up on the productivity. It’s a win-win: for the environment and for your sanity.",
+							"ar":"يمكنك بفضل لوحة التحكم بحسابك الدخول إلى تاريخ العمليات بالكامل والحصول على نسخ إلكترونية من إيصالاتك التي يسهل طباعتها. الآن أصبح بإمكانك توفير الوقت والجهد من المعاملات والأوراق الكثيرة واستبدال ذلك بإنتاجية أكبر. إنّها صفقة رابحة للجميع: لك وللبيئة على السواء."
+						},
+						"image":"https://www.tap.company/featuresImages/website-illustrations-draft1-444x355.png"
+					},
+					{
+						"title":
+						{
+							"en":"Analytics & History",
+							"ar":"إحصائيات للمبيعات"
+						},
+						"subtitle":
+						{
+							"en":"Data That Matters To Business",
+							"ar":"البيانات التي تفيد أعمالك"
+						},
+						"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-05-300x300.png",
+						"description":
+						{
+							"en":"Tap’s analytics dashboard can tell you what’s driving the most effective sales outcomes for your business and what areas you need to focus on most. We also organize each customer’s payment history for you to review in detail whenever you need it. We’ll bring the tools; you bring the drive.",
+							"ar":"تقدّم لك لوحة التحكم بحساب تاپ تحليلات تخبرك بأكثر العمليات التسويقية تأثيراً لجهة الدخل في السوق وما هي المجالات التي عليك التركيز عليها أكثر. كما ننظم تاريخ دفوعات كل عميل لديك كي تتمكن من الاطلاع عليها بالتفصيل في أي وقت. نحن نؤمّن لك كل الوسائل لتنطلق…وأنت عليك أن تقود."
+						},
+						"image":"https://www.tap.company/featuresImages/WI-analytics1-444x355.png"
+					},
+					{
+						"title":
+						{
+							"en":"Security",
+							"ar":"الحماية والأمان"
+						},
+						"subtitle":
+						{
+							"en":"Protection You Can Trust",
+							"ar":"حماية تثق بها"
+						},
+						"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-08-300x300.png",
+						"description":
+						{
+							"en":"There’s nothing our team takes more seriously than keeping you and your business safe while using Tap. That’s why we’ve outfitted our entire system with banking-industry security levels and encryption protocols, as well as remaining compliant with global PCI DSS security standards. At Tap, we have an unwavering commitment to your peace of mind, and that starts with keeping your business completely safe online. That’s a promise.",
+							"ar":"فريق عملنا يضع في سلّم أولوياته حماية أعمالك عند استخدامك تاپ. لذلك أنشأنا برنامجنا تماماً وفقاً لمعايير السلامة البنكية وبروتوكول الحماية المتعارف عليه كما أننا ندعم معايير السلامة العالمية وفق برنامج PCI DSS. في تاپ، نلتزم براحة بالك ونعرف جيّدا ً أن تحقيق ذلك يبدأ بضمان سلامة أعمالك الإلكترونية وحمايتها. وهذا وعدنا."
+						},
+						"image":"https://www.tap.company/featuresImages/WI-security2-444x355.png"
+					},
+					{
+						"title":
+						{
+							"en":"All Businesses Welcome",
+							"ar":"جميع الأعمال التجارية"
+						},
+						"subtitle":
+						{
+							"en":"The big, the small, and the in-between",
+							"ar":"الصغيرة، الكبيرة والمتوسطة"
+						},
+						"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/icon-scan.png",
+						"description":
+						{
+							"en":"At Tap, everyone’s welcome. Our system is built to fit the unique needs and demands of every business, regardless of size or operations. Among our list of favorite Tap users you’ll find mega-giants like OSN, Viva, and Bein Sports, right alongside some awesome home businesses and SMEs like Khaleejesque Magazine, The Walk In Closet, and Cake District. Ready to jump on-board?",
+							"ar":"أهلاً بالجميع في تاپ. برنامجنا مصمم ليلائم احتياجات ومتطلبات جميع الشركات بغض النظر عن حجم المؤسسة وطبيعة عملها. ستجد ضمن قائمة عملائنا المفضّلين OSN ،VIVA ،Bein Sports إلى جانب العديد من المؤسسات المنزلية الصغيرة والمجلات أو المطبوعات الإلكترونية مثال مجلة Khaleejesque ،The WalK In Closet و Cake District. مستعد للإنضمام إلينا؟"
+						},
+						"image":"https://www.tap.company/featuresImages/WI-business3-444x355.png",
+						"partner":"none"
+					}
+				]
+			}
+		]
+	},
+	{
+	"product": "pay",
+	"categories":
+		[
+			{
+				"categoryName":
+				{
+					"en":"Features",
+					"ar":"مميّزات"
+				},
+				"showMoreButtonText":
+				{
+					"en":"more features",
+					"ar":"المزيد من المميّزات"
+				},
+				"showLessButtonText":
+				{
+					"en":"Show Less",
+					"ar":"أظهر أقل"
+				},
+				"items":
+				[
+					{
+						"title":
+						{
+							"en":"List",
+							"ar":"القائمة"
+						},
+						"subtitle":
+						{
+							"en":"Flow Through Your Finances.",
+							"ar":"راقب مصاريفك"
+						},
+						"icon":"https://www.tap.company/productsFeaturesImages/goPay/Icons/gopay-Icon-MyList.png",
+						"description":
+						{
+							"en":"Simply enter your relevant information upon access and let goPay take it from there! goPay will instantly retrieve all your connected payments and bills, and automatically prioritize them for you in a clear list format. No stress, no clutter, no confusion. Just focus, clarity, and instant peace of mind. Yeah–just like that.",
+							"ar":"ببساطة أدخل كل المعلومات المتعلّقة بالفاتورة ودع goPay يتولّى المهمة بعد ذلك! سيقوم goPay باسترجاع جميع فواتيرك ومدفوعاتك المتعلّقة بها وينظمها تبعاً للأولوية في قائمة واضحة وسهلة الاستخدام. لا مكان للقلق أو الفوضى أو التوتر. بل للتركيز، الوضوح، السرعة وراحة البال. تماماً.."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goPay/Illustrations/goPay_My_list.png",
+						"videoButtonText":{
+							"en":"Watch the video",
+							"ar":"شاهد الفيديو"
+						},
+						"video":{
+							"en":"//player.vimeo.com/video/158805402?width=1080&autoplay=0&byline=0&portrait=0&color=cccccc",
+							"ar":"//player.vimeo.com/video/161346948?width=1080&autoplay=0&byline=0&portrait=0&color=cccccc"
+						}
+					},
+					{
+						"title":
+						{
+							"en":"Multiple Payments",
+							"ar":"الدفع لأكثر من جهة"
+						},
+						"subtitle":
+						{
+							"en":"All Together, All At Once.",
+							"ar":"عدّة فواتير. بلمسة واحدة"
+						},
+						"icon":"https://www.tap.company/productsFeaturesImages/goPay/Icons/gopay-Icon-multi-payments.png",
+						"description":
+						{
+							"en":"You can now pay for things like your bills, your subscriptions, and your iTunes cards all together, all at once. So while the rest of the world is busy hopping from site to site trying to figure out all their different payments at the same time, you’ll be taking it easy. Because with goPay, life is good.",
+							"ar":"يمكنك الآن تسديد فواتيرك، أو اشتراكاتك أو بطاقاتك من متجر iTunes بلمسة واحدة. وفّر على نفسك عناء التنقّل من موقع إلكتروني إلى آخر وإدخال بياناتك لتسديد مستحقاتك… ودع ذلك للآخرين! أمّا أنت فاختر الطريقة الأسهل. goPay خيارك لحياة أفضل."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goPay/Illustrations/goPay_Multi_Payments.png",
+						"videoButtonText":{
+							"en":"Watch the video",
+							"ar":"شاهد الفيديو"
+						},
+						"video":{
+							"en":"//player.vimeo.com/video/158877162?width=1080&autoplay=0&byline=0&portrait=0&color=cccccc",
+							"ar":"//player.vimeo.com/video/161347019?width=1080&autoplay=0&byline=0&portrait=0&color=cccccc"
+						}
+					},
+					{
+						"title":
+						{
+							"en":"Notifications",
+							"ar":"الإشعارات"
+						},
+						"subtitle":
+						{
+							"en":"Never Fall Behind",
+							"ar":"لا تنس مواعيد فواتيرك"
+						},
+						"icon":"https://www.tap.company/productsFeaturesImages/goPay/Icons/gopay-Icon-notifications.png",
+						"description":
+						{
+							"en":"Whenever an upcoming payment due date comes up on your calendar, goPay sends you a speedy little notification to remind you to take care of it in case you forgot. Because when life’s too busy to remember all the big stuff, goPay remembers them for you. (You can take the credit though—we won’t tell.)",
+							"ar":"عند حلول موعد استحقاق أي من فواتيرك، سيقوم goPay بإرسال إشعار سريع لتذكيرك بتسديدها. عندما تنشغل بأمور الحياة و تصبح غير قادر على تذكّر كل الأشياء المهمة، يقوم goPay بتذكّرها عنك (وهذا هو السر الذي لن يعرفه أحد سوى أنت)."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goPay/Illustrations/goPay_Notifications.png",
+						"videoButtonText":{
+							"en":"Watch the video",
+							"ar":"شاهد الفيديو"
+						},
+						"video":{
+							"en":"//player.vimeo.com/video/158877223?width=1080&autoplay=0&byline=0&portrait=0&color=cccccc",
+							"ar":"//player.vimeo.com/video/161347079?width=1080&autoplay=0&byline=0&portrait=0&color=cccccc"
+						}
+					},
+					{
+						"title":
+						{
+							"en":"Scan",
+							"ar":"مسح البطاقة"
+						},
+						"subtitle":
+						{
+							"en":"Heavy-Duty Protection. Guaranteed.",
+							"ar":"حماية مضمونة"
+						},
+						"icon":"https://www.tap.company/productsFeaturesImages/goPay/Icons/gopay-Icon-Scan.png",
+						"description":
+						{
+							"en":"With goPay’s scan feature, check out just got a whole lot faster! What used to take several minutes now takes only a few seconds. Just place your card in front of your phone’s camera, and goPay’s engine will instantly recognize and input the information for you. Because you’re cool and snazzy like that.",
+							"ar":"مع ميّزة المسح، جميع إجراءاتك أصبحت أسهل وأسرع! فأي عملية كانت تحتاج إلى عدّة دقائق أصبحت تتم بلحظات معدودة. فقط ضع بطاقتك أمام كاميرا الهاتف، وسيقوم محرّك goPay بالتعرّف إليها وعرض البيانات المتعلّقة بشأنها كل ذلك لأنّنا نفهم مزاجك!"
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goPay/Illustrations/goPay_Scan.png",
+						"videoButtonText":{
+							"en":"Watch the video",
+							"ar":"شاهد الفيديو"
+						},
+						"video":{
+							"en":"//player.vimeo.com/video/158877347?width=1080&autoplay=0&byline=0&portrait=0&color=cccccc",
+							"ar":"//player.vimeo.com/video/161348708?width=1080&autoplay=0&byline=0&portrait=0&color=cccccc"
+						}
+					},
+					{
+						"title":
+						{
+							"en":"Receipts",
+							"ar":"الإيصالات"
+						},
+						"subtitle":
+						{
+							"en":"Know Where Your Money’s Going.",
+							"ar":"نظّم مدفوعاتك"
+						},
+						"icon":"https://www.tap.company/productsFeaturesImages/goPay/Icons/gopay-Icon-Receipts.png",
+						"description":
+						{
+							"en":"Whenever you make a purchase through goPay you can choose to have your receipts stored as a screen capture on your phone’s camera roll for later reference. That means that you can now access your entire transaction history at any time, and in one place. Which also means that you can now finally track down that odd 100 KD that keeps disappearing on you every month.",
+							"ar":"ستتمكّن خلال التسوّق من حفظ صورة لفاتورتك في التطبيق عبر كاميرا هاتفك النقّال للاطلاع عليها لاحقاً. ما يعني إمكانية الدخول إلى مدفوعاتك السابقة في أي وقت ومن مكان واحد وبالتالي ستتمكّن من مراقبة مصاريفك بالكامل واكتشاف سر الاختفاء المتواصل للـ100 د.ك كل شهر من رصيدك."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goPay/Illustrations/goPay_Receipts.png",
+						"videoButtonText":{
+							"en":"Watch the video",
+							"ar":"شاهد الفيديو"
+						},
+						"video":{
+							"en":"//player.vimeo.com/video/158877256?width=1080&autoplay=0&byline=0&portrait=0&color=cccccc",
+							"ar":"//player.vimeo.com/video/161347591?width=1080&autoplay=0&byline=0&portrait=0&color=cccccc"
+						}
+					},
+					{
+						"title":
+						{
+							"en":"Security",
+							"ar":"الحماية والأمان"
+						},
+						"subtitle":
+						{
+							"en":"Heavy-Duty Protection. Guaranteed.",
+							"ar":"حماية مضمونة"
+						},
+						"icon":"https://www.tap.company/productsFeaturesImages/goPay/Icons/gopay-Icon-Security.png",
+						"description":
+						{
+							"en":"You can absolutely rest assured knowing that all of your financial and personal details are fully protected within goPay’s encrypted and multi-level security operations. For your complete peace of mind goPay is backed with global banking grade protective measures that are compliant with PCI DSS security standards. Which is all technical finance lingo for: we’ve got you covered.",
+							"ar":"يمكنك التأكد تماماً من أن جميع بياناتك المصرفية والشخصية محمية بالكامل بفضل إجراءات الحماية القوية المطبّقة في goPay. ومن أجل راحة بالك، يعتمد goPay أعلى أنظمة حماية بنكية مدعومة بمعايير PCI DSS لنؤمن تغطيتك بالكامل."
+						},
+						"image":"https://www.tap.company/productsFeaturesImages/goPay/Illustrations/goPay_Security.png",
+						"videoButtonText":{
+							"en":"Watch the video",
+							"ar":"شاهد الفيديو"
+						},
+						"video":{
+							"en":"//player.vimeo.com/video/158877390?width=1080&autoplay=0&byline=0&portrait=0&color=cccccc",
+							"ar":"//player.vimeo.com/video/161348208?width=1080&autoplay=0&byline=0&portrait=0&color=cccccc"
+						}
+					}
+				]
+			}
+		]
+	}
+]
+}

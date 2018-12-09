@@ -1,0 +1,328 @@
+[
+  {
+    "page":"support",
+    "slot":"support",
+    "color":"#959595",
+    "bannerImage":"http://www.tap.company/wp-content/uploads/2018/06/Support-main.svg",
+    "link":"/support",
+    "content":[
+      {
+        "title":{
+          "en":"How can we help you?",
+          "ar":"كيف يمكننا مساعدتك؟"
+        },
+        "paragraph":{
+          "en":"We’re absolutely here to help and we’re always very happy to hear\nany of your comments, suggestions, or concerns regarding our service and our company.",
+          "ar":"نحن هنا للمساعدة ، وسعداء دائما لسماع تعليقاتك وآرائك بشأن الخدمات التي تقدمها شركتنا."
+        }
+      }
+    ]
+  },
+  {
+    "page":"jobs",
+    "slot":"jobs",
+    "color":"#545454",
+    "bannerImage":"https://www.tap.company/wp-content/uploads/2018/11/jobs.png",
+    "link":"/jobs",
+    "intro":{
+      "en":"Do you love Tap? Then you’ll fit right in.",
+      "ar":"هل تحب تاپ؟ حيّاك هذا مكانك."
+    },
+    "subIntro":{
+      "en":"Tap is on a mission to change how businesses and consumers in the Middle East accept and make payments online. We’ve already helped hundreds of entrepreneurs and thousands of users create healthier businesses and easier transactions through Tap’s platforms and services. Every day, our hard work is spent helping others in our community build better businesses and live better lives.",
+      "ar":"لتطبيق تاپ مهمة واحدة هي تغيير النظرة السائدة في الشرق الأوسط لطرق الدفع عبر الإنترنت. لقد ساعدنا المئات لا بل الآلاف من المستخدمين وأصحاب الأعمال حتى الآن في إتمام العمليات المالية بسهولة وسلاسة عبر وسائل وخدمات تاپ. نحن نعمل بجهد كل يوم لبناء حياة أسهل لأفراد مجتمعنا ولنؤسس معهم أعمال أفضل."
+    },
+    "contentTitle":{
+      "en":"Working at Tap means...",
+      "ar":"العمل في تاپ يعني..."
+    },
+    "content":[
+      {
+        "icon":"https:www.tap.company/wp-content/uploads/sites/38/2016/05/team-icon.png",
+        "title":{
+          "ar":"العمل ضمن فريق واحد",
+          "en":"As a team"
+        },
+        "paragraph":{
+          "ar":"لأنّ طبيعة عملنا اليومية تفرض علينا الكثير من التحديات، نحن في فريق عمل تاپ نجتهد كل يوم لمواجهة هذه التحديات وتحقيق أفضل النتائج… ولكن لا مشكلة في فنجان قهوة مع الفريق في ظل هذه الزحمة.",
+          "en":"Because of the daily nature of payments, every day brings new challenges for the Tap Team, and every day we work together to meet those challenges. At Tap, we keep the coffee running and the teamwork buzzing."
+        }
+      },
+      {
+        "icon":"https:www.tap.company/wp-content/uploads/sites/38/2016/05/creative-icon.png",
+        "title":{
+          "ar":"في طاقمنا .. عقول مبدعة",
+          "en":"With creative people"
+        },
+        "paragraph":{
+          "ar":"يقوم نصف طاقم عملنا بالعمل مع المستهلكين ومساعدة العملاء وأصحاب العمل وعلى إيجاد طرق جديدة وسهلة للتواصل مع العالم فيما يقوم النصف الآخر في تحسين خبرة تاپ وبنائها وتصميمها لجعلها وسيلة دفع متطوّرة ومتقدّمة أكثر من أي وقت مضى. ومع كلا القسمين، نستخدم الإبداع والمرح وحب الاكتشاف كوسيلة لتوليد مزيد من العمل الجيّد لبناء شركة نفتخر بها تحوز على ثقة العملاء.",
+          "en":"Half of the Tap Team works with the Tap community—helping consumers, helping business owners, and exploring new and exciting ways to connect with the world. The other half works on refining the Tap experience—building, designing, and making Tap an even greater payment tool than ever before. On both sides of the team, we all use our creativity and our joy of discovery to build an organization that our customers love and that we can all be proud of."
+        }
+      },
+      {
+        "icon":"https:www.tap.company/wp-content/uploads/sites/38/2016/05/purpose-icon.png",
+        "title":{
+          "ar":"نعمل لهدف",
+          "en":"For a purpose"
+        },
+        "paragraph":{
+          "ar":"تنمية الكويت ودول الخليج العربي وتطويرها أحد أهم قيمنا وأكثرها تحدياً – فنحن لا نكتفي بتسويق شركتنا بل بجعل منطقتنا مكاناً فعالاً ينبض بالحيوية والإنتاجية. لذا فإن كل طاقة يبذلها كل موظف لدينا ستترك أثراً إيجابياً في المجتمع من حولنا وفي مسيرته المهنية على حد سواء.",
+          "en":"We put our values of making Kuwait and the Gulf a more innovative, daring, and productive place at the heart of how we operate as an organization—not just how we market ourselves. The time and energy you spend with Tap will go towards making a positive impact both on your own career and on the society around you."
+        }
+      }
+    ],
+    "subImage":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/Jobs-MainImage1.png",
+    "subImageContent":{
+        "title":{
+          "ar":"تشعر بأنك من هذا الفريق؟",
+          "en":"Sound like your kind of team?"
+        },
+        "paragraph":{
+          "ar":"نحن في تاپ نتعامل مع كل شيء بإبداع وحرفية—\nفإذا كنت تعتمد الطريقة نفسها في عملك، سيسعدنا جداً أن نسمع منك.",
+          "en":"At Tap, we approach everything we do thoughtfully and creatively—\nif you feel the same way about your own work, we’d love to hear from you."
+        },
+        "buttonText":{
+          "ar":"شارك في تاپ",
+          "en":"Join Tap"
+        }
+    }
+  },
+  {
+    "page":"about",
+    "slot":"about",
+    "color":"#959595",
+    "bannerImage":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/ourstory-main-computer2.jpg",
+    "link":"/about",
+    "intro":{
+      "en":"Managing your money is no small task, after all.",
+      "ar":"إدارة مصاريفك ليست أمراً سهلاً في نهاية المطاف."
+    },
+    "subIntro":{
+      "en":"But just because we all have to manage our money that doesn’t mean we all necessarily like managing our money… and it doesn’t mean that we’re always the best at it, either. And yet, as business owners and regular consumers alike, we all have to deal with the maddening work of managing our money—every single day, no matter what. You’re probably asking yourself the same questions we were. Isn’t that why we have technology? Weren’t we supposed to be living better and better… not more and more stressed out?",
+      "ar":"جميعنا مضطرون لإدارة مصاريفنا وحساباتنا بشكل يومي سواء كّنا مستهلكين أو أصحاب أعمال. ولا يعني قيامنا بذلك يومياً أنّنا سعداء بهذه المهمة، ولكنه أمر لا بدّ منه على الرغم من عدم نجاحنا بذلك في أغلب الأوقات.. ولعلّك تسأل نفسك الآن… لماذا كل ذلك؟ ألم توجد التكنولوجيا لجعل حياتنا أبسط وأكثر سهولة وأقل توتراً؟"
+    },
+    "content":[
+      {
+        "title":{
+          "en":"The Beginning",
+          "ar":"البداية"
+        },
+        "paragraph":{
+          "en":"That’s exactly where Tap founders found themselves, once upon a time in the year 2014. Or rather, that’s where they found most Middle Eastern business owners and consumers. They found that, for the world’s leading population of young, wealthy, online savvy, technologically advanced users to still have problems buying and selling things online in their part of the world… Something wasn’t clicking. We live in a world where we didn’t have to deal with drawn out set-up procedures, complicated systems, or inflexible payment methods anymore… but somehow we still were.\n\nWe knew there was a better way. And that way was Tap. So, Tap was born in May 2013, in Kuwait—and with it a whole new era of doing business online in the Middle East. Now businesses could finally bill, accept, receive, and make payments online… easier, faster, and smoother than ever before. Payment clearances that used to take days and weeks to setup, now took just a few hours. Integrating local businesses with the global e-commerce platforms became a real possibility.\n\nNow that Tap is around, managing money—and managing it well—became a whole lot cooler.",
+          "ar":"أمام هذا السؤال، وجد مؤسسوا تاپ أنفسهم بلا إجابة وكان ذلك بداية لتأسيس تاپ عام 2014. فقد لاحظا أن معظم أصحاب الأعمال والمستهلكين في منطقة الشرق الأوسط يعانون من هذه المسألة. وعلى الرغم من أن مجتمعاتنا مليئة بالشباب الشغوفين بالتكنولوجيا والإنترنت، ما زالت عمليات البيع والشراء الإلكترونية متأخّرة ومن هنا راودتهما هذه الفكرة الجديدة. فنحن نعيش في ظل عالم متقدّم يوفّر علينا عناء الأنظمة والإجراءات المعقّدة ، أو طرق الدفع غير المرنة، لكننا رغم ذلك ما زلنا بعيدين عن تطبيق هذا التقدّم على أرض الواقع. لذلك سعى علي ومحمد إلى إيجاد طريقة أفضل. فكانت تاپ. ولدت تاپ في مايو 2013 في الكويت مشكلة انطلاقة مرحلة جديدة للأعمال عبر الإنترنت في منطقة الشرق الأوسط. حيث بات بإمكان أصحاب الأعمال إعداد الفواتير، قبول المدفوعات، استلام وإجراء العمليات المالية إلكترونياً بسهولة وسرعة وطريقة أكثر سلاسة من قبل وباتت إجراءات الحصول على براءة ذمّة مثلا تتم في خلال عدة ساعات بعد أن كانت تتطلب أياما أو أسابيع وأصبح دمج الأعمال المحلية بنظام العمليات المصرفية العالمة حقيقة ممكنة أصبحت إدارة الأموال بطريقة صحيحة عملية أكثر سهولة ومرحاً مع تاپ الآن."
+        }
+      },
+      {
+        "title":{
+          "en":"Fast forward to present day",
+          "ar":"تطوّر سريع ونمو متواصل"
+        },
+        "paragraph":{
+          "en":"Tap now supports over 1000 businesses and major corporations (many of which we’re honored to say you’re familiar with) and has had a (digital!) hand in securing tens of thousands of transactions easily and efficiently for consumers all around the world.\n\nWe’re happily based in Kuwait where our caffeine-fueled team is working day-in, day-out on one really big mission:",
+          "ar":"يدعم تطبيق تاپ اليوم أكثر من 100 مؤسسة وشركة رئيسية (ممن نفتخر بالتعامل معهم) وقد نجح في تقديم مساعدته الرقمية في حماية الآلاف من العمليات المصرفية لعدد من العملاء حول العالم بسهولة وفعالية.\nنحن سعداء بانطلاقتنا من الكويت حيث مركزنا وطاقمنا الشغوف الذي يعمل بجهد متواصل على تنفيذ مهمتنا الضخمة:"
+        }
+      }
+    ],
+    "subImage":"https://www.tap.company/kw//wp-content/uploads/sites/38/2015/10/ourstory-sub-image1.jpg?id=1618",
+    "subImageContent":{
+      "title":{
+        "ar":"حياتك أسهل وأعمالك أقوى",
+        "en":"Making your life easier and your business stronger"
+      }
+    },
+    "conclusion":
+    {
+      "en":"If you’re running a business of any kind and need a simple, powerful way to start selling online and accept payments using goSell\\sell and the possibility to bill clients and collect online payments using goCollect\\collect , Tap was built specifically for you.\n\nAt Tap, our greatest goal is serving our clients, our users, and our community every single day. We believe in thinking differently and doing whatever it takes to get to “yes.” Our job is turn roadblocks into opportunities, both in business and in life. In everything we do we strive to be excellent, to over-deliver, and to leave those we impact with the belief that they can do and be more than they ever thought possible.",
+      "ar":"تدير مؤسسة وترغب بنظام مالي بسيط وقوي يساعدك على بيع منتجاتك وإعداد فواتيرك إلكترونياً. goSell\\sell و goCollect\\collect صمّم خصيصاً لتلبية احتياجاتك.\n\nفي تاپ، أهم أهدافنا هو خدمة عملائنا، ومستخدمينا ومجتمعنا كل يوم. نحن نؤمن بالتفكير بطريقة مختلفة ونبذل كل ما في وسعنا لنحقّق ما نطمح إليه . وظيفتنا تحويل العقبات إلى فرص جديدة في الحياة وفي الأعمال. نحن نسعى إلى الأفضل دائماً، وإلى تقديم المزيد وترك أثر وثقة لدى كل عملائنا بأنّ كل شيء ممكن."
+    }
+  },
+  {
+    "page":"api",
+    "slot":"api",
+    "color":"#ffc72d",
+    "bannerImage":"https://www.tap.company/bh/wp-content/uploads/2017/05/API-main-image.svg",
+    "callToAction":{
+      "title":{
+        "en":"Start Integrating",
+        "ar":"ابدأ الدمج"
+      },
+      "paragraph":{
+        "en":"custom e-payment experience, from start to finish.",
+        "ar":"تجربة دفع إلكتروني سهلة وسريعة"
+      },
+      "shortTitle":{
+        "en":"Ready to start building?",
+        "ar":"هل أنت جاهز للبدء؟"
+      },
+      "shortParagraph":{
+        "en":"Add Tap’s API to your system in minutes!",
+        "ar":"دمج سهل وسريع!"
+      },
+      "buttonText":{
+        "en":"Get Started",
+        "ar":"ابدأ الآن"
+      },
+      "buttonLink":"/developers",
+      "image":"https://www.tap.company/kw/wp-content/uploads/sites/38/2017/02/giant_file-1.png"
+    },
+    "link":"/api",
+    "features":[
+      {
+        "icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2017/02/build-icon-150x150.png",
+        "title":{
+          "ar":"إنشاء",
+          "en":"Build"
+        },
+        "paragraph":{
+          "ar":"ابدأ بإنشاء الموقع أو التطبيق الخاص بمشروعك.",
+          "en":"Maximize the value of Tap for your business, construct a payment framework that fits your unique needs."
+        }
+      },
+      {
+        "icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2017/02/connect-icon-150x150.png",
+        "title":{
+          "ar":"دمج",
+          "en":"Connect"
+        },
+        "paragraph":{
+          "ar":"قم بالربط مع تاپ وانضم لأكثر من 1000 مشروع نشط يومياً.",
+          "en":"Making it easy to connect businesses with customers, use our API functionality to reach out in your own way."
+        }
+      },
+      {
+        "icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2017/02/delight-icon-150x150.png",
+        "title":{
+          "ar":"تجربة ممتعة",
+          "en":"Delight"
+        },
+        "paragraph":{
+          "ar":"وفّر تجربة رائعة لعملائك من خلال بوابة تاپ للدفع الإلكتروني.",
+          "en":"Use Tap’s full-featured API to create an experience that your customers will love and remember you by."
+        }
+      }
+    ],
+    "statisticsTitle":
+    {
+      "ar":"لمحة عن API تاپ",
+      "en":"Access the full power of Tap"
+    },
+    "statistics":[
+      {
+        "icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2017/05/icon-integration-85x85.png",
+        "countTo":1001,
+        "finalText":{
+          "en":"1001+",
+          "ar":"1,001"
+        },
+        "description":{
+          "ar":"عملية دمج",
+          "en":"World-class integrations"
+        }
+      },
+      {
+        "icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2017/05/icon-transaction-85x85.png",
+        "countTo":1000000000,
+        "finalText":{
+          "en":"1M+",
+          "ar":"أكثر من مليون"
+        },
+        "description":{
+          "ar":"عمليّة تحويل",
+          "en":"Successful transactions"
+        }
+      },
+      {
+        "icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2017/05/icon-country-85x85.png",
+        "countTo":7,
+        "finalText":{
+          "en":"7",
+          "ar":"7"
+        },
+        "description":{
+          "ar":"دول",
+          "en":"Available countries"
+        }
+      }
+    ],
+    "title":{
+      "ar":"ابدأ بالتطوير مع تاپ",
+      "en":"Feature rich"
+    },
+    "paragraph":{
+      "ar":"كل ما تحتاجه لتقديم تجربة دفع إلكتروني رائعة.",
+      "en":"Everything you need to build the perfect payment experience: you name it, we’ve got it."
+    },
+    "apiFeatures":[
+      {
+        "icon":"https://www.tap.company/wp-content/uploads/sites/38/2017/05/Payment-requests.png?id=371",
+        "title":{
+          "ar":"طلب\nالدفع",
+          "en":"Track\nPayments"
+        },
+        "subtitle":{
+          "ar":"وجه زبائنك لبوابة الدفع الإلكتروني الخاصة بتاپ",
+          "en":"Direct your payments seamlessly"
+        },
+        "description":{
+          "ar":"يحتاج صاحب العمل لتوفير تفاصيل طلب الدفع، لتقوم تاپ بإرسال رابط الدفع.",
+          "en":"Got a custom sales process in mind? Tap’s got your back. All you have to do is submit your Payment Request parameter details to Tap for verification, and we’ll set you up with everything you need to direct your payment requests to the Tap gateway."
+        },
+        "link":"/developers",
+        "readMoreText":{
+          "en":"Read more",
+          "ar":"اقرأ المزيد"
+        }
+      },
+      {
+        "icon":"https://www.tap.company/wp-content/uploads/sites/38/2017/05/Track-payments.png?id=3712",
+        "title":{
+          "ar":"تتبّع\nالدفع",
+          "en":"Track\nPayments"
+        },
+        "subtitle":{
+          "ar":"تتبع حالة مدفوعاتك أصبح أكثر سهولة!",
+          "en":"See your payment status in real-time"
+        },
+        "description":{
+          "ar":"قم بتتبّع ومراقبة حالة طلب الدفع الذي أنشأته.",
+          "en":"Looking for more control over your payment cycle? Our Create a Payment API allows you to include a tracking feature to help you see your payment status changes as they happen."
+        },
+        "link":"/developers",
+        "readMoreText":{
+          "en":"Read more",
+          "ar":"اقرأ المزيد"
+        }
+      },
+      {
+        "icon":"https://www.tap.company/wp-content/uploads/sites/38/2017/05/Refund.png?id=3711",
+        "title":{
+          "ar":"إرجاع\nالمدفوعات",
+          "en":"Painless\nRefund"
+        },
+        "subtitle":{
+          "ar":"إرجاع القيمة المدفوعة إلى الزبون مرّة أخرى",
+          "en":"Super simple refund requests"
+        },
+        "description":{
+          "ar":"إعادة المبلغ المدفوع إلى حساب العميل مرّة أخرى.",
+          "en":"Our API helps you make the refund process as easy and pain-free as possible through account-to-account refund requests. Just plug it in and watch the magic happen!"
+        },
+        "link":"/developers",
+        "readMoreText":{
+          "en":"Read more",
+          "ar":"اقرأ المزيد"
+        }
+      }
+    ]
+  },
+  {
+    "page":"developers",
+    "slot":"developers",
+    "color":"#959595",
+    "iframeSrc":"https://tappayments.api-docs.io/2.0"
+  },
+  {
+    "page":"activate-payment",
+    "slot":"activate-payment"
+  }
+]

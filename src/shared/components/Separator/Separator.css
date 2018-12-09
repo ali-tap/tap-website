@@ -1,0 +1,11 @@
+
+.separator{
+    margin: auto;
+    height: 18px;
+    box-shadow: 0px 7px 10px -7px;
+    background-color: transparent;
+    margin-bottom: 15px;
+    overflow: hidden;
+    color: #e2e2e2;
+}
+

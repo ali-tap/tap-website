@@ -1,0 +1,172 @@
+/*
+.plans{
+	width: 100%;
+	padding: 20px;
+}
+
+.plans{
+	box-shadow: 0px 1px 15px lightgrey;
+	border-radius: 2px;
+}
+
+.plan{
+	background: #fff;
+	display: inline-block;
+    padding: 15px;
+    box-shadow: 0px 1px 15px lightgrey;
+    border-radius: 2px;
+}
+
+.plansDivs{
+	display: inline-flex;
+	width: 100%;
+}
+
+.planIcon{
+	width: 60%;
+	height: auto;
+}
+
+.featureValue{
+	margin: 0;
+	font-size: smaller;
+	color: #b7b7b7;
+	line-height: 1.3;
+}
+
+.featureName{
+	margin: 0;
+}
+
+.featureRow{
+	border-top: 1px solid #cfcfcf;
+	width: 100%;
+}
+
+.featureValue.featureSubValue{
+	font-size: x-small;
+}
+
+.featureName.subSubFeature{
+	font-size: smaller;
+	font-style: italic;
+	color: #818181;
+}
+
+.featureName.subFeature{
+	color: #818181;
+}
+
+hr.planFeatureSeperator{
+	margin-top: 1.7rem;
+	margin-bottom: 1.7rem;
+	border-top: 1px solid #cfcfcf;
+}
+
+.featureValueFalse,.featureValueTrue{
+	display: block;
+	margin-top: 5px;
+	font-size: x-small;
+}
+
+.featureValueTrue{
+	color: #2ace00;
+} */
+
+
+/***********************************************************************************/
+/***********************************************************************************/
+/***********************************************************************************/
+/***********************************************************************************/
+
+
+/* .plans{
+  box-shadow: 0px 1px 15px lightgrey;
+	border-radius: 2px;
+  padding: 15px;
+  background-color: #fff;
+}
+
+.plansHeader{
+
+}
+
+.planHeader{
+  display: inline-block;
+}
+
+.planIcon{
+	width: 50%;
+	height: auto;
+}
+
+.featureName{
+	margin: 0;
+  background-color: #fff;
+  padding: 5px;
+  position: absolute;
+  margin-top: -20px;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: max-content;
+}
+
+.featureNamewithSeperator{
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+.featureValue{
+	margin: 0;
+	font-size: smaller;
+	color: #b7b7b7;
+	line-height: 1.3;
+}
+
+
+.featureName.subSubFeature{
+	font-size: smaller;
+	font-style: italic;
+	color: #818181;
+}
+
+.plansflexContainer{
+  width: 100%;
+  display: inline-flex;
+}
+
+.featureValueFalse,.featureValueTrue{
+	display: block;
+	margin-top: 5px;
+	font-size: x-small;
+}
+
+.featureValueTrue{
+	color: #2ace00;
+}
+
+.featureValue.featureSubValue{
+	font-size: x-small;
+}
+
+.featureName.subSubFeature{
+	font-size: smaller;
+	font-style: italic;
+	color: #818181;
+}
+
+.featureName.subFeature{
+	color: #818181;
+}
+
+hr.planFeatureSeperator{
+	margin-top: 0.1rem;
+	margin-bottom: 0.1rem;
+	border-top: 1px solid #ececec;
+} */

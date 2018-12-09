@@ -1,0 +1,27 @@
+[
+	{
+		"name":"youtube",
+		"fontAwesomeIcon":"fa-youtube-square",
+		"link":"https://www.youtube.com/channel/UCGsG95ViQdDHIFijHUYRRjw"
+	},
+	{
+		"name":"facebook",
+		"fontAwesomeIcon":"fa-facebook-square",
+		"link":"https://www.facebook.com/tappayments"
+	},
+	{
+		"name":"twitter",
+		"fontAwesomeIcon":"fa-twitter-square",
+		"link":"http://www.twitter.com/gotapnow"
+	},
+	{
+		"name":"linkedin",
+		"fontAwesomeIcon":"fa-linkedin",
+		"link":"http://www.linkedin.com/company/tap-payments"
+	},
+	{
+		"name":"instagram",
+		"fontAwesomeIcon":"fa-instagram",
+		"link":"http://www.instagram.com/tappayments"
+	}
+]

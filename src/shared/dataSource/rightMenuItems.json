@@ -1,0 +1,39 @@
+
+[
+	{
+		"title":{
+			"en":"Our Story",
+			"ar":"قصتنا"
+		},
+		"link":"/about",
+		"slot":"about",
+		"type":"page"
+	},
+	{
+		"title":{
+			"en":"Jobs",
+			"ar":"التوظيف"
+		},
+		"link":"/jobs",
+		"slot":"jobs",
+		"type":"page"
+	},
+	{
+		"title":{
+			"en":"Support",
+			"ar":"المساعدة"
+		},
+		"link":"/support",
+		"slot":"support",
+		"type":"page"
+	},
+	{
+		"title":{
+			"en":"Sign In",
+			"ar":"دخول"
+		},
+		"link":"#",
+		"action":true,
+		"type":"action"
+	}
+]

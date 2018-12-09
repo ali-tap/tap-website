@@ -1,0 +1,277 @@
+@font-face{
+    font-family: 'neue-helvetica-ar';
+    src: url('neue-helvetica-arabic.ttf'),
+    url('neue-helvetica-arabic.ttf'); 
+}
+
+.footer{
+	background-color: lightgray !important;
+	overflow: hidden;
+}
+
+.leftSide{
+	float: left;
+	text-align: left;
+	display: inline-block;
+}
+
+.menusSide{
+	width: 69%;
+}
+
+.imagesSide{
+	width: 31%;
+}
+
+.rightSide{
+	float: right;
+	text-align: right;
+	display: inline-block;
+}
+
+.footerMenu{
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+}
+
+.footerMenuTitle{
+	font-size: 12px;
+	cursor: default;
+}
+
+.footerMenuItems{
+	padding: 0;
+	list-style-type: none;
+	font-size: 11px;
+	margin-bottom: 30px;
+	-webkit-transition: max-height 1s;
+	-moz-transition: max-height 1s;
+	transition: max-height 1s;
+}
+
+.footerLink{
+	color: inherit;
+}
+
+.footerLink:hover{
+	text-decoration:  none;
+	color: inherit;
+	opacity: 0.5;
+}
+
+.footerImage{
+	width: auto;
+}
+
+.appsStores{
+	height:37px;
+}
+
+.paymnetMethods{
+	height: 32px;
+}
+
+.securityMethods{
+	height: 25px;
+}
+
+.footerFirstSection{
+	overflow: hidden;
+	padding-top: 60px;
+	padding-bottom: 30px;
+}
+
+.footerSecondSection{
+    border-top: 1px solid #b5b5b5;
+    padding: 35px 0;
+    overflow: hidden;
+    font-size: 12px;
+}
+
+.socialMediaLink{
+	font-size: initial;
+}
+
+.iconSpace {
+    display: inline-block;
+    width: 10px;
+}
+
+.languageSwitcher,.countrySwitcher{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.languageSwitcher>.footerLink{
+	font-family: 'neue-helvetica-ar';
+}
+
+.secondFooterItem{
+
+}
+
+.textSpace{
+	display: inline-block;
+	width: 15px;
+}
+
+.languageSwitcher,.socialMedia,.countrySwitcher{
+	display: inline-block;
+}
+
+.choice{
+	cursor: pointer;
+	font-size: 13px;
+}
+
+.dropdown-menu {
+    padding: 10px;
+    left: -10px !important;
+}
+
+.countryList {
+    background-color: #fff;
+    padding: 10px;
+    text-align: initial;
+    border-radius: 3px;
+    border: 1px solid #cccccc;
+    position: absolute;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -244px;
+    -webkit-transition: opacity 200ms;
+    -moz-transition: opacity 200ms;
+    -o-transition: opacity 200ms;
+    transition: opacity 200ms;
+}
+
+.countryList.openList {
+	opacity: 1;
+	pointer-events: auto;
+}
+
+.countryList.closeList {
+	opacity: 0;
+	pointer-events: none;
+}
+
+.countryListItems{
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+
+.countryFlag{
+	width: 17px;
+	height: auto;
+	vertical-align: sub;
+}
+
+.flagSpace{
+    display: inline-block;
+    width: 3px;	
+}
+
+.MenuTitleIcon{
+	display: none;
+}
+
+.imageSpace {
+    display: inline-block;
+    width: 15px;
+}
+
+@media screen and (max-width: 1199px) {
+	.menusSide,.imagesSide{
+		width: 100%;
+		float: none;
+		text-align: center;
+		display: block;
+	}
+	.footerMenu{
+		width: 100%;
+		text-align: justify;
+		border-bottom: 1px solid gray;
+	}
+
+	.footerMenuTitle{
+		cursor: pointer;
+		padding: 8px 0;
+	}
+
+	.footerMenuTitle,.footerMenuItems{
+		font-size: 15px;
+	}
+
+	.footerMenuItems{
+		margin:0;
+		padding-bottom: 8px;
+	}
+	.footerMenuItems>li{
+		line-height: 2;
+	}
+	.MenuTitleIcon{
+		display: inline-block;
+		width: 25px;
+		text-align: end;
+	}
+	.MenuTitleText{
+		display: inline-block;
+		width: calc(100% - 25px);		
+	}
+	.footerMenuItems{
+		max-height: 0;
+		overflow: hidden;
+	}
+	.footerMenuItems.active{
+		max-height: 150px;
+	}
+	.menusSide{
+		margin-bottom: 40px;
+	}
+	.footerImage {
+	    margin-left: 7px;
+	    margin-right: 7px;
+	}
+	.imageSpace {
+	    display: none;
+	    width: 0px;
+	}
+}
+
+@media screen and (max-width: 992px) {
+	.secondFooterItem{
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+	.rightSide,.leftSide{
+		width: 100%;
+		float: none;
+		text-align: center;
+		display: block;
+	}
+
+	.languageSwitcher,.socialMedia,.countrySwitcher,.secondFooterItem:nth-of-type(1){
+	    display: block;
+	    margin-bottom: 12px;
+	    margin-left: auto;
+	    margin-right: auto;
+	    width: fit-content;
+	}
+	.iconSpace,.textSpace {
+	    display: none;
+	    width: 0px;
+	}
+	.socialMediaLink{
+		margin-left: 5px;
+		margin-right: 5px;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.securityMethods {
+	    height: 23px;
+	    margin-left: 2px !important;
+	    margin-right: 2px !important;
+	}
+}

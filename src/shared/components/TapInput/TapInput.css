@@ -1,0 +1,34 @@
+
+.inputContainer{
+	width: 240px;
+  display: inline-block;
+  vertical-align: top;
+	border-radius: 5px;
+}
+
+.tapInput{
+	border:none;
+	height: 46px;
+	border-radius: 5px;
+	width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+	line-height: 47px;
+}
+
+.extraPadding{
+  padding-right: 46px;
+  padding-left: 46px;
+}
+
+@media screen and (max-width: 1200px) {
+    .inputContainer{
+        width: 215px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .inputContainer{
+		width: 240px;
+    }
+}

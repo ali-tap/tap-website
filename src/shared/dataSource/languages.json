@@ -1,0 +1,12 @@
+[
+	{
+		"name":"English",
+		"slot":"en",
+		"shortName":"en"
+	},
+	{
+		"name":"العربية",
+		"slot":"ar",
+		"shortName":"ar"
+	}
+]

@@ -1,0 +1,13 @@
+.readMoreLink{
+  color: #0066cc;
+  -webkit-transition: color 0.4s ease-in-out;
+	-webkit-transition:  color 0.4s ease-in-out;
+	-o-transition:  color 0.4s ease-in-out;
+	transition: color 0.4s ease-in-out;
+  font-size: small;
+}
+
+.readMoreLink:hover{
+  text-decoration: underline;
+  color: #000000;
+}

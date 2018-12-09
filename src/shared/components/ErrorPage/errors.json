@@ -1,0 +1,22 @@
+[
+  {
+    "error":"notfound",
+    "error_number":"404",
+    "error_image":"https://www.tap.company/errors/404_black.svg",
+    "error_message":
+    {
+       "en":"page not found",
+       "ar":"الصفحة غير موجودة"
+    }
+  },
+  {
+    "error":"servererror",
+    "error_number":"500",
+    "error_image":"https://www.tap.company/errors/500_black.svg",
+    "error_message":
+    {
+       "en":"Sorry, This is a server error, please try again later",
+       "ar":"نأسف، حدث خطأ في الخادم، الرجاء المحاولة لاحقاً"
+    }
+  }
+]

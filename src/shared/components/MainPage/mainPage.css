@@ -1,0 +1,10 @@
+.lessOpacityOnHover{
+  -webkit-transition: 200ms;
+  -moz-transition: 200ms;
+  -o-transition: 200ms;
+  transition: 200ms;
+}
+
+.lessOpacityOnHover:hover{
+  opacity: 0.4;
+}

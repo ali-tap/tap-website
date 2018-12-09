@@ -1,0 +1,60 @@
+{
+  "title":
+  {
+    "en":"In The News",
+    "ar":"في الأخبار"
+  },
+  "items":
+  [
+    {
+      "name":"forbes",
+      "image":"https://www.tap.company/inthenews/forbes.svg"
+    },
+    {
+      "name":"bazar",
+      "image":"https://www.tap.company/inthenews/bazar.svg",
+      "link":"http://bazaar.town/tap-the-smart-way-to-pay/"
+    },
+    {
+      "name":"nuwait",
+      "image":"https://www.tap.company/inthenews/nuwait.svg",
+      "link":"http://nuwait.net.kw/video/online-payment-gets-boost-kuwait-video"
+    },
+    {
+      "name":"skynews",
+      "image":"https://www.tap.company/inthenews/skynews.svg",
+      "link":"http://www.skynewsarabia.com/web/episode/X3Los8CYU4I/PLPMXgosg0OYNFgab2VX1piaYqZYvmjour?headline=%D8%A2%D9%81%D8%A7%D9%82%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%20--%20%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%20%D8%A8%D9%8A%D8%A6%D8%A9%20%D9%85%D8%AD%D9%81%D8%B2%D8%A9%20%D9%84%D8%A7%D8%AD%D8%AA%D8%B6%D8%A7%D9%86%20%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9%20%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%20%D8%A7%D9%84%D9%86%D8%A7%D8%B4%D8%A6%D8%A9&programName=%D8%A2%D9%81%D8%A7%D9%82%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1&imageUrl=https://i.ytimg.com/vi/X3Los8CYU4I"
+    },
+    {
+      "name":"arabnet",
+      "image":"https://www.tap.company/inthenews/arabnet.svg",
+      "link":"https://www.arabnet.me/english/editorials/Business/E-Commerce/Tap--Payment-Solutions-Made-Easy-Quick-and-Secure"
+    },
+    {
+      "name":"khaleejsque",
+      "image":"https://www.tap.company/inthenews/khaleejesque.svg",
+      "link":"http://www.tap.company/inthenews/Science-Culture-Tap-Liltera-R-Williams-April-.pdf"
+    },
+    {
+      "name":"aljarida",
+      "image":"https://www.tap.company/inthenews/aljarida.svg",
+      "link":"http://www.aljarida.com/articles/1537021096968581600/"
+    },
+    {
+      "name":"AlAnba",
+      "image":"https://www.tap.company/inthenews/alanba.svg",
+      "link":"https://www.alanba.com.kw/ar/economy-news/856026/16-09-2018-%D8%A8%D9%88%D8%A8%D9%8A%D8%A7%D9%86-%D9%8A%D9%88%D9%82%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D8%B9%D8%A7%D9%88%D9%86-tap-payments"
+    },
+    {
+      "name":"alrai",
+      "image":"https://www.tap.company/inthenews/alrai.svg",
+      "link":"http://m.alraimedia.com/ar/article/economics/2017/10/03/795804/nr/kuwait"
+    },
+    {
+      "name":"alqabas",
+      "image":"https://www.tap.company/inthenews/alqabas.svg",
+      "link":"https://alqabas.com/444557/"
+    }
+  ]
+
+}

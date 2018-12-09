@@ -1,0 +1,49 @@
+
+.TapCarouselSliderItem{
+  width: 25%;
+  padding: 0 6%;
+  display: inline-block !important;
+}
+
+.slick-arrow{
+  height: 30px;
+  width: 30px;
+  opacity: 0.6;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -o-transition: 300ms;
+  transition: 300ms;
+}
+
+.slick-arrow:hover{
+  opacity: 0.3;
+}
+
+
+.slick-prev:before,.slick-next:before,[dir=rtl] .slick-next:before,[dir=rtl] .slick-prev:before{
+  content: '';
+}
+[dir=ltr] .slick-arrow.slick-next{
+  background-image: url(https://image.flaticon.com/icons/svg/271/271228.svg);
+}
+
+[dir=rtl] .slick-prev{
+  background-image: url(https://image.flaticon.com/icons/svg/271/271228.svg) !important;
+}
+
+[dir=ltr] .slick-arrow.slick-prev{
+  background-image: url(https://image.flaticon.com/icons/svg/271/271220.svg);
+}
+[dir=rtl] .slick-next{
+  background-image: url(https://image.flaticon.com/icons/svg/271/271220.svg) !important;
+}
+
+@media screen and (max-width: 767px) {
+  .TapCarouselSliderItem{
+    width: 170px !important;
+    padding: 10px 9% !important;
+  }
+  .slick-arrow{
+    display: none !important
+  }
+}

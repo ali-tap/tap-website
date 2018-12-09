@@ -1,0 +1,312 @@
+[
+	{
+		"pageTemplate":"productPage",
+		"link":"/collect",
+		"image":"https://www.tap.company/ogImages/tap.png",
+		"title":
+		{
+			"en":"goCollect! by Tap | Create & Send Invoices Easily",
+			"ar":"goCollect! | خدمة إرسال و تحصيل الفواتير بسهوله من تاپ"
+		},
+		"description":
+		{
+			"en":"Tap's goCollect service allows you to send invoices to your customers via SMS, email & social media & collect payments by major debit & credit cards.",
+			"ar":"هي خدمة من تاپ لإرسال وتحصيل الفواتيرعن طريق الرسائل القصيرة والإيميل أو مشاركتها على مواقع التواصل الاجتماعي goCollect وقبول الدفع ببطاقات الائتمان بسهوله"
+		},
+		"keyWords":{
+			"en":"Tap , goCollect , invoice , payment , online payment , invoicing system kuwait , quick invoice , send invoice , send bill , billing , online invoice , free invoice template",
+			"ar":"تاب , جو كوليكت , فاتورة , دفع , دفع اونلاين , فواتير الكويت , فاتورة سريعة , ارسال فاتورة , حساب التاجر , فاتورة علي الانترنت , نموذج فاتورة , تحصيل , فواتير"
+		}
+	},
+	{
+		"pageTemplate":"productPage",
+		"link":"/sell",
+		"image":"https://www.tap.company/ogImages/tap.png",
+		"title":
+		{
+			"en":"goSell! by Tap | Accept Payments Online",
+			"ar":"goSell | خدمة قبول الدفع الالكتروني من تاپ"
+		},
+		"description":
+		{
+			"en":"Tap's goSell service is an online payment gateway that allows you to accept major debit & credit card payments; KNET, Visa & MasterCard, on apps & websites",
+			"ar":"هي خدمة تسمح بقبول عمليات الدفع الالكتروني بـ كي نت وفيزا وماستر كارد عن طريق دمج الاضافات المساعدة أو ربط بوابة دفع goSell الكتروني للتطبيقات والمواقع"
+		},
+		"keyWords":{
+			"en":"Tap, goSell, sell, Online, payments, plugin, API, gateway, Integration, e-commerce, kuwait payment gateway, knet Kuwait payment gateway, online payment services",
+			"ar":"تاب , جو سيل , بيع في الكويت , تجارة الكترونية , بوابة دفع الكترونية , بوابة دفع في الكويت , خدمة الدفع كينت , كي نت , دفع كي نت , ووردبريس , اوبن كارت , متجر الكتروني , طلبات عبر الانترنت"
+		}
+	},
+	{
+		"pageTemplate":"productPage",
+		"link":"/pay",
+		"image":"https://www.tap.company/ogImages/tap.png",
+		"title":
+		{
+			"en":"goPay! by Tap | Bill Payments To-do List App",
+			"ar":"goPay! | كل مدفوعاتك في تطبيق واحد من تاپ"
+		},
+		"description":
+		{
+			"en":"goPay is an app that allows you to keep track of your upcoming To-do list of bill payments & check things off your pay list in an easy, quick & secure way",
+			"ar":"تطبيق يمكنك من تنظيم ومتابعة مدفوعاتك ومستحقاتك الشهرية وترتيب أولوياتك ودفع أكثر من فاتورة في الوقت نفسه بطريقة سهلة goPay وسريعة وآمنة"
+		},
+		"keyWords":{
+			"en":"Tap , goPay , Tap payments , Payments kuwait , mobile payments , pay bills , pay invoice , pay online , ooredoo bill , zain bill , viva bill , itunes card , xbox card , internet kuwait , mobile pay , prepaid cards , netflix kuwait , pay by visa , pay by mastercard , knet ,online payment services",
+			"ar":"تاب , جوتاب , تاب للدفع , مدفوعات الكويت , دفع من الموبايل , دفع فاتورة , دفع الفواتير , دفع اونلاين , فاتورة اوريدو , فاتورة زين , دفع فواتير زين , دفع فواتير فيفا , دفع فاتورة التليفون, دفع فاتورة الكهرباء , ادفعلي , الانترنت في الكويت , دفع فاتورة الموبايل , كروت مسبقة الدفع , دفع من ايفون , دفع مخالفات المرور الكويت , كي نت الكويت , كي نت فيفا , كي نت الوطنيه , فيزا , ماستركارد , امريكان اكسبرس"
+		}
+	},
+	{
+		"pageTemplate":"productPage",
+		"link":"/tap",
+		"image":"https://www.tap.company/ogImages/tap.png",
+		"title":
+		{
+			"en":"goTap! by Tap | Accept any Payment Anywhere",
+			"ar":"goTap! | استقبل المدفوعات من أي مكان من تاپ"
+		},
+		"description":
+		{
+			"en":"If you’re running around your retail store or if you’re a regular at all the local expos, now you can accept any payment, anywhere by facilitating portable K-NET and credit card payment for your customers on the fly.",
+			"ar":"رحب بأحدث التقنيات للمبيعات مع goTap ! الآن يمكنك قبول أي دفع من عملائك في أي مكان من خلال تفعيل خدمتنا المتنقلة لمدفوعات ال K-NETوبطاقات الائتمان."
+		},
+		"keyWords":{
+			"en":"Tap , goTap , Tap payments , Payments kuwait , POS , kuwait , NFC , Near-Field-Communication , pay by visa , pay by mastercard , knet ,online payment services",
+			"ar":"تاب , جوباي , تاب للدفع , مدفوعات الكويت , دفع من الموبايل , دفع فاتورة , دفع الفواتير , دفع اونلاين , فاتورة اوريدو , فاتورة زين , دفع فواتير زين , دفع فواتير فيفا , دفع فاتورة التليفون, دفع فاتورة الكهرباء , ادفعلي , الانترنت في الكويت , دفع فاتورة الموبايل , كروت مسبقة الدفع , دفع من ايفون , دفع مخالفات المرور الكويت , كي نت الكويت , كي نت فيفا , كي نت الوطنيه , فيزا , ماستركارد , امريكان اكسبرس"
+		}
+	},
+	{
+		"pageTemplate": "productPageWithPartner",
+		"link":"/collect/boubyan",
+		"partner":"Boubyan",
+		"image":"https://www.tap.company/ogImages/tap.png",
+		"title":
+		{
+			"en":"goCollect! by Tap | Create & Send Invoices Easily with Boubyan bank",
+			"ar":"من تاپ goCollect! | خدمة إرسال و تحصيل الفواتير مع بنك بوبيان"
+		},
+		"description":
+		{
+			"en":"..........",
+			"ar":".........."
+		},
+		"keyWords":{
+			"en":"..........",
+			"ar":".........."
+		}
+	},
+	{
+		"pageTemplate": "mainPageWithPartner",
+		"link":"/boubyan",
+		"partner":"Boubyan",
+		"image":"https://www.tap.company/ogImages/tap.png",
+		"title":
+		{
+			"en":"Tap | Boubyan bank",
+			"ar":"تاب | بنك بوبيان"
+		},
+		"description":
+		{
+			"en":"..........",
+			"ar":".........."
+		},
+		"keyWords":{
+			"en":"..........",
+			"ar":".........."
+		}
+	},
+	{
+		"pageTemplate": "mainPageWithPartner",
+		"link":"/nbk",
+		"partner":"nbk",
+		"image":"https://www.tap.company/ogImages/tap.png",
+		"title":
+		{
+			"en":"Tap | nbk",
+			"ar":"تاب | بنك الكويت الوطني"
+		},
+		"description":
+		{
+			"en":"..........",
+			"ar":".........."
+		},
+		"keyWords":{
+			"en":"..........",
+			"ar":".........."
+		}
+	},
+	{
+		"pageTemplate": "mainPageWithPartner",
+		"link":"/zain",
+		"partner":"zain",
+		"image":"https://www.tap.company/ogImages/tap.png",
+		"title":
+		{
+			"en":"Tap | zain",
+			"ar":"تاب | زين"
+		},
+		"description":
+		{
+			"en":"..........",
+			"ar":".........."
+		},
+		"keyWords":{
+			"en":"..........",
+			"ar":".........."
+		}
+	},
+	{
+		"pageTemplate": "productPageWithPartner",
+		"link":"/collect/nbk",
+		"partner":"NBK",
+		"image":"https://www.tap.company/ogImages/tap.png",
+		"title":
+		{
+			"en":"goCollect! by Tap | Create & Send Invoices Easily with NBK",
+			"ar":"من تاپ goCollect! | خدمة إرسال و تحصيل الفواتير مع بنك الكويت الوطني"
+		},
+		"description":
+		{
+			"en":"..........",
+			"ar":".........."
+		},
+		"keyWords":{
+			"en":"..........",
+			"ar":".........."
+		}
+	},
+	{
+		"pageTemplate": "productPageWithPartner",
+		"link":"/collect/zain",
+		"partner":"Zain",
+		"image":"https://www.tap.company/ogImages/tap.png",
+		"title":
+		{
+			"en":"goCollect! by Tap | Create & Send Invoices Easily with Zain",
+			"ar":"من تاپ goCollect! | خدمة إرسال و تحصيل الفواتير مع زين"
+		},
+		"description":
+		{
+			"en":"..........",
+			"ar":".........."
+		},
+		"keyWords":{
+			"en":"..........",
+			"ar":".........."
+		}
+	},
+	{
+		"pageTemplate": "api",
+		"link":"/api",
+		"image":"https://www.tap.company/ogImages/tap.png",
+		"title":
+		{
+			"en":"API Payment Gateway & E-Commerce Plugins | Tap",
+			"ar":"بوابة الدفع الالكتروني من تاپ للمطورين | API"
+		},
+		"description":
+		{
+			"en":"Tap provides API Documentation & E-Commerce Plugins allowing developers to integrate card payment acceptance of KNET, Visa, & MasterCard on apps & websites",
+			"ar":"من تاپ للمطورين لتمكنهم من دمج بوابة دفع الكتروني وإضافات لمنصات التجارة الالكترونية لقبول عمليات الدفع بـ كي نت وفيزا API وماستركارد للتطبيقات والمواقع"
+		},
+		"keyWords":{
+			"en":"Tap, API, Payment Gateway, E-commerce plugins, knet payment gateway, integration, api , Tap Payments, Payment, kuwait payment gateway, knet, integration, ecommerce gateway, wordpress gateway, Shopify gateway, Magento gateway, Opencart , WooCommerce gateway",
+			"ar":"بوابة دفع الكترونية , حلول الدفع , الدفع في الكويت , دمج بوابة دفع , قبول الدفع اونلاين , حلول الدفع للمنصات الالكترونية , بوابة دفع في الكويت"
+		}
+	},
+	{
+		"pageTemplate": "support",
+		"link":"/support",
+		"image":"https://www.tap.company/ogImages/tap.png",
+		"title":
+		{
+			"en":"Tap | Support",
+			"ar":"تاب | دعم"
+		},
+		"description":
+		{
+			"en":"Your comments, suggestions, or concerns matter to us and our team is here to listen, assist and enhance the Tap experience.",
+			"ar":"تعليقاتكم، اقتراحات، أو اهتمامتكم تعني لنا الكثير وفريقنا دائما هنا للاستماع إليكم والمساعدة والإجابة على استفساراتكم لتعزيز تجربتكم مع تاب."
+		},
+		"keyWords":{
+			"en":"support, contact us, assist, answer, question, help",
+			"ar":"دعم، مساعدة، تواصل معنا، خدمة العملاء، جواب، أسئلة، استفسار"
+		}
+	},
+	{
+		"pageTemplate": "jobs",
+		"link":"/jobs",
+		"image":"https://www.tap.company/ogImages/tap.png",
+		"title":
+		{
+			"en":"Tap | Jobs",
+			"ar":"تاپ | وظائف"
+		},
+		"description":
+		{
+			"en":"Join the Tap Team and explore new ways to connect with the world refining the way payments should be and work on making Tap the greatest payment tool.",
+			"ar":"انضم لفريق تاب واستكشف طرق جديدة للتواصل مع العالم وتعرف على ما يجب أن تكون عليه طرق الدفع الإلكتروني الحديثة واعمل على جعل تاب أفضل وسيلة دفع."
+		},
+		"keyWords":{
+			"en":"job opportunities kuwait, Tap careers",
+			"ar":"فرص عمل في الكويت، وظائف تاب"
+		}
+	},
+	{
+		"pageTemplate": "about",
+		"link":"/about",
+		"image":"https://www.tap.company/ogImages/tap.png",
+		"title":
+		{
+			"en":"Tap | Our Story",
+			"ar":"تاپ | قصتنا"
+		},
+		"description":
+		{
+			"en":"Tap is on a mission to help businesses grow with financial solutions billing systems, payment gateways, simplifying online and mobile payments.",
+			"ar":"تاب مهمتها هي مساعدة الشركات على النمو من خلال توفير حلول مالية مثل نظام الفوترة وبوابة الدفع، وتبسيط عمليات الدفع عبر الهاتف والانترنت للتجار والمستهلكين."
+		},
+		"keyWords":{
+			"en":"Secure payment gateway Kuwait",
+			"ar":"حلول بوابة الدفع الإلكتروني دفع آمن"
+		}
+	},
+	{
+		"pageTemplate": "developers",
+		"link":"/developers",
+		"image":"https://www.tap.company/ogImages/tap.png",
+		"title":
+		{
+			"en":"Tap | Developers",
+			"ar":"تاپ | للمطورين"
+		},
+		"description":
+		{
+			"en":"Integrate Tap's payment gatway on your website or app",
+			"ar":"قم بدمج بوابة الدفهع الإلكتروني من تاب على موقعك الإلكتروني أو تطبيقك"
+		},
+		"keyWords":{
+			"en":"app, website, application, api, payment gateway, Tap payments",
+			"ar":"موقع إلكتروني، تطبيق هاتف، بوابة دفع إلكتروني، تاب"
+		}
+	},
+	{
+		"pageTemplate": "mainPage",
+		"link":"/",
+		"image":"https://www.tap.company/ogImages/tap.png",
+		"title":
+		{
+			"en":"Tap | Online Payment Services",
+			"ar":"تاپ | خدمات الدفع الإلكتروني"
+		},
+		"description":
+		{
+			"en":"Tap Payments simplifies online payment & acceptance for businesses with an easy, quick & secure experience for people paying on websites & apps.",
+			"ar":"تاب تسهل طرق الدفع والتحصيل للشركات التجارية عبر الانترنت بطريقة سهلة، سريعة وآمنة للمستخدمين على التطبيقات و المواقع الالكترونية."
+		},
+		"keyWords":{
+			"en":"online payments, sms payments, mastercard, visa, knet, hesabe, edfa3ly, myfatoorah, payment gateway",
+			"ar":"تاب , تاب للدفع , تاب الكويت، تحصيل، دفع اونلاين، فيزا، ماستر، دفع، حسابي، كي_نت، ادفع_اونلاين، الدفع من الموبايل"
+		}
+	}
+]

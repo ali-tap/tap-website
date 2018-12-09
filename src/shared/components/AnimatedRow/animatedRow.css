@@ -1,0 +1,70 @@
+
+.animatedRow{
+    /* display: flex; */
+    margin: auto;
+}
+
+.animatedDiv {
+  display: inline-block;
+  vertical-align: top;
+}
+
+
+.animateFromTop {
+    position: relative;
+    -webkit-animation-name: bottom; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 0.5s; /* Safari 4.0 - 8.0 */
+    animation-name: bottom;
+    animation-duration: 0.5s;
+}
+
+.animationNotStarted{
+  opacity: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .noSpaceBetweenRowsOnMobile{
+    height: 0px !important;
+  }
+  .fullWidthOnMobile{
+    width: 100% !important;
+    margin-bottom: 40px !important;
+  }
+  .fullWidthOnMobile:last-child{
+    margin-bottom: 5px !important;
+  }
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes bottom  {
+    0%   {opacity:0; bottom:100px; }
+    100% {opacity:1;  bottom:0px; }
+}
+
+/* Standard syntax */
+@keyframes bottom  {
+    0%   {opacity:0; bottom:100px; }
+    100% {opacity:1;  bottom:0px; }
+}
+
+/*********************************************************************/
+
+.animateFromButtom {
+    position: relative;
+    -webkit-animation-name: top; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 0.5s; /* Safari 4.0 - 8.0 */
+    animation-name: top;
+    animation-duration: 0.5s;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes top {
+    0%   {opacity:0; top: 100px; }
+    100% {opacity:1;  top: 0px; }
+}
+
+/* Standard syntax */
+@keyframes top  {
+    0%   {opacity:0; top: 100px; }
+    100% {opacity:1;  top : 0px; }
+}

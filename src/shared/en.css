@@ -1,0 +1,19 @@
+@font-face{
+    font-family: "Muli-ExtraLight";
+    src: url('Muli-ExtraLight.ttf'),
+    url('Muli-ExtraLight.eot'); 
+}
+
+@font-face{
+    font-family: "Muli-Light";
+    src: url('Muli-Light.ttf'),
+    url('Muli-Light.eot');
+}
+
+*{
+  font-family: 'Muli-ExtraLight';
+}
+
+b{
+  font-family: 'Muli-Light','Muli-ExtraLight';	
+}

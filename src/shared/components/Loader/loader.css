@@ -1,0 +1,43 @@
+.loaderImage {
+    width: 80px;
+    height: 80px;
+    margin:  auto;
+}
+
+.loaderContainer {
+    background-color: #fff;
+    opacity: 0.7;
+    height: 100%;
+    width:  100%;
+    top: 0;
+    left:  0;
+    position:  absolute;
+    display: flex;
+    -webkit-transition: 200ms;
+    -moz-transition: 200ms;
+    -o-transition: 200ms;
+    transition: 200ms;
+}
+
+.fadeoutanimation {
+    position: relative;
+    -webkit-animation-name: fadeoutanimation; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 0.5s; /* Safari 4.0 - 8.0 */
+    /* -webkit-animation-delay: 0.4s; */
+    animation-name: fadeoutanimation;
+    animation-duration: 0.5s;
+    /* animation-delay: 0.4s; */
+    /*opacity: 0;*/
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes fadeoutanimation {
+    0%   {opacity:1; }
+    100% {opacity:0; }
+}
+
+/* Standard syntax */
+@keyframes fadeoutanimation {
+    0%   {opacity:1; }
+    100% {opacity:0; }
+}

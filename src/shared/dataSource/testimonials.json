@@ -1,0 +1,305 @@
+[
+  {
+    "product":"collect",
+    "title":{
+      "en":"Our Community",
+      "ar":"مجتمعنا"
+      },
+      "testimonials":[
+      {
+        "testimonialImage": "https://www.tap.company/kw/wp-content/uploads/sites/38/2015/11/testimonials-goCollect-qoutmarket1-150x150.jpg",
+        "qoute":
+        {
+          "en":"Tap has made our lives easier! From the great around the clock customer service to creating products that fit our sometimes unconventional needs.",
+          "ar":"تاپ جعلت حياتنا أسهل! خدمة على مدار الساعة لتقديم منتجات توائم احتياجاتنا الغير تقليدية"
+        },
+        "name":
+        {
+          "en": "Noaf & Budour",
+          "ar": "نوف وبدور"
+        },
+        "role":
+        {
+          "en": "Founders",
+          "ar": "مؤسسين"
+        },
+        "businessName":
+        {
+          "en": "Qout Market",
+          "ar": "قوت ماركت"
+        }
+      },
+      {
+        "testimonialImage": "https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/testimonials-goCollect-yalwaBW-150x150.jpg",
+        "qoute":
+        {
+          "en":"Perfect payment solutions for our brides are just a click away!",
+          "ar":"حل الدفع الأمثل لعروساتنا على بعد ضغطة واحدة! "
+        },
+        "name":
+        {
+          "en": "Aroob Al Abdaly",
+          "ar": "عروب العبدلي"
+        },
+        "role":
+        {
+          "en": "Managing Partner",
+          "ar": "شريك إداري"
+        },
+        "businessName":
+        {
+          "en": "Yalwah",
+          "ar": "يلوه"
+        }
+      },
+      {
+        "testimonialImage": "https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/testimonials-goCollect-Niu-150x150.jpg",
+        "qoute":
+        {
+          "en":"We admire Tap’s dedication to start-ups & their great customer service.",
+          "ar":"نحن نحب إخلاص تاپ للشركات الناشئة وخدمة الزبائن الرائعة التي يقدمونها"
+        },
+        "name":
+        {
+          "en": "Haytham Al-Hawaj",
+          "ar": "هيثم الحواج"
+        },
+        "role":
+        {
+          "en": "Founder",
+          "ar": "مؤسس"
+        },
+        "businessName":
+        {
+          "en": "NIU",
+          "ar": "نيو"
+        }
+      },
+      {
+        "testimonialImage": "https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/testimonials-goSell-protegesBW2-150x150.jpg",
+        "qoute":
+        {
+          "en":"Tap provided one of the best customer service experience I have come across in Kuwait.",
+          "ar":"تاپ قد وفر أفضل تجربة خدمة زبائن قد رأيتها في الكويت!"
+        },
+        "name":
+        {
+          "en": "Ahmad Salamah",
+          "ar": "إيمان الرشيد"
+        },
+        "role":
+        {
+          "en": "Deputy General Manager",
+          "ar": "نائب المدير العام"
+        },
+        "businessName":
+        {
+          "en": "The Proteges",
+          "ar": "ذا بروتيجز"
+        }
+      }
+    ]
+  },
+  {
+    "product":"sell",
+    "title":{
+      "en":"Our Community",
+      "ar":"مجتمعنا"
+      },
+      "testimonials":[
+      {
+        "testimonialImage": "https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/testimonial-bilbaytBW-150x150.jpg",
+        "qoute":
+        {
+          "en":"Tap has truly enabled Bilbayt.com to serve it’s customer base effectively while also delivering the excellent user experience and interface we were searching for.",
+          "ar":"ا ب ت"
+        },
+        "name":
+        {
+          "en": "Ahmad Salamah",
+          "ar":"ا ب ت"
+        },
+        "role":
+        {
+          "en": "Co-founder & CEO",
+          "ar":"ا ب ت"
+        },
+        "businessName":
+        {
+          "en": "Bilbayt.com",
+          "ar":"ا ب ت"
+        }
+      },
+      {
+        "testimonialImage": "https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/testimonials-goSell-Nuqat-150x150.jpg",
+        "qoute":
+        {
+          "en": "Tap has untapped the potential of our website through a well streamlined payment process!",
+          "ar":"ا ب ت"
+        },
+        "name":
+        {
+          "en":  "Hussa Al Humaidhi",
+          "ar":"ا ب ت"
+        },
+        "role":
+        {
+          "en": "Founding Member",
+          "ar":"ا ب ت"
+        },
+        "businessName":
+        {
+          "en":"Nuqat",
+          "ar":"ا ب ت"
+        }
+      },
+      {
+        "testimonialImage": "https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/testimonial-goSell-openSouqBW-150x150.jpg",
+        "qoute":
+        {
+          "en":"We at OpenSooq.com are very happy with Tap, it proved to be a very reliable payment partner for us and our users love it!",
+          "ar":"ا ب ت"
+        },
+        "name":
+        {
+          "en":"Anas Elayyan",
+          "ar":"ا ب ت"
+        },
+        "role":
+        {
+          "en":  "Head of Business Development",
+          "ar":"ا ب ت"
+        },
+        "businessName":
+        {
+          "en":"OpenSooq.com",
+          "ar":"ا ب ت"
+        }
+      },
+      {
+        "testimonialImage": "https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/test-goSell-SirdabLabBW-150x150.jpg",
+        "qoute":
+        {
+          "en":"Tap made it easy for us to set up a payment portal and accept payments quickly. It’s a wonderful service for budding businesses.",
+          "ar":"ا ب ت"
+        },
+        "name":
+        {
+          "en":"Haider Al Mosawi",
+          "ar":"ا ب ت"
+        },
+        "role":
+        {
+          "en": "Learning & Laughter Officer",
+          "ar":"ا ب ت"
+        },
+        "businessName":
+        {
+          "en":"Sirdab Lab",
+          "ar":"ا ب ت"
+        }
+      }
+    ]
+  },
+  {
+    "product":"tap",
+    "title":{
+      "en":"Our Community",
+      "ar":"مجتمعنا"
+      },
+      "testimonials":[
+      {
+        "testimonialImage": "https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/testimonial-bilbaytBW-150x150.jpg",
+        "qoute":
+        {
+          "en":"Tap has truly enabled Bilbayt.com to serve it’s customer base effectively while also delivering the excellent user experience and interface we were searching for.",
+          "ar":"ا ب ت"
+        },
+        "name":
+        {
+          "en": "Ahmad Salamah",
+          "ar":"ا ب ت"
+        },
+        "role":
+        {
+          "en": "Co-founder & CEO",
+          "ar":"ا ب ت"
+        },
+        "businessName":
+        {
+          "en": "Bilbayt.com",
+          "ar":"ا ب ت"
+        }
+      },
+      {
+        "testimonialImage": "https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/testimonials-goSell-Nuqat-150x150.jpg",
+        "qoute":
+        {
+          "en": "Tap has untapped the potential of our website through a well streamlined payment process!",
+          "ar":"ا ب ت"
+        },
+        "name":
+        {
+          "en":  "Hussa Al Humaidhi",
+          "ar":"ا ب ت"
+        },
+        "role":
+        {
+          "en": "Founding Member",
+          "ar":"ا ب ت"
+        },
+        "businessName":
+        {
+          "en":"Nuqat",
+          "ar":"ا ب ت"
+        }
+      },
+      {
+        "testimonialImage": "https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/testimonial-goSell-openSouqBW-150x150.jpg",
+        "qoute":
+        {
+          "en":"We at OpenSooq.com are very happy with Tap, it proved to be a very reliable payment partner for us and our users love it!",
+          "ar":"ا ب ت"
+        },
+        "name":
+        {
+          "en":"Anas Elayyan",
+          "ar":"ا ب ت"
+        },
+        "role":
+        {
+          "en":  "Head of Business Development",
+          "ar":"ا ب ت"
+        },
+        "businessName":
+        {
+          "en":"OpenSooq.com",
+          "ar":"ا ب ت"
+        }
+      },
+      {
+        "testimonialImage": "https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/test-goSell-SirdabLabBW-150x150.jpg",
+        "qoute":
+        {
+          "en":"Tap made it easy for us to set up a payment portal and accept payments quickly. It’s a wonderful service for budding businesses.",
+          "ar":"ا ب ت"
+        },
+        "name":
+        {
+          "en":"Haider Al Mosawi",
+          "ar":"ا ب ت"
+        },
+        "role":
+        {
+          "en": "Learning & Laughter Officer",
+          "ar":"ا ب ت"
+        },
+        "businessName":
+        {
+          "en":"Sirdab Lab",
+          "ar":"ا ب ت"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+	"pay":
+	[
+		{
+			"title":
+			{
+				"en":"List",
+				"ar":"القائمة"
+			},
+			"subtitle":
+			{
+				"en":"Flow Through Your Finances.",
+				"ar":"راقب مصاريفك"
+			},
+			"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/icon-list.png",
+			"description":
+			{
+				"en":"Simply enter your relevant information upon access and let goPay take it from there! goPay will instantly retrieve all your connected payments and bills, and automatically prioritize them for you in a clear list format. No stress, no clutter, no confusion. Just focus, clarity, and instant peace of mind. Yeah–just like that.",
+				"ar":"سيقوم goPay باسترجاع جميع فواتيرك ومدفوعاتك المتعلّقة بها وينظمها تبعاً للأولوية في قائمة واضحة وسهلة الاستخدام. لا مكان للقلق أو الفوضى أو التوتر. بل للتركيز، الوضوح، السرعة وراحة البال. تماماً.."
+			},
+			"image":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/multiple-payments-1-277x505.png"
+		},
+		{
+			"title":
+			{
+				"en":"Multiple Payments",
+				"ar":"الدفع لأكثر من جهة"
+			},
+			"subtitle":
+			{
+				"en":"All Together, All At Once.",
+				"ar":"عدّة فواتير. بلمسة واحدة"
+			},
+			"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/icon-multi-payment.png",
+			"description":
+			{
+				"en":"You can now pay for things like your bills, your subscriptions, and your iTunes cards all together, all at once. So while the rest of the world is busy hopping from site to site trying to figure out all their different payments at the same time, you’ll be taking it easy. Because with goPay, life is good.",
+				"ar":"يمكنك الآن تسديد فواتيرك، أو اشتراكاتك أو بطاقاتك من متجر iTunes بلمسة واحدة. وفّر على نفسك عناء التنقّل من موقع إلكتروني إلى آخر وإدخال بياناتك لتسديد مستحقاتك… ودع ذلك للآخرين! أمّا أنت فاختر الطريقة الأسهل. goPay خيارك لحياة أفضل."
+			},
+			"image":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/List1-277x505.png"
+		},
+		{
+			"title":
+			{
+				"en":"Notifications",
+				"ar":"الإشعارات"
+			},
+			"subtitle":
+			{
+				"en":"Never Fall Behind",
+				"ar":"لا تنس مواعيد فواتيرك"
+			},
+			"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/icon-notification.png",
+			"description":
+			{
+				"en":"Whenever an upcoming payment due date comes up on your calendar, goPay sends you a speedy little notification to remind you to take care of it in case you forgot. Because when life’s too busy to remember all the big stuff, goPay remembers them for you. (You can take the credit though—we won’t tell.)",
+				"ar":"عند حلول موعد استحقاق أي من فواتيرك، سيقوم goPay بإرسال إشعار سريع لتذكيرك بتسديدها. عندما تنشغل بأمور الحياة و تصبح غير قادر على تذكّر كل الأشياء المهمة، يقوم goPay بتذكّرها عنك (وهذا هو السر الذي لن يعرفه أحد سوى أنت)."
+			},
+			"image":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/Notifications1-277x505.png"
+		},
+		{
+			"title":
+			{
+				"en":"Scan",
+				"ar":"مسح البطاقة"
+			},
+			"subtitle":
+			{
+				"en":"Heavy-Duty Protection. Guaranteed.",
+				"ar":"حماية مضمونة"
+			},
+			"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/icon-scan.png",
+			"description":
+			{
+				"en":"With goPay’s scan feature, check out just got a whole lot faster! What used to take several minutes now takes only a few seconds. Just place your card in front of your phone’s camera, and goPay’s engine will instantly recognize and input the information for you. Because you’re cool and snazzy like that.",
+				"ar":"مع ميّزة المسح، جميع إجراءاتك أصبحت أسهل وأسرع! فأي عملية كانت تحتاج إلى عدّة دقائق أصبحت تتم بلحظات معدودة. فقط ضع بطاقتك أمام كاميرا الهاتف، وسيقوم محرّك goPay بالتعرّف إليها وعرض البيانات المتعلّقة بشأنها كل ذلك لأنّنا نفهم مزاجك!"
+			},
+			"image":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/scan-without-hand-277x505.png"
+		}
+	],

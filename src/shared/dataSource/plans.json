@@ -1,0 +1,705 @@
+
+{
+  "plans":[
+    {
+      "planName":"Start",
+    	"planIcon":"https://www.tap.company/wp-content/uploads/2018/10/Plans-Start-01.svg"
+    },
+    {
+      "planName":"Basic",
+    	"planIcon":"https://www.tap.company/wp-content/uploads/2018/10/Plans-Basic-02.svg"
+    },
+    {
+      "planName":"Advanced",
+    	"planIcon":"https://www.tap.company/wp-content/uploads/2018/10/Plans-Advanced-03.svg"
+    },
+    {
+      "planName":"Pro",
+    	"planIcon":"https://www.tap.company/wp-content/uploads/2018/10/Plans-Pro-04.svg"
+    }
+  ],
+  "showMoreButtonText":"show more",
+  "showLessButtonText":"show less",
+  "subscribeButtonText":"Subscribe Now",
+  "planPricing":[
+      {
+        "priceType":"monthly",
+        "PriceTitle":{
+          "Start":"Free",
+          "Basic":"KD 15.00 /month",
+          "Advanced":"KD 25.00 /month",
+          "Pro":"KD 50.00 /month"
+        },
+        "priceDescription":{
+          "Start":"0",
+          "Basic":"KD 180.00 billed yearly",
+          "Advanced":"KD 300.00 billed yearly",
+          "Pro":"KD 600.00 billed yearly"
+        }
+      },
+      {
+        "priceType":"annually",
+        "PriceTitle":{
+          "Start":"Free",
+          "Basic":"KD 150.00 /year",
+          "Advanced":"KD 250.00 /year",
+          "Pro":"KD 500.00 /year"
+        },
+        "priceDescription":{
+          "Start":"0",
+          "Basic":"2 months complimentary",
+          "Advanced":"2 months complimentary",
+          "Pro":"2 months complimentary"
+        }
+      }
+  ],
+	"planFeatures":[
+		{
+      "mainFeature":"true",
+			"featureName":"Bills",
+      "featureValue":{
+        "Start":"30",
+        "Basic":"150",
+        "Advanced":"500",
+        "Pro":"1,000"
+      },
+      "featureSubValue":{
+        "Start":"Bills per Month\n\n150 Fils\non Additional Bills",
+        "Basic":"Bills per Month\n\n150 Fils\non Additional Bills",
+        "Advanced":"Bills per Month\n\n150 Fils\non Additional Bills",
+        "Pro":"Bills per Month\n\n150 Fils\non Additional Bills"
+      }
+		},
+		{
+      "mainFeature":"true",
+			"featureName":"Users",
+      "featureValue":{
+        "Start":"1",
+        "Basic":"5",
+        "Advanced":"10",
+        "Pro":"25"
+      },
+      "featureSubValue":{
+        "Start":"Users\n\nKD 3.000\nAdditional User / Month",
+        "Basic":"Users\n\nKD 3.000\nAdditional User / Month",
+        "Advanced":"Users\n\nKD 3.000\nAdditional User / Month",
+        "Pro":"Users\n\nKD 3.000\nAdditional User / Month"
+      }
+		},
+		{
+			"featureName":"Payments",
+      "featureValue":{
+        "Start":"",
+        "Basic":"",
+        "Advanced":"",
+        "Pro":""
+      },
+			"subFeatures":
+			[
+				{
+					"featureName":"Local Debit Cards",
+          "featureValue":{
+            "Start":"2.75%",
+            "Basic":"2.50%",
+            "Advanced":"2.25%",
+            "Pro":"2.00%"
+          },
+          "featureSubValue":{
+            "Start":"plus 100 Fils",
+            "Basic":"plus 100 Fils",
+            "Advanced":"plus 100 Fils",
+            "Pro":"plus 100 Fils"
+          }
+				},
+        {
+					"featureName":"Local Credit Cards",
+          "featureValue":{
+            "Start":"3.75%",
+            "Basic":"3.50%",
+            "Advanced":"3.25%",
+            "Pro":"3.00%"
+          },
+          "featureSubValue":{
+            "Start":"plus 100 Fils",
+            "Basic":"plus 100 Fils",
+            "Advanced":"plus 100 Fils",
+            "Pro":"plus 100 Fils"
+          }
+				},
+				{
+					"featureName":"Regional Cards",
+          "featureValue":{
+            "Start":"3.75%",
+            "Basic":"3.50%",
+            "Advanced":"3.25%",
+            "Pro":"3.00%"
+          },
+          "featureSubValue":{
+            "Start":"plus 100 Fils",
+            "Basic":"plus 100 Fils",
+            "Advanced":"plus 100 Fils",
+            "Pro":"plus 100 Fils"
+          }
+				},
+				{
+					"featureName":"Global Cards",
+					"featureValue":{
+            "Start":"4.75%",
+            "Basic":"4.50%",
+            "Advanced":"4.25%",
+            "Pro":"4.00%"
+          },
+          "featureSubValue":{
+            "Start":"plus 100 Fils",
+            "Basic":"plus 100 Fils",
+            "Advanced":"plus 100 Fils",
+            "Pro":"plus 100 Fils"
+          }
+				}
+			]
+		},
+		{
+			"featureName":"Send Bills",
+      "featureValue":{
+        "Start":"",
+        "Basic":"",
+        "Advanced":"",
+        "Pro":""
+      },
+			"subFeatures":
+			[
+				{
+					"featureName":"Share a Bill",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Discounts",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Select from Contacts",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Copy a Bill’s Link",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Send Bills Abroad",
+          "featureValue":{
+            "Start":"false",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Multi-Currency",
+          "featureValue":{
+            "Start":"false",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Bill Breakdown",
+          "featureValue":{
+            "Start":"false",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Save a Bill",
+          "featureValue":{
+            "Start":"false",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Schedule a Bill",
+          "featureValue":{
+            "Start":"false",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Repeat a Bill",
+          "featureValue":{
+            "Start":"false",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				}
+			]
+		},
+		{
+			"featureName":"Manage Bills",
+      "featureValue":{
+        "Start":"",
+        "Basic":"",
+        "Advanced":"",
+        "Pro":""
+      },
+			"subFeatures":
+			[
+				{
+					"featureName":"Pending Bills",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Tracking Bills",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Duplicate a Bill",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Send Reminders",
+          "featureValue":{
+            "Start":"3",
+            "Basic":"Unlimited",
+            "Advanced":"Unlimited",
+            "Pro":"Unlimited"
+          }
+				},
+				{
+					"featureName":"My Payments",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Receipts",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Cancel a Bill",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Refund a Bill",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Search",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"View a Bill",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				}
+			]
+		},
+		{
+			"featureName":"Items",
+      "featureValue":{
+        "Start":"",
+        "Basic":"",
+        "Advanced":"",
+        "Pro":""
+      },
+			"subFeatures":
+			[
+				{
+					"featureName":"Saved Items",
+          "featureValue":{
+            "Start":"5",
+            "Basic":"Unlimited",
+            "Advanced":"Unlimited",
+            "Pro":"Unlimited"
+          }
+				},
+				{
+					"featureName":"Inventory",
+          "featureValue":{
+            "Start":"false",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				}
+			]
+		},
+		{
+			"featureName":"App Features",
+      "featureValue":{
+        "Start":"",
+        "Basic":"",
+        "Advanced":"",
+        "Pro":""
+      },
+			"subFeatures":
+			[
+				{
+					"featureName":"Dashboard",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Quick Actions",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Instagram Integration",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Touch ID",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+        {
+					"featureName":"Face ID",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"In App Chat",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Multiple Account Sign-In",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Account Settings",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				}
+			]
+		},
+		{
+			"featureName":"Security",
+      "featureValue":{
+        "Start":"",
+        "Basic":"",
+        "Advanced":"",
+        "Pro":""
+      },
+			"subFeatures":
+			[
+				{
+					"featureName":"Risk",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Protection",
+          "featureValue":{
+            "Start":"true",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				}
+			]
+		},
+		{
+			"featureName":"API Integration",
+      "featureValue":{
+        "Start":"",
+        "Basic":"",
+        "Advanced":"",
+        "Pro":""
+      },
+			"subFeatures":
+			[
+				{
+					"featureName":"Send a Bill",
+          "featureValue":{
+            "Start":"false",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Check a Bill",
+          "featureValue":{
+            "Start":"false",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				},
+				{
+					"featureName":"Check on a List of Bills",
+          "featureValue":{
+            "Start":"false",
+            "Basic":"true",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				}
+			]
+		},
+		{
+			"featureName":"Support",
+      "featureValue":{
+        "Start":"",
+        "Basic":"",
+        "Advanced":"",
+        "Pro":""
+      },
+      "subFeatures":
+			[
+				{
+					"featureName":"Online Chat",
+          "featureValue":{
+            "Start":"Within 24 hours",
+            "Basic":"Within 3 hours",
+            "Advanced":"Wtihin 1 hour",
+            "Pro":"Instant"
+          },
+          "featureSubValue":{
+            "Start":"Response Time ",
+            "Basic":"Response Time",
+            "Advanced":"Response Time",
+            "Pro":"Response Time"
+          }
+				},
+        {
+					"featureName":"Phone",
+          "featureValue":{
+            "Start":"-",
+            "Basic":"9am to 6pm",
+            "Advanced":"9am to 12pm",
+            "Pro":"24 Hours"
+          }
+				},
+        {
+					"featureName":"Dedicated Officer",
+          "featureValue":{
+            "Start":"-",
+            "Basic":"-",
+            "Advanced":"true",
+            "Pro":"true"
+          }
+				}
+      ]
+		},
+    {
+			"featureName":"Settlement",
+      "featureValue":{
+        "Start":"",
+        "Basic":"",
+        "Advanced":"",
+        "Pro":""
+      },
+			"subFeatures":
+			[
+				{
+					"featureName":"Local Debit Cards",
+          "featureValue":{
+            "Start":"3 Days",
+            "Basic":"3 Days",
+            "Advanced":"3 Days",
+            "Pro":"3 Days"
+          }
+				},
+        {
+					"featureName":"Local Credit Cards",
+          "featureValue":{
+            "Start":"5 Days",
+            "Basic":"5 Days",
+            "Advanced":"5 Days",
+            "Pro":"5 Days"
+          }
+				},
+				{
+					"featureName":"Regional Cards",
+          "featureValue":{
+            "Start":"5 Days",
+            "Basic":"5 Days",
+            "Advanced":"5 Days",
+            "Pro":"5 Days"
+          }
+				},
+				{
+					"featureName":"Global Cards",
+          "featureValue":{
+            "Start":"5 Days",
+            "Basic":"5 Days",
+            "Advanced":"5 Days",
+            "Pro":"5 Days"
+          }
+				}
+			]
+		},
+		{
+			"featureName":"Refunds",
+      "featureValue":{
+        "Start":"",
+        "Basic":"",
+        "Advanced":"",
+        "Pro":""
+      },
+			"subFeatures":
+			[
+				{
+					"featureName":"Local Debit Cards",
+          "featureValue":{
+            "Start":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)",
+            "Basic":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)",
+            "Advanced":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)",
+            "Pro":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)"
+          }
+				},
+        {
+					"featureName":"Local Credit Cards",
+          "featureValue":{
+            "Start":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)",
+            "Basic":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)",
+            "Advanced":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)",
+            "Pro":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)"
+          }
+				},
+				{
+					"featureName":"Regional Cards",
+          "featureValue":{
+            "Start":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)",
+            "Basic":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)",
+            "Advanced":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)",
+            "Pro":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)"
+          }
+				},
+				{
+					"featureName":"Global Cards",
+          "featureValue":{
+            "Start":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)",
+            "Basic":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)",
+            "Advanced":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)",
+            "Pro":"Refund Fee(s)\nare equivalent to\nTransaction Fee(s)"
+          }
+				}
+			]
+		},
+		{
+			"featureName":"Commitment",
+      "featureValue":{
+        "Start":"12 Months",
+        "Basic":"12 Months",
+        "Advanced":"12 Months",
+        "Pro":"12 Months"
+      },
+      "featureSubValue":{
+        "Start":"No financial commitment during the commitment period even with any cancellation prior to the end of the commited period",
+        "Basic":"No financial commitment during the commitment period even with any cancellation prior to the end of the commited period",
+        "Advanced":"No financial commitment during the commitment period even with any cancellation prior to the end of the commited period",
+        "Pro":"No financial commitment during the commitment period even with any cancellation prior to the end of the commited period"
+      }
+		}
+	]
+}

@@ -1,0 +1,28 @@
+@font-face{
+    font-family: 'circe';
+    src: url('./CRC25.otf'),
+    url('./CRC25.otf');
+}
+
+.notFound{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: -webkit-fill-available;
+  align-items: center;
+}
+
+.notFoundContent{
+}
+
+.notFoundTitle{
+  font-size: 120px;
+  font-family: 'circe'
+}
+.notFoundImage{
+  width: 360px;
+}
+.notFoundParagraph{
+  font-size: 25px;
+  font-family: 'circe'
+}

@@ -1,0 +1,132 @@
+[
+	{
+		"product":"collect",
+		"slot":"collect",
+		"brandingColor":"#ff0031",
+		"bannerImage":"https://www.tap.company/bh/wp-content/uploads/2017/03/gocollect-en-video.png",
+		"videoLink":"https://player.vimeo.com/video/211170801?autoplay=0&byline=0&portrait=0&color=cccccc",
+		"subImage":"https://www.tap.company/wp-content/uploads/2016/10/sub-image-goCollect-smaller.jpg",
+		"countries":["kw","om","eg","qa","ae","sa","bh","jo","lb"],
+		"subPages":[
+			{
+		    "page":"activate",
+		    "slot":"activate"
+		  },
+		  {
+		    "page":"plans",
+		    "slot":"plans"
+		  }
+		],
+		"block":
+		{
+			"title":"gocollect",
+			"subtitle":
+			{
+				"en":"send bills",
+				"ar":"إرسال الفواتير"
+			},
+			"image":"https://www.tap.company/wp-content/uploads/2018/09/goCollect.png",
+			"hoverImage":"https://www.tap.company/wp-content/uploads/2018/09/goCollect.png"
+		},
+		"intro":
+		{
+			"en":"At Tap, we understand that not all businesses are online businesses. Sometimes, you just need the ease of online processing, to streamline your offline business activities. Activities like payment, billing, and collection. That’s what goCollect— Tap’s fully functional payment collection service—was built and made for. It’s all the functionality of online payment, built for offline businesses.",
+			"ar":"نحن في تاپ، ندرك جيّداً أن ليس جميع الأعمال مرتبطة بشبكة الإنترنت وأنّك تحتاج أن ترتاح بعض الشيء من العمليات الإلكترونية للتركيز على أمور أخرى خارج الشبكة مثل نشاطات الدفع، الفوترة والتحصيل، لذلك قدّمنا لك goCollect_ وهي خدمة إرسال الفواتير وتحصيل المدفوعات الشاملة من تاپ التي أنشئت لهذا السبب بالتحديد. إنّها ببساطة خدمة غير إلكترونية ولكن بسهولة وسرعة خدمات الإنترنت التي تتم أونلاين."
+		}
+	},
+	{
+		"product":"sell",
+		"slot":"sell",
+		"brandingColor":"#00aff0",
+		"bannerImage":"https://www.tap.company/bh/wp-content/uploads/2017/03/goSell-accept-payments-online.png",
+		"subImage":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/gosell-sub-image2.png",
+		"countries":["kw","om","eg","qa","ae","sa","bh","jo","lb"],
+		"subPages":[
+			{
+		    "page":"activate",
+		    "slot":"activate"
+		  },
+		  {
+		    "page":"plans",
+		    "slot":"plans"
+		  }
+		],
+		"block":
+		{
+			"title":"gosell",
+			"subtitle":
+			{
+				"en":"accept online payments",
+				"ar":"استقبال المدفوعات الإلكترونية"
+			},
+			"image":"https://www.tap.company/wp-content/uploads/2018/09/goSell.png",
+			"hoverImage":"https://www.tap.company/wp-content/uploads/2018/09/goSell.png"
+		},
+		"intro":
+		{
+			"en":"Whether you’re a powerhouse player or a young solo-preneur, if you’re in business you already know the importance of seizing every financial opportunity. You already know that having a solid e-commerce platform is essential to succeeding in 2017. You already know that, in order for you to make money? You’ve got to know the business of money.",
+			"ar":"مهما كانت هويتك أو وظيفتك: المال يبقى المسيطر سواء كنت صاحب شركة أو تعمل منفرداً، أنت تدرك بلا شك أهمية اقتناص الفرص المالية وتعرف جيّداً أن امتلاك قاعدة مالية قوية أمر أساسي لاجتياز عام 2017 بنجاح ولكن كي تعلم ذلك وكي تجني المال، عليك أن تفهم طبيعة العمل في المجال المالي."
+		}
+	},
+	{
+		"product":"tap",
+		"slot":"tap",
+		"brandingColor":"#EF4123",
+		"bannerImage":"https://www.tap.company/wp-content/uploads/2018/09/gotap-devices-english.png",
+		"subImage":"https://www.tap.company/kw/wp-content/uploads/sites/38/2018/02/qout-market-gotap-devie__.png",
+		"countries":["kw"],
+		"subPages":[
+			{
+		    "page":"activate",
+		    "slot":"activate"
+		  },
+		  {
+		    "page":"plans",
+		    "slot":"plans"
+		  }
+		],
+		"block":
+		{
+			"title":"gotap",
+			"subtitle":
+			{
+				"en":"accept instore payments",
+				"ar":"استقبل المدفوعات في المتجر"
+			},
+			"image":"https://www.tap.company/wp-content/uploads/2018/09/goTap1.png",
+			"hoverImage":"https://www.tap.company/wp-content/uploads/2018/09/goTap2.png"
+		},
+		"intro":
+		{
+			"en":"If you’re running around your retail store or if you’re a regular at all the local expos -- we’ve got you. Say hello to your new secret weapon: goTap. Now you can accept any payment, anywhere by facilitating portable K-NET and credit card payment for your customers on the fly -- now that’s a game changer.",
+			"ar":"رحب بأحدث التقنيات للمبيعات مع goTap ! الآن يمكنك قبول أي دفع من عملائك في أي مكان من خلال تفعيل خدمتنا المتنقلة لمدفوعات ال K-NETوبطاقات الائتمان."
+		}
+	},
+	{
+		"product":"pay",
+		"slot":"pay",
+		"brandingColor":"#2ace00",
+		"bannerImage":"https://www.tap.company/bh/wp-content/uploads/2017/04/goTap-eng-video.png",
+		"videoLink":"https://player.vimeo.com/video/146118094?autoplay=0&byline=0&portrait=0&color=cccccc",
+		"subImage":"https://www.tap.company/wp-content/uploads/2015/10/placeit-22-1.jpg",
+		"countries":["kw"],
+		"subPages":[
+		],
+		"block":
+		{
+			"title":"gopay",
+			"subtitle":
+			{
+				"en":"pay bills",
+				"ar":"دفع الفواتير"
+			},
+			"image":"https://www.tap.company/wp-content/uploads/2018/09/goPay.png",
+			"hoverImage":"https://www.tap.company/wp-content/uploads/2018/09/goPay.png"
+		},
+		"intro":
+		{
+			"en":"Check things off your pay list with goPay, the easy, quick and secure way to prioritize and keep track of your upcoming payments. It is easy to use, and designed to be easy on the eyes too. It’ll help you pay your bills (such as mobile bill payments and top-ups), and remind you with notifications so you always pay on time. You can even pay for more than one bill, all at once.",
+			"ar":"goPay يمنحك حلاً سهلاً وبسيطاً لتنظيم مدفوعاتك الشهرية وترتيب أولوياتك ومتابعة مستحقاتك الشهرية دون أي جهد أو عناء. سدّد أكثر من فاتورة في الوقت نفسه واستلم إشعارات بموعد استحقاقها."
+		}
+	}
+]

@@ -1,0 +1,22 @@
+
+.fade {
+    position: relative;
+    -webkit-animation-name: fade; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 0.3s; /* Safari 4.0 - 8.0 */
+    animation-name: fade;
+    animation-duration: 0.3s;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes fade {
+    0%   {opacity:0; }
+    100% {opacity:1; }
+}
+
+/* Standard syntax */
+@keyframes fade {
+    0%   {opacity:0; }
+    100% {opacity:1; }
+}
+
+

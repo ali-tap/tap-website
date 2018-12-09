@@ -1,0 +1,71 @@
+.tapFeatureIconDiv
+{
+  display: inline-block;
+  width: 250px;
+}
+
+.tapFeatureParagraph
+{
+  display: inline-block;
+  width: calc(100% - 250px);
+}
+
+.tapFeatureIcon
+{
+  vertical-align: top;
+  width: 60px;
+  height: 60px;
+}
+
+.tapFeatureTitle
+{
+  margin: 10px 20px;
+}
+
+.tapFeatureIcon,.tapFeatureTitle
+{
+  display: inline-block;
+  float: left;
+}
+
+.tapFeatureParagraphWithIcon{
+  text-align: left;
+}
+
+[dir=rtl] .tapFeatureParagraphWithIcon{
+  text-align: right;
+}
+
+[dir=rtl] .tapFeatureIcon,[dir=rtl] .tapFeatureTitle
+{
+  float: right;
+}
+
+.tapFeatureSubtitleLink{
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -o-transition: 300ms;
+  transition: 300ms;
+}
+
+.tapFeatureLink{
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -o-transition: 300ms;
+  transition: 300ms;
+}
+
+.tapFeatureLink:hover{
+  color: #000;
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 767px) {
+  .tapFeatureIconDiv,.tapFeatureParagraph
+  {
+    width: 100%;
+  }
+  .tapFeatureParagraph{
+    margin-top: 10px;
+  }
+}

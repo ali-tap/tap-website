@@ -1,0 +1,604 @@
+	[
+		{
+			"categoryName":
+			{
+				"en":"Acceptance",
+				"ar":""
+			},
+			"items":
+			[
+				{
+					"title":
+					{
+						"en":"Local, Regional & Global Card Acceptance",
+						"ar":"كل بطاقات الدفع مقبولة"
+					},
+					"subtitle":
+					{
+						"en":"The Benefit of Choices",
+						"ar":"ميّزة الخيارات"
+					},
+					"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-01-300x300.png",
+					"description":
+					{
+						"en":"Through Tap, your customers now have the option of paying with their favorite local card or even with an international credit card. All members of the Tap network can now accept payments through K-Net, Visa, MasterCard & American Express for any of their listed products and services. More options, more happy customers, more profits.",
+						"ar":"عبر تاپ، يمكن لعملائك استخدام أي بطاقة للدفع، سواء كانت بطاقة محلية او بطاقة ائتمانية دولية. يمكن لجميع أعضاء شبكة تاپ الآن قبول المدفوعات عبر كي- نت، ماستر كارد وأميركان إكسبرس لقاء أي منتج أو خدمة. خيارات أكثر، رضا عملاء أكبر، أرباح أوفر."
+					},
+					"image":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goTap-payment-methods.png"
+				},
+				{
+					"title":
+					{
+						"en":"Charge",
+						"ar":"......."
+					},
+					"subtitle":
+					{
+						"en":".......",
+						"ar":"......."
+					},
+					"icon":"........",
+					"description":
+					{
+						"en":"The first and only technology that allows a business to perform an online payment using a single API endpoint action for any type of local, regional or global card payment in the MENA region.",
+						"ar":"......."
+					},
+					"image":"......."
+				},
+				{
+					"title":
+					{
+						"en":"Authorize",
+						"ar":"......."
+					},
+					"subtitle":
+					{
+						"en":".......",
+						"ar":"......."
+					},
+					"icon":"........",
+					"description":
+					{
+						"en":"Take advantage of insuring amount authorizations to block an amount on supported cards to insure higher customer satisfaction while performing online order fulfillment and logistics.",
+						"ar":"......."
+					},
+					"image":"......."
+				},
+				{
+					"title":
+					{
+						"en":"Multi-Currency",
+						"ar":"عملات متعددة"
+					},
+					"subtitle":
+					{
+						"en":".......",
+						"ar":"......."
+					},
+					"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/11/multi-currency-goCollect.png",
+					"description":
+					{
+						"en":"The payment gateways supports multi-currency charging for all GCC currencies plus the Egyptian Pound along with major global currencies such as the USD, Euro & GBP.",
+						"ar":"......."
+					},
+					"image":"......."
+				},
+				{
+					"title":
+					{
+						"en":"Dynamic Currency Converter (DCC)",
+						"ar":"......."
+					},
+					"subtitle":
+					{
+						"en":".......",
+						"ar":"......."
+					},
+					"icon":"........",
+					"description":
+					{
+						"en":"The payment gateways gives the the business and the payer to choose the currency of preference along with the currency conversion rate at the time of the transaction.",
+						"ar":"......."
+					},
+					"image":"......."
+				},
+				{
+					"title":
+					{
+						"en":"Card Saving",
+						"ar":"......."
+					},
+					"subtitle":
+					{
+						"en":".......",
+						"ar":"......."
+					},
+					"icon":"........",
+					"description":
+					{
+						"en":"Give the option for your payers to save their cards and experience a quick, simple yet secure payment checkout experience",
+						"ar":"......."
+					},
+					"image":"......."
+				},
+				{
+					"title":
+					{
+						"en":"Schedule",
+						"ar":"......."
+					},
+					"subtitle":
+					{
+						"en":".......",
+						"ar":"......."
+					},
+					"icon":"........",
+					"description":
+					{
+						"en":"Are you looking to schedule an advance payment? Utilize the option to schedule a payment in advance along with the option to Authorize (Block) the amount of the transaction before capturing it on the scheduled date.",
+						"ar":"......."
+					},
+					"image":"......."
+				},
+				{
+					"title":
+					{
+						"en":"Subscriptions",
+						"ar":"......."
+					},
+					"subtitle":
+					{
+						"en":".......",
+						"ar":"......."
+					},
+					"icon":"........",
+					"description":
+					{
+						"en":"Are you looking for recurring payments for your recurring subscriptions? Take advantage of this feature and provide hassless payment experience for your payers on recurring monthly/yearly payments.",
+						"ar":"......."
+					},
+					"image":"......."
+				}	
+			]
+		},
+		{
+			"categoryName":
+			{
+				"en":"INTEGRATION",
+				"ar":""
+			},
+			"items":
+			[
+				{
+					"title":
+					{
+						"en":"Single API Integration",
+						"ar":"......."
+					},
+					"subtitle":
+					{
+						"en":"For The Advanced Pros",
+						"ar":"للمحترفين"
+					},
+					"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-07-300x300.png",
+					"description":
+					{
+						"en":"If you’re looking for a little more customization on your Tap gateway, your own developer can easily access the API to make all the desired tweaks without a hitch. Our API documentation is simple to integrate and is available in multiple language codes including PHP, JAVA, and .NET.",
+						"ar":"إذا كنت تبحث عن إضفاء لمسة خاصة على حسابك في تاپ يمكن للمطوّر لديك الدخول إلى API لإجراء جميع التعديلات التي ترغب بها وتصميمها وفق رغباتك بسهولة فائقة. ملفات API الخاصة بنا بسيطة جداً ويسهل الإندماج فيها كما أنها متوفّرة بلغات رموز متعدّدة تتضمّن PHP ،JAVA و NET."
+					},
+					"image":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/WI-API4-444x355.png"
+				},
+				{
+					"title":
+					{
+						"en":"Mobile SDK’s",
+						"ar":"......."
+					},
+					"subtitle":
+					{
+						"en":".......",
+						"ar":"......."
+					},
+					"icon":"........",
+					"description":
+					{
+						"en":"Simplify your API integration on iOS & Android apps by adopting Tap’s Mobile SDK’s without the process of API implementation in order to take advantage of various features such as Local, Regional & Global Card Acceptance, Multi-Currency, Dynamic Currency Converter (DCC), Customers, Card Saving, and Subscriptions.",
+						"ar":"......."
+					},
+					"image":"......."
+				},
+				{
+					"title":
+					{
+						"en":"Beginner-Friendly Plugins",
+						"ar":"دمج فوري للمبتدئين"
+					},
+					"subtitle":
+					{
+						"en":"100% Newbie Proofed",
+						"ar":"ابتكار جديد 100%"
+					},
+					"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-06-300x300.png",
+					"description":
+					{
+						"en":"You don’t need to be a computer wizard to connect your website to Tap. An average person can easily activate our single-setup plugin within just a few minutes. Our plugin is 100% compatible with the world’s most popular e-commerce platforms and systems, including WordPress, Magento, OpenCart, PrestaShop, and Shopify. So all you have to worry about is selling awesome products.",
+						"ar":"ليس عليك أن تكون خبيراً في الكومبيوتر كي تصل موقعك الإلكتروني بتطبيق تاپ. فأي شخص عادي يمكنه تفعيل الشراكة بين الجهتين خلال دقائق معدودة. شبكتنا موصوله 100% مع أكبر منصات وبرامج العمليات المالية والتجارية الإلكترونية بما فيها، وورد برس، ماغينتو، أوبن كارت، بريستا شوب وشوبي في. لذا فإنّ كل ما عليك أن تقلق بشأنه هو بيع منتجات رائعة!"
+					},
+					"image":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/WI-plugins2-444x355.png"
+				},
+			]
+
+		},
+		{
+			"categoryName":
+			{
+				"en":"OPERATIONS",
+				"ar":""
+			},
+			"items":
+			[
+				{
+					"title":
+					{
+						"en":"Receipts",
+						"ar":"......."
+					},
+					"subtitle":
+					{
+						"en":".......",
+						"ar":"......."
+					},
+					"icon":"........",
+					"description":
+					{
+						"en":"Businesses have the options to send an email or SMS receipts to their payers after a success payment and have it available in record for historical purposes.",
+						"ar":"......."
+					},
+					"image":"......."
+				},
+				{
+					"title":
+					{
+						"en":"Refunds",
+						"ar":"......."
+					},
+					"subtitle":
+					{
+						"en":".......",
+						"ar":"......."
+					},
+					"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/refund-bill-goCollect.png",
+					"description":
+					{
+						"en":"Refunds have always been tricky business, but with goCollect it's an easy fix. A single click is all it takes. Not only does goCollect help you with the refunding process, but now you also have a detailed picture of all past refunds at a glance.",
+						"ar":"......."
+					},
+					"image":"......."
+				},
+				{
+					"title":
+					{
+						"en":"Customers",
+						"ar":"......."
+					},
+					"subtitle":
+					{
+						"en":".......",
+						"ar":"......."
+					},
+					"icon":"........",
+					"description":
+					{
+						"en":"Businesses have the option to link payments performed by payers under customer accounts for future payment management and support.",
+						"ar":"......."
+					},
+					"image":"......."
+				},
+				{
+					"title":
+					{
+						"en":"Security",
+						"ar":"الحماية والأمان"
+					},
+					"subtitle":
+					{
+						"en":"Protection You Can Trust",
+						"ar":"حماية تثق بها"
+					},
+					"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-08-300x300.png",
+					"description":
+					{
+						"en":"There’s nothing our team takes more seriously than keeping you and your business safe while using Tap. That’s why we’ve outfitted our entire system with banking-industry security levels and encryption protocols, as well as remaining compliant with global PCI DSS security standards. At Tap, we have an unwavering commitment to your peace of mind, and that starts with keeping your business completely safe online. That’s a promise.",
+						"ar":"فريق عملنا يضع في سلّم أولوياته حماية أعمالك عند استخدامك تاپ. لذلك أنشأنا برنامجنا تماماً وفقاً لمعايير السلامة البنكية وبروتوكول الحماية المتعارف عليه كما أننا ندعم معايير السلامة العالمية وفق برنامج PCI DSS. في تاپ، نلتزم براحة بالك ونعرف جيّدا ً أن تحقيق ذلك يبدأ بضمان سلامة أعمالك الإلكترونية وحمايتها. وهذا وعدنا."
+					},
+					"image":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/WI-security2-444x355.png"
+				}
+			]
+		},
+		{
+			"categoryName":
+			{
+				"en":"ACCOUNT",
+				"ar":""
+			},
+			"items":
+			[
+				{
+					"title":
+					{
+						"en":"Flexible Banking Options",
+						"ar":"خيارات بنكية مرنة"
+					},
+					"subtitle":
+					{
+						"en":"Well Connected & Well Served",
+						"ar":"تواصل وخدمة مميّزة"
+					},
+					"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-02-300x300.png",
+					"description":
+					{
+						"en":"Tap is connected with every single bank in Kuwait. That means you can easily link your Tap gateway to your favorite bank account and start receiving payments instantly. You also have total freedom to switch from one bank to another anytime you wish while using Tap. No hold up, no grunt work, and absolutely no obligations.",
+						"ar":"يرتبط تاپ مع جميع البنوك العاملة في الكويت وهذا يعني أنه بإمكانك استخدام تاپ كوسيلة لدخول حسابك المصرفي وتحويل الأموال مباشرة إلى رصيدك. كما يمكنك الانتقال من أي مصرف إلى آخر عبر استخدامك تاپ. لا انتظار، لا عمل مضني ولا التزامات."
+					},
+					"image":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/WI-flex-banking-option7-444x355.png"
+				},
+				{
+					"title":
+					{
+						"en":"Same Day Activation",
+						"ar":"تفعيل في اليوم نفسه"
+					},
+					"subtitle":
+					{
+						"en":"Start Selling Now",
+						"ar":"ابدأ بيع منتجاتك الآن"
+					},
+					"icon":"https://www.tap.company/kw//wp-content/uploads/sites/38/2015/10/goSellColoured-icons-03-300x300.png",
+					"description":
+					{
+						"en":"Set up, connect, and sell in less than 24 hours. Our online registration system smoothly guides you through all the required steps, and helps you get your payment gateway up and running in record time. A little more old-school? No problem. Our team of dedicated onboarding assistants is happy to get on the phone with you and get you activated as soon as possible.",
+						"ar":"أنشىء حسابك، تواصل وابدأ ببيع منتجك خلال 24 ساعة فقط. فبرنامج التسجيل السلس يرشدك إلى إنجاز جميع الخطوات بسهولة وسرعة ويساعدك على الحصول على مستحقاتك المالية في وقت غير مسبوق. تشعر بأن كل ذلك جديد بالنسبة إليك؟ لا تقلق. طاقمنا من المساعدين المكرّس لخدمتك سيسعده التحدث معك وإتمام عملية تفعيل حسابك بأسرع وقت ممكن."
+					},
+					"image":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/WI-activation2-444x355.png"
+				},
+				{
+					"title":
+					{
+						"en":"Statements & Receipts",
+						"ar":"كشف الحساب والإيصالات"
+					},
+					"subtitle":
+					{
+						"en":"Half The Paperwork, Double The Efficiency",
+						"ar":"فعالية أكثر بمعاملات أقل"
+					},
+					"icon":"https://www.tap.company/kw//wp-content/uploads/sites/38/2015/10/goSellColoured-icons-04-300x300.png",
+					"description":
+					{
+						"en":"Tap’s user dashboard gives you full access to your entire transaction history, and provides soft copies of all your receipts for easy printing. Now you can cut down on the paper trail and double up on the productivity. It’s a win-win: for the environment and for your sanity.",
+						"ar":"يمكنك بفضل لوحة التحكم بحسابك الدخول إلى تاريخ العمليات بالكامل والحصول على نسخ إلكترونية من إيصالاتك التي يسهل طباعتها. الآن أصبح بإمكانك توفير الوقت والجهد من المعاملات والأوراق الكثيرة واستبدال ذلك بإنتاجية أكبر. إنّها صفقة رابحة للجميع: لك وللبيئة على السواء."
+					},
+					"image":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/website-illustrations-draft1-444x355.png"
+				},
+				{
+					"title":
+					{
+						"en":"Analytics & History",
+						"ar":"إحصائيات للمبيعات"
+					},
+					"subtitle":
+					{
+						"en":"Data That Matters To Business",
+						"ar":"البيانات التي تفيد أعمالك"
+					},
+					"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-05-300x300.png",
+					"description":
+					{
+						"en":"Tap’s analytics dashboard can tell you what’s driving the most effective sales outcomes for your business and what areas you need to focus on most. We also organize each customer’s payment history for you to review in detail whenever you need it. We’ll bring the tools; you bring the drive.",
+						"ar":"تقدّم لك لوحة التحكم بحساب تاپ تحليلات تخبرك بأكثر العمليات التسويقية تأثيراً لجهة الدخل في السوق وما هي المجالات التي عليك التركيز عليها أكثر. كما ننظم تاريخ دفوعات كل عميل لديك كي تتمكن من الاطلاع عليها بالتفصيل في أي وقت. نحن نؤمّن لك كل الوسائل لتنطلق…وأنت عليك أن تقود."
+					},
+					"image":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/WI-analytics1-444x355.png"
+				},
+				{
+					"title":
+					{
+						"en":"All Businesses Welcome",
+						"ar":"جميع الأعمال التجارية"
+					},
+					"subtitle":
+					{
+						"en":"The big, the small, and the in-between",
+						"ar":"الصغيرة، الكبيرة والمتوسطة"
+					},
+					"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/icon-scan.png",
+					"description":
+					{
+						"en":"At Tap, everyone’s welcome. Our system is built to fit the unique needs and demands of every business, regardless of size or operations. Among our list of favorite Tap users you’ll find mega-giants like OSN, Viva, and Bein Sports, right alongside some awesome home businesses and SMEs like Khaleejesque Magazine, The Walk In Closet, and Cake District. Ready to jump on-board?",
+						"ar":"أهلاً بالجميع في تاپ. برنامجنا مصمم ليلائم احتياجات ومتطلبات جميع الشركات بغض النظر عن حجم المؤسسة وطبيعة عملها. ستجد ضمن قائمة عملائنا المفضّلين OSN ،VIVA ،Bein Sports إلى جانب العديد من المؤسسات المنزلية الصغيرة والمجلات أو المطبوعات الإلكترونية مثال مجلة Khaleejesque ،The WalK In Closet و Cake District. مستعد للإنضمام إلينا؟"
+					},
+					"image":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/WI-business3-444x355.png"
+				},
+				{
+					"title":
+					{
+						"en":"Dedicated Support",
+						"ar":"دعم مخصّص"
+					},
+					"subtitle":
+					{
+						"en":"Questions? Don’t Be Shy",
+						"ar":"لديك أسئلة؟ لا تتردّد"
+					},
+					"icon":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/goSellColoured-icons-10-300x300.png",
+					"description":
+					{
+						"en":"Whether it’s set-up, integration, or follow-through—if you’ve ever got a problem, you can count on Tap for the solution. We do our best to make sure that you can keep working at your best. As your dedicated support team, we’re always here for you—just try us.",
+						"ar":"سواء أردت إنشاء حساب، دمج أو متابعة حسابك – أو واجهتك أي مشكلة يمكنك الاعتماد علينا، فنحن في تاپ نقدّم لكل مشكلة حل لنضمن استمرارية عملك بأفضل حال. طاقمنا المكرّس لخدمتك مستعد دائماً لمساعدتك. جرّبنا."
+					},
+					"image":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/WI-support2-444x355.png"
+				},
+				{
+					"title":
+					{
+						"en":"Multiple User Accounts",
+						"ar":"........"
+					},
+					"subtitle":
+					{
+						"en":"........",
+						"ar":"........"
+					},
+					"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/Multi-account-300x300.png",
+					"description":
+					{
+						"en":"Give access for multiple users and allow your team to perform their payment activities separately while an admin user has a complete overview on all the users.",
+						"ar":"........"
+					},
+					"image":"........."
+				}
+			]
+		},
+		{
+			"categoryName":
+			{
+				"en":"PROTECT",
+				"ar":""
+			},
+			"items":
+			[
+				{
+					"title":
+					{
+						"en":"Risk",
+						"ar":"........"
+					},
+					"subtitle":
+					{
+						"en":"......",
+						"ar":"......"
+					},
+					"icon":"......",
+					"description":
+					{
+						"en":"Our robust solution detects all the necessary risk measures while performing a transactions and provides the level of risk for every transactions on any sales channel whether on mobile, tablet or PC. The risk detection intelligence tool involves based on the behavior of the business.",
+						"ar":"........"
+					},
+					"image":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/WI-flex-banking-option7-444x355.png"
+				},
+				{
+					"title":
+					{
+						"en":"Protection",
+						"ar":"........"
+					},
+					"subtitle":
+					{
+						"en":"......",
+						"ar":"......"
+					},
+					"icon":".......",
+					"description":
+					{
+						"en":"In addition to risk detection, the solution has the option to process risk-free transactions and prevent payments that cross the permitted risk levels by a business. This may also includes a specialized team from Tap that assist the business in protecting itself from cyber payment fraud.",
+						"ar":"......."
+					},
+					"image":"https://www.tap.company/kw/wp-content/uploads/sites/38/2015/10/WI-activation2-444x355.png"
+				},
+				{
+					"title":
+					{
+						"en":"Authentication",
+						"ar":"........"
+					},
+					"subtitle":
+					{
+						"en":".......",
+						"ar":"......."
+					},
+					"icon":".......",
+					"description":
+					{
+						"en":"Customer identity is important to validate specific types of transactions that are associated with higher risk, therefore payments that require cross checks with the customer’s ID is possible through our Authentication process that protects from potential fraud. ",
+						"ar":"يمكنك بفضل لوحة التحكم بحسابك الدخول إلى تاريخ العمليات بالكامل والحصول على نسخ إلكترونية من إيصالاتك التي يسهل طباعتها. الآن أصبح بإمكانك توفير الوقت والجهد من المعاملات والأوراق الكثيرة واستبدال ذلك بإنتاجية أكبر. إنّها صفقة رابحة للجميع: لك وللبيئة على السواء."
+					},
+					"image":"......."
+				},
+				{
+					"title":
+					{
+						"en":"Card",
+						"ar":"......."
+					},
+					"subtitle":
+					{
+						"en":".......",
+						"ar":"......."
+					},
+					"icon":".......",
+					"description":
+					{
+						"en":"Managing risk may extend to different type of s cards as people are exposed to theft and fraud, therefore card risk activity becomes essential to manage trusted sources of funds via cards issued locally, regionally and globally including debit, credit, prepaid and charge cards plus wallets.",
+						"ar":"........."
+					},
+					"image":"......."
+				},
+				{
+					"title":
+					{
+						"en":"Product",
+						"ar":"جميع الأعمال التجارية"
+					},
+					"subtitle":
+					{
+						"en":"The big, the small, and the in-between",
+						"ar":"الصغيرة، الكبيرة والمتوسطة"
+					},
+					"icon":"https://www.tap.company/wp-content/uploads/sites/38/2015/10/icon-scan.png",
+					"description":
+					{
+						"en":"Additional measures of risk are associated with intangible items and financial instruments, whereas payments options are automatically enabled and based on the type of products and related sales behavior within the business.",
+						"ar":"........"
+					},
+					"image":"..........."
+				},
+				{
+					"title":
+					{
+						"en":"IP Address",
+						"ar":"......."
+					},
+					"subtitle":
+					{
+						"en":".......",
+						"ar":"......."
+					},
+					"icon":"........",
+					"description":
+					{
+						"en":"All transactions are channel through IP addresses, and as a business you may permit the sales channels of your choice according to the location of your customers.",
+						"ar":"........"
+					},
+					"image":"..........."
+				},
+				{
+					"title":
+					{
+						"en":"Billing Address",
+						"ar":"........"
+					},
+					"subtitle":
+					{
+						"en":"........",
+						"ar":"........"
+					},
+					"icon":"........",
+					"description":
+					{
+						"en":"Have the option to reduce risk but requiring billing address verification associated with the customer’s card. This feature is available to cardholders in specific regions such as the US.",
+						"ar":"........"
+					},
+					"image":"........."
+				}
+			]
+		}
+	]

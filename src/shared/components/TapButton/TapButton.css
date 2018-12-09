@@ -1,0 +1,101 @@
+
+.tapButton{
+	width: 240px;
+	height: 46px;
+	display: inline-block;
+	border:none;
+	border-radius: 5px;
+	cursor: pointer;
+	text-align: center;
+	vertical-align: top;
+    -webkit-transition: 0.2s;
+    -webkit-transition:  0.2s;
+    -o-transition:  0.2s;
+    transition: 0.2s;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.tapButton.bordered.general{
+	color: #4b4847;
+	border: 2px solid #4b4847;
+}
+
+.tapButton.bordered.general:hover{
+	color: #fff;
+	background-color: #4b4847;
+}
+
+
+a.tapButton{
+	line-height: 38px;
+}
+
+a.tapButton:hover{
+	text-decoration: none;
+}
+
+.tapButton.bordered{
+	border: 2px solid #fff;
+	background-color: transparent;
+	color: #fff;
+}
+
+.tapButton.bordered:hover{
+	background-color: #fff;
+	color: #4b4847;
+}
+
+.tapButton.bordered.collect:hover{
+	color: #ff0031;
+}
+
+.tapButton.bordered.sell:hover{
+	color: #00aff0;
+}
+
+.tapButton.bordered.pay:hover{
+	color: #2ace00;
+}
+
+.tapButton.bordered.api:hover{
+	color: #fffc00;
+}
+
+.tapButton.bordered.tap:hover{
+	color: #EF4123;
+}
+
+.fa-spinner {
+		-webkit-animation: rotation 2s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+		from {
+				-webkit-transform: rotate(0deg);
+		}
+		to {
+				-webkit-transform: rotate(359deg);
+		}
+}
+
+.buttonIconSpace{
+	display: inline-block;
+	width: 10px;
+}
+
+@media screen and (max-width: 1200px) {
+    .tapButton{
+        width: 215px;
+    }
+	.buttonIconSpace{
+		/*width: 5px;*/
+	}
+}
+
+@media screen and (max-width: 992px) {
+    .tapButton{
+		width: 240px;
+    }
+}
+

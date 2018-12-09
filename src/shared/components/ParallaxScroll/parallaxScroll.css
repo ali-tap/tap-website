@@ -1,0 +1,48 @@
+
+.parallaxScroll{
+  height: 350px;
+  overflow: hidden;
+  position: relative;
+}
+
+.parallaxScrollBackground{
+  background-size: cover;
+  height: 150%;
+  pointer-events: none;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  background-attachment: scroll;
+  background-color: transparent;
+  background-size: cover;
+  background-position: 50% 0;
+}
+
+.parallaxScrollContentBox{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items :center;
+}
+.parallaxScrollContent{
+  width: 100%;
+  margin: 10%;
+  padding: 5% 10%;}
+
+.parallaxScrollContent.withContentBackground{
+  background-color: #ffffffb5;
+}
+
+/* .parallaxScroll{
+  height: 350px;
+  overflow: hidden;
+}
+
+.parallaxScrollBackground{
+  height: 150%;
+  background-size: cover;
+
+} */

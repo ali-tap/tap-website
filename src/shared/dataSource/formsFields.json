@@ -1,0 +1,185 @@
+[
+  {
+    "key":"contactus",
+    "template_id":"contact_us",
+    "title":{
+      "en":"Get in Touch",
+      "ar":"تواصل معنا"
+    },
+    "requiredText":{
+      "en":"(required)",
+      "ar":"(مطلوب)"
+    },
+    "fields":[
+          {
+            "type":"input",
+            "fieldkey":"name",
+            "title":{
+              "en":"Your Name",
+              "ar":"الاسم"
+            },
+            "required": true
+          },
+          {
+            "type":"input",
+            "fieldkey":"email_address",
+            "title":{
+              "en":"Your Email",
+              "ar":"بريدك الإلكتروني"
+            },
+            "required": true
+          },
+          {
+            "type":"input",
+            "fieldkey":"phone_number",
+            "title":{
+              "en":"Phone Number",
+              "ar":"رقم الهاتف"
+            },
+            "required": false
+          },
+          {
+            "type":"select",
+            "fieldkey":"product_name",
+            "title":{
+              "en":"Product Name",
+              "ar":"اسم المنتج"
+            },
+            "options":[
+              {
+                "optionValue":
+                {
+                  "en":"goPay",
+                  "ar":"goPay"
+                }
+              },
+              {
+                "optionValue":
+                {
+                  "en":"goSell",
+                  "ar":"goSell"
+                }
+              },
+              {
+                "optionValue":
+                {
+                  "en":"goCollect",
+                  "ar":"goCollect"
+                }
+              },
+              {
+                "optionValue":
+                {
+                  "en":"goTap",
+                  "ar":"goTap"
+                }
+              },
+              {
+                "optionValue":
+                {
+                  "en":"API",
+                  "ar":"API"
+                }
+              }
+            ],
+            "required": false
+          },
+          {
+            "type":"input",
+            "fieldkey":"subject",
+            "title":{
+              "en":"Subject",
+              "ar":"الموضوع"
+            },
+            "required": false
+          },
+          {
+            "type":"textArea",
+            "fieldkey":"message",
+            "title":{
+              "en":"Write your message..",
+              "ar":"نص الرسالة ..."
+            },
+            "required": false
+          }
+    ],
+    "buttonText":
+    {
+      "en":"Send",
+      "ar":"إرسال"
+    }
+  },
+  {
+    "key":"applyforajob",
+    "template_id":"apply_for_a_job",
+    "title":{
+      "en":"Apply for a position now",
+      "ar":"تقدم إلى وظيفة الآن"
+    },
+    "requiredText":{
+      "en":"(required)",
+      "ar":"(مطلوب)"
+    },
+    "fields":[
+          {
+            "type":"input",
+            "fieldkey":"name",
+            "title":{
+              "en":"Your Name",
+              "ar":"الاسم"
+            },
+            "required": true
+          },
+          {
+            "type":"input",
+            "fieldkey":"email_address",
+            "title":{
+              "en":"Your Email",
+              "ar":"بريدك الإلكتروني"
+            },
+            "required": true
+          },
+          {
+            "type":"input",
+            "fieldkey":"phone_number",
+            "title":{
+              "en":"Phone Number",
+              "ar":"رقم الهاتف"
+            },
+            "required": true
+          },
+          {
+            "type":"input",
+            "fieldkey":"applying_for",
+            "title":{
+              "en":"Position Applying for",
+              "ar":"الوظيفة المتقدم لها"
+            },
+            "required": false
+          },
+          {
+            "type":"input",
+            "fieldkey":"linkedin",
+            "title":{
+              "en":"LinkedIn",
+              "ar":"LinkedIn"
+            },
+            "required": false
+          },
+          {
+            "type":"textArea",
+            "fieldkey":"brief",
+            "title":{
+              "en":"Write a brief about you..",
+              "ar":"اكتب لنا نبذة عنك.."
+            },
+            "required": false
+          }
+    ],
+    "buttonText":
+    {
+      "en":"Apply",
+      "ar":"تقدم"
+    }
+  }
+]

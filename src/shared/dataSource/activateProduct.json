@@ -1,0 +1,62 @@
+[
+	{
+		"product":"collect",
+    "color":"#ff0031",
+		"name":"goCollect",
+    "image":"https://www.tap.company/productsIcons/collect-icon.png",
+		"actionType":"sms",
+		"placeholder":
+		{
+			"en":"Mobile Number",
+			"ar":"رقم الهاتف"
+		},
+		"buttonText":
+		{
+			"en":"Send a download link",
+			"ar":"أرسل رابط التحميل"
+		},
+		"linkText":
+		{
+			"en":"Download the app",
+			"ar":"حمّل التطبيق "
+		},
+		"link":{
+			"ios":"https://itunes.apple.com/us/app/gocollect!/id1157951837?ls=1&mt=8",
+			"android":"https://play.google.com/store/apps/details?id=tap.gocollect"
+		}
+	},
+  {
+		"product":"sell",
+    "color":"#00aff0",
+		"name":"goSell",
+    "image":"https://www.tap.company/productsIcons/sell-icon.png",
+		"actionType":"login",
+		"mobileMessage":
+		{
+			"en":"You may login to your account\nfrom a tablet or a PC!",
+			"ar":"يمكنك تسجيل الدخول إلى حسابك\n عن طريق حاسوبك أو جهازك اللوحي"
+		},
+		"buttonText":
+		{
+			"en":"Login",
+			"ar":"دخول"
+		}
+	},
+  {
+		"product":"tap",
+    "color":"#EF4123",
+		"name":"goTap",
+    "image":"https://www.tap.company/productsIcons/tap-icon.png",
+		"actionType":"login",
+		"mobileMessage":
+		{
+			"en":"You may login to your account\nfrom a tablet or a PC!",
+			"ar":"يمكنك تسجيل الدخول إلى حسابك\n عن طريق حاسوبك أو جهازك اللوحي"
+		},
+		"buttonText":
+		{
+			"en":"Login",
+			"ar":"دخول"
+		}
+	}
+]

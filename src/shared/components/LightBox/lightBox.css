@@ -1,0 +1,124 @@
+
+.lightBox {
+    display: flex;
+    top: 0;
+    position: fixed;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    pointer-events: none;
+    height: 100%;
+    background-color: #0000007a;
+    -webkit-transition: 200ms;
+    -moz-transition: 200ms;
+    -o-transition: 200ms;
+    transition: 200ms;
+    z-index: 9999999999;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.lightBox.open{
+  opacity: 1;
+  pointer-events: auto;
+  -webkit-transition: opacity 0.5s;
+	-moz-transition: opacity 0.5s;
+	transition: opacity 0.5s;
+}
+
+.lightBox.open.fullOpacity{
+    opacity:  1;
+}
+
+.lightBox.NoOpacity{
+    display: flex;
+    opacity:  0;
+}
+
+.lightBoxIframe{
+    width: 63%;
+    height: 100%;
+    border: none;
+    margin: auto;
+}
+
+.openLightBox{
+    cursor: pointer;
+}
+
+.closeLightBox {
+    cursor: pointer;
+    position: absolute;
+    right: 15px;
+    top: 5px;
+    font-size: xx-large;
+    color: #fff;
+}
+
+.lightBoxDialog{
+  background-color: #f7f7f7;
+  height: fit-content;
+  width: calc(100% - 50px);
+  padding: 15px 15px;
+  margin: 20px auto;
+  border-radius: 5px;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-transition: 100ms;
+  -moz-transition: 100ms;
+  -o-transition: 100ms;
+  transition: 100ms;
+}
+
+.iconNoneFullScreenMode{
+  display: block;
+}
+.iconOnFullScreenMode{
+  display: none;
+}
+
+.lightBoxDialog>.lightBoxDialogDiv{
+  margin: auto;
+  width:100%;
+}
+
+@media screen and (max-width: 992px) {
+    .lightBoxIframe{
+        width: 90%;
+        height: 100%;
+    }
+    .closeLightBox {
+        right: 20px;
+        top: 0px;
+    }
+
+    .closeLightBox.darkIcon{
+        right: 20px;
+        top: 10px;
+        text-align: right;
+        height: 50px;
+        width: 50px;
+        font-size: x-large;
+        color: gray;
+    }
+    .closeLightBox.darkIcon>i{
+      pointer-events: none;
+    }
+    .lightBoxDialog.fullLightBoxDialog{
+      width: 100% !important;
+      height: 100% !important;
+      padding: 0 !important;
+      border-radius: 0;
+    }
+    .iconOnFullScreenMode{
+      display: block;
+    }
+    .iconNoneFullScreenMode{
+      display:  none;
+    }
+}
+
+@media screen and (max-width: 767px) {
+
+}

@@ -1,0 +1,57 @@
+{
+  "name": "rr-ssr-gists",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack -w & nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "babel": {
+    "presets": [
+      "env",
+      "react"
+    ],
+    "plugins": [
+      "transform-object-rest-spread"
+    ]
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "nodemon": "^1.12.5",
+    "webpack": "^3.10.0",
+    "webpack-node-externals": "^1.6.0"
+  },
+  "dependencies": {
+    "@tap-payments/loader": "^1.0.11",
+    "axios": "^0.18.0",
+    "cors": "^2.8.4",
+    "css-loader": "^1.0.1",
+    "emailjs-com": "^2.2.4",
+    "express": "^4.16.2",
+    "file-loader": "^2.0.0",
+    "google-map-react": "^1.0.9",
+    "headful": "^1.0.3",
+    "isomorphic-fetch": "^2.2.1",
+    "jsdom": "^13.0.0",
+    "mobx": "^4.0.0",
+    "mobx-react": "^5.2.8",
+    "node-fetch": "^2.3.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.3.0",
+    "react-helmet": "^5.2.0",
+    "react-intercom": "^1.0.15",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "react-slick": "^0.23.1",
+    "serialize-javascript": "^1.4.0",
+    "window-or-global": "^1.0.1"
+  }
+}

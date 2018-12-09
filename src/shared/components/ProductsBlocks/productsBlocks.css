@@ -1,0 +1,72 @@
+
+.productsBlocks{
+	background: linear-gradient(to bottom, rgba(252,252,252,1) 0%, rgba(252,252,252,1) 53%, rgba(248,248,248,1) 60%, rgba(227,227,227,1) 100%);
+}
+.productBlock {
+	height:200px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: auto 120px;
+    background-position: center bottom;
+    color: #454545;
+    -webkit-transition: background 0.4s, color 0.4s;
+    -webkit-transition:  background 0.4s, color 0.4s;
+    -o-transition: background 0.4s, color 0.4s;
+    transition: background 0.4s, color 0.4s;
+    border: 1px solid #ffffff96;
+}
+
+
+.productBlock:hover {
+    color: #fff;
+}
+
+.productBlockTitle{
+	margin-top: 10px;
+}
+
+.blockTitle{
+	margin: 0;
+}
+
+.blockSubtitle {
+    margin-top: -5px;
+}
+
+@font-face{
+    font-family: 'circe';
+    src: url('CRC25.otf'),
+    url('CRC25.otf');
+}
+
+@font-face{
+    font-family: 'circe_IE'; src: url('CRC25.eot');
+}
+
+.circe{
+    font-family: 'circe','Muli-ExtraLight';
+}
+
+@media screen and (max-width: 992px) {
+	/* .productBlock.halfWidth {
+		width :50% !important;
+	}
+	.productBlock.fullWidth{
+		width :100% !important;
+	} */
+	.productBlock{
+		width :50% !important;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.productBlock{
+		width :100% !important;
+	}
+    .productsBlocks{
+        padding-top: 52px;
+    }
+    .productBlock {
+        color: #fff;
+    }
+}

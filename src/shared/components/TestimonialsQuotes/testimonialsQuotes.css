@@ -1,0 +1,80 @@
+.testimonialsQuotes{
+	display: flex;
+}
+
+.TestimonialQuote{
+	display: inline-block;
+	vertical-align: top;
+	margin: 0px 5px;
+	-webkit-transition: opacity 0.7s;
+     -moz-transition: opacity 0.7s;
+      -ms-transition: opacity 0.7s;
+       -o-transition: opacity 0.7s;
+          transition: opacity 0.7s;
+}
+
+.hiddenTestimonialQuote{
+	opacity:0;
+}
+
+.shownTestimonialQuote{
+	opacity: 1;
+  /* animation-duration: 0.5s; */
+}
+
+.circleImage.circleImageSmallSize{
+	width: 40%;
+}
+
+.circleImage.circleImageNormalSize{
+	width: 60%;
+}
+
+.circleImage{
+	border-radius: 50%;
+	height: auto;
+	-webkit-transition: width 0.4s;
+     -moz-transition: width 0.4s;
+      -ms-transition: width 0.4s;
+       -o-transition: width 0.4s;
+          transition: width 0.4s;
+}
+
+.quotationsMarks{
+	font-size: medium;
+	quotes: "'" "'";
+	margin: 0;
+	font-style: italic;
+}
+
+.quoterName{
+	font-size: medium;
+	font-weight: bold;
+	margin: 0;
+}
+
+.quoterRole{
+	font-size: medium;
+	margin: 0;
+}
+
+
+.quoterBusName{
+	font-size: medium;
+	font-weight: bold;
+	margin: 0;
+}
+
+@media screen and (max-width: 767px) {
+	.TestimonialQuote{
+		width :100% !important;
+		margin-bottom: 40px;
+	}
+	.testimonialsQuotes{
+		display: block;
+	}
+	.circleImage.circleImageNormalSize{
+		width: 150px;
+		height: 150px;
+	}
+}

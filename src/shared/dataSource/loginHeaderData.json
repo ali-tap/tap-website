@@ -1,0 +1,43 @@
+{
+	"inputsPlaceholders":[
+			{
+				"type":"email",
+				"placeholder":
+				{
+					"en":"Email Address",
+					"ar":"البريد الإلكتروني"
+				}
+			},
+			{
+				"type":"password",
+				"placeholder":{
+					"en":"Password",
+					"ar":"رمز المرور"
+				}
+			}
+	],
+	"buttonsTexts":[
+			{
+				"text":{
+					"en":"Sign In",
+					"ar":"دخول"
+				}
+			}
+	],
+	"links":[
+		{
+			"link":"/forgot-password",
+			"linkText":{
+				"en":"Forgot Password?",
+				"ar":"نسيت رمز المرور؟"				
+			}
+		},
+		{
+			"link":"/register",
+			"linkText":{
+				"en":"Sign Up",
+				"ar":"سجّل"				
+			}
+		}		
+	]
+}

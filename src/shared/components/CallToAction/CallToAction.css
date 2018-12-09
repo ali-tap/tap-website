@@ -1,0 +1,117 @@
+
+.callToAction{
+	color: #fff;
+	text-align: justify;
+	z-index: 2;
+}
+
+.fieldsSpace{
+	width: 15px;
+	display: inline-block;
+}
+
+.callToActionTitle{
+    text-align: initial;
+}
+
+.hidden-xs{
+	flex-direction: column;
+	display: inline-flex !important;
+	width: 100%;
+	/* align-items: center; */
+}
+
+.hidden-sm{
+	display: inline-block !important;
+}
+
+.visible-sm,.visible-xs{
+    display: none !important;
+}
+
+.partnerLogo{
+	height: 50px;
+	width: auto;
+}
+
+.sendSmsForm,.msg{
+	-webkit-transition: opacity 0.7s;
+	-moz-transition: opacity 0.7s;
+	transition: opacity 0.7s;
+}
+
+.msg{
+	margin: 0;
+	height: 46px;
+}
+
+.grayText{
+	color: #828282;
+}
+
+.successMessage{
+	margin-top: -46px;
+}
+
+.validateMsg{
+	margin-top: 15px;
+}
+
+.downloadApp{
+	height: 60px;
+}
+
+.fadeOutItem{
+	opacity: 0;
+	pointer-events: none;
+}
+
+.fadeInItem{
+	opacity: 1;
+	pointer-events: auto;
+}
+
+@media screen and (max-width: 992px) {
+	.callToAction{
+		/*position: absolute;*/
+		text-align: center;
+		/*top: -23%;*/
+	}
+	.callToActionTitle{
+	    text-align: center;
+	}
+	.hidden-sm{
+		display: none !important;
+	}
+	.visible-sm{
+	    display: inline-block !important;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.callToAction {
+		top: -17%;
+	}
+	.callToActionTitle{
+	    text-align: center;
+	}
+	.hidden-xs{
+		display: none !important;
+	}
+	.visible-xs{
+		  flex-direction: column;
+	    display: inline-flex !important;
+			width: 100%;
+			align-items: center;
+	}
+	.partnerLogo{
+		height: 40px;
+		width: auto;
+	}
+
+	.msg{
+		height: 18px;
+		font-size: 14px;
+		margin-top: 7px;
+	}
+}

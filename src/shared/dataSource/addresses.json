@@ -1,0 +1,62 @@
+[
+  {
+    "country_code":"kw",
+    "address":
+    {
+      "addressTitle":{
+        "en":"Tap Payments - Kuwait",
+        "ar":"تاپ للدفع الإلكتروني - الكويت"
+      },
+      "addressDetails":{
+        "en":"8 Mall\nFloor no. 6, Salem Al Mubarak St,\nSalmiya, Kuwait",
+        "ar":"8 Mall\nالدورالسادس، شارع سالم المبارك\nالسالمية، الكويت "
+      }
+    },
+    "phoneNumber":"+965 2292 2822"
+  },
+  {
+    "country_code":"ae",
+    "address":
+    {
+      "addressTitle":{
+        "en":"Tap Payments - Kuwait",
+        "ar":"تاپ للدفع الإلكتروني - الكويت"
+      },
+      "addressDetails":{
+        "en":"8 Mall\nFloor no. 6, Salem Al Mubarak St,\nSalmiya, Kuwait",
+        "ar":"8 Mall\nالدورالسادس، شارع سالم المبارك\nالسالمية، الكويت "
+      }
+    },
+    "phoneNumber":"+965 2292 2822"
+  },
+  {
+    "country_code":"sa",
+    "address":
+    {
+      "addressTitle":{
+        "en":"Tap Payments - Kuwait",
+        "ar":"تاپ للدفع الإلكتروني - الكويت"
+      },
+      "addressDetails":{
+        "en":"8 Mall\nFloor no. 6, Salem Al Mubarak St,\nSalmiya, Kuwait",
+        "ar":"8 Mall\nالدورالسادس، شارع سالم المبارك\nالسالمية، الكويت "
+      }
+    },
+    "phoneNumber":"+965 2292 2822"
+  },
+  {
+    "country_code":"bh",
+    "address":
+    {
+      "addressTitle":{
+        "en":"Tap Payments - Kuwait",
+        "ar":"تاپ للدفع الإلكتروني - الكويت"
+      },
+      "addressDetails":{
+        "en":"8 Mall\nFloor no. 6, Salem Al Mubarak St,\nSalmiya, Kuwait",
+        "ar":"8 Mall\nالدورالسادس، شارع سالم المبارك\nالسالمية، الكويت "
+      }
+    },
+    "phoneNumber":"+965 2292 2822"
+  }
+]

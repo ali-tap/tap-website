@@ -1,0 +1,15 @@
+@media screen and (max-width: 767px) {
+
+  .bottomCallToAction{
+    width: 100% !important;
+    text-align: center !important;
+  }
+
+  .bottomFeaturedImage{
+    display: none !important
+  }
+
+  .bottomCallToActionStrip{
+    padding: 50px 0 60px 0 !important;
+  }
+}

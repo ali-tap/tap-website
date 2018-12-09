@@ -1,0 +1,93 @@
+[
+	{
+		"name":"Boubyan",
+		"slot":"boubyan",
+		"logo":"https://www.tap.company/wp-content/uploads/2018/09/Boubyan-tap-logo-01.svg",
+		"brandingColor":"#ff0031",
+		"paternImage":"https://www.tap.company/wp-content/uploads/2018/09/Boubyan-symbol-01.svg",
+		"countries":["kw"],
+		"products":[
+			{
+				"product":"collect",
+				"slot":"collect"
+			},
+			{
+				"product":"sell",
+				"slot":"sell"
+
+			},
+			{
+				"product":"tap",
+				"slot":"tap"
+			}
+		],
+		"intro":
+		{
+			"en":"Lucky for you, you just got the best of both worlds.",
+			"ar":"ومن حسن الطالع أنك قد حصلت على أفضل المميزات بشأن حليّن مختلفين."
+		},
+		"subIntro":
+		{
+			"en":"Boubyan Bank was established in 2004, and they’ve been re-establishing the way banking in Kuwait works every day since then. Boubyan Bank is all about creating fast, open, and synergistic services that work together seamlessly. At Tap, we believe that’s what every business requires to succeed: a fresh perspective, and an ability to handle every new challenge and opportunity with ease. It’s the perfect banking solution for the up-and-coming makers, doers, and dreamers that use Tap to build their businesses from the ground up every day.",
+			"ar":"أسُس بنك بوبيان فيي عام 2004 وقد أعادوا تأسيس طريقة العمل البنكية في الكويت بشكل مستمر منذ ذلك الوقت. فكل شئي في بنك بوبيان يدور حول الإنشاء السريع والفتح والخدمات المحفزة التي تعمل معا بسلاسة. في شركة تاب نرى أن كل شركة تسعى إلى النجاح تحتاج إلى: منظور جديد وقدرة على التعامل ببساطة مع كل تحدي وفرصة جديدة. فهذا هو الحل البنكي الأمثل أمام أصحاب الأعمال والتنفيذيون والحالمون الصاعدون الذين يستخدمون خدمة تاب كل يوم في بناء أعمالهم التجارية من البداية حتى الإزدهار."
+		}
+	},
+	{
+		"name":"NBK",
+		"slot":"nbk",
+		"logo":"https://www.tap.company/wp-content/uploads/2018/09/NBK-tap-logo-01.svg",
+		"brandingColor":"#1d4d8a",
+		"paternImage":"https://www.tap.company/wp-content/uploads/2018/09/NBK-symbol-01.svg",
+		"countries":["kw"],
+		"products":[
+			{
+				"product":"collect",
+				"videoLink":"https://player.vimeo.com/video/291702528?autoplay=0&byline=0&portrait=0&color=cccccc",
+				"slot":"collect"
+			}
+		],
+		"intro":
+		{
+			"en":"Welcome to the next level of e-commerce.",
+			"ar":"رحّب بمستوى تجارة إلكترونية جديد"
+		},
+		"subIntro":
+		{
+			"en":"In the world of banking, The National Bank of Kuwait needs no introduction. Prided as the gold standard of financial security, versatility, and reliability around the world -- it’s the fullproof banking partner that every ambitious Tap-reneur deserves. Through years of research, we narrowed down a list of all the banking tools and services that our users required in order to meet all their business needs. The result? An exclusive, power-packed mega suite of tools and services from NBK and Tap to take your business from ‘better’ to ‘best.’",
+			"ar":"لا يحتاج بنك الكويت الوطني إلى تعريف في عالم البنوك. فهو يتميز بازدهار المعيار الذهبي مثل الضمان الاجتماعي والبراعة والمصداقية حول العالم -- إنه الشريك البنكي البسيط الذي يستحقه كل رائد طموح في شركة تاب. ومن خلال سنوات من البحث فقد ضيقنا قائمة خاصة بجميع الأدوات والخدمات البنكية التي يطلبها المستخدمون لتلبية احتياجتهم التجارية.  فما هي النتيجة؟ مجموعة ضخمة وحصرية من الأدوات والخدمات التي يقدمها بنك الكويت الوطني وتاب لتحسين تجارتك إلى الأفضل."
+		}
+	},
+	{
+		"name":"Zain",
+		"slot":"zain",
+		"logo":"https://www.tap.company/wp-content/uploads/2018/09/zain-tap-logo-01.svg",
+		"brandingColor":"#1f525f",
+		"paternImage":"https://www.tap.company/wp-content/uploads/2018/09/Zain-pattern-01.svg",
+		"countries":["kw"],
+		"products":[
+			{
+				"product":"collect",
+				"slot":"collect"
+			},
+			{
+				"product":"sell",
+				"slot":"sell"
+
+			},
+			{
+				"product":"tap",
+				"slot":"tap"
+			}
+		],
+		"intro":
+		{
+			"en":"Tap into A Wonderful World.",
+			"ar":"تاب نحو عالم جميل"
+		},
+		"subIntro":
+		{
+			"en":"For over 30 years, Zain has been inspiring people across the Middle East to tap into ‘A Wonderful World.’ It’s a world where communication is clear, connection is instant, and the experience is bold and colorful in every step of the way. At Tap, it’s the kind of world we aspire to create, for ourselves and for our users. That’s why we teamed up with Zain to bring that same level of speed, clarity, and undeniable innovation, exclusively for our Tap-reneurs.",
+			"ar":"ولأكثر من ثلاثين سنة، فإن شركة زين تُلهم الناس عبر الشرق الأوسط 'بالانتقال إلى عالم جميل'. إنه عالم يتميز بوضوح التواصل والاتصال الفوري والخبرة الكبيرة والبهجة في كل خطوة على امتداد الطريق. وفي شركة تاب إنه العالم الذي نتطلع إلي إنشائه لأنفسنا وللمستخدمين. وهذا هو سبب تعاوننا مع شركة زين من أجل تقديم نفس مستوى السرعة والوضوح والإبتكار الذي لا شك فيه المُقتصر على رودا شركة تاب."
+		}
+	}
+]

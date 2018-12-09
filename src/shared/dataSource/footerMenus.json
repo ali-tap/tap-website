@@ -1,0 +1,139 @@
+[
+	{
+		"title":
+		{
+			"en":"For Users",
+			"ar":"للمستخدم"
+		},
+		"items":
+		[
+			{
+				"title":{
+					"en":"Pay",
+					"ar":"دفع"
+				},
+				"link":"/pay"
+			}
+		]
+	},
+	{
+		"title":
+		{
+			"en":"For Business",
+			"ar":"للمتاجر وأصحاب الأعمال"
+		},
+		"items":
+		[
+			{
+				"title":{
+					"en":"Sell",
+					"ar":"بيع"
+				},
+				"link":"/sell"
+			},
+			{
+				"title":{
+					"en":"Collect",
+					"ar":"تحصيل"
+				},
+				"link":"/collect"
+			}
+		]
+	},
+	{
+		"title":
+		{
+			"en":"For Developers",
+			"ar":"للمطورين"
+		},
+		"items":
+		[
+			{
+				"title":{
+					"en":"eCommerce",
+					"ar":"التجارة الالكترونية"
+				},
+				"link":"/api"
+			},
+			{
+				"title":{
+					"en":"Documentation",
+					"ar":"دليل المبرمجين"
+				},
+				"link":"/developers"
+			}
+		]
+	},
+	{
+		"title":
+		{
+			"en":"Help",
+			"ar":"للمساعدة"
+		},
+		"items":
+		[
+			{
+				"title":{
+					"en":"Support",
+					"ar":"إتصل بنا"
+				},
+				"link":"/support"
+			},
+			{
+				"title":{
+					"en":"Knet OTP",
+					"ar":"كي نت رمز الـOTP"
+				},
+				"link":"/knet-otp"
+			}
+		]
+	},
+	{
+		"title":
+		{
+			"en":"About Tap",
+			"ar":"عن تاپ"
+		},
+		"items":
+		[
+			{
+				"title":{
+					"en":"Press Info",
+					"ar":"معلومات صحفية"
+				},
+				"link":"/"
+			},
+			{
+				"title":{
+					"en":"Our Story",
+					"ar":"قصتنا"
+				},
+				"link":"/about"
+			},
+			{
+				"title":{
+					"en":"Jobs",
+					"ar":"التوظيف"
+				},
+				"link":"/jobs"
+			}
+		]
+	},
+	{
+		"title":
+		{
+			"en":"Social Responsibility",
+			"ar":"مسؤولية إجتماعية"
+		},
+		"items":
+		[
+			{
+				"title":{
+					"en":"Ramadan",
+					"ar":"رمضان"
+				},
+				"link":"/ramadan"
+			}
+		]
+	}
+]
